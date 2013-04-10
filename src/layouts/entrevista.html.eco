@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title><%= @document.title %></title>
+  <%- @getBlock('meta').toHTML() %>
+  <%- @getBlock('styles').toHTML() %>
+</head>
+<body>
+  <%- @content %>
+  <%- @getBlock('scripts').toHTML() %>
+</body>
+</html>
