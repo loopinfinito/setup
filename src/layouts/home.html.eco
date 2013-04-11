@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title><%= @document.title %></title>
+  <%- @getBlock('meta').toHTML() %>
+  <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
+</head>
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <h1>setup</h1>
+    </header>
+    <div class="guest">1</div>
+    <div class="guest">2</div>
+    <div class="guest">3</div>
+    <footer class="footer">
+      <nav>
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/sobre">sobre</a></li>
+        </ul>
+      </nav>
+      <p>um projeto <a href="#">loop infinito</a></p>
+    </footer>
+  </div>
+  <%- @content %>
+  <%- @getBlock('scripts').toHTML() %>
+</body>
+</html>
