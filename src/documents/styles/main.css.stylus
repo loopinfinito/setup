@@ -1,5 +1,55 @@
-body
-  background whiteSmoke
+background-color = rgb(4, 34, 37)
+font-color = white
 
-  div
-    color #333
+guest-dimension = 250px
+
+footer-padding = 50px
+
+*
+  padding: 0
+  margin: 0
+
+body
+  background: background-color
+  color: font-color
+
+.wrapper
+  width: guest-dimension * 3
+  margin: auto
+  outline: 1px solid red
+
+.header
+  width: guest-dimension * 1.5
+  height: guest-dimension
+  float: right
+  margin-right: guest-dimension * -0.5
+  background: blue
+
+.guest
+  width: guest-dimension
+  height: guest-dimension
+  float: left
+  background: #666
+  outline: 1px solid white
+
+  &:first-of-type
+    width: guest-dimension * 2
+    height: guest-dimension * 2
+
+.footer
+  clear: both
+
+  nav
+    width: guest-dimension
+    float: left
+    border-right: 1px solid green
+    padding: footer-padding 0
+
+  ul
+    list-style: none
+
+  li
+    display: inline-block
+
+  p
+    padding: footer-padding 0
