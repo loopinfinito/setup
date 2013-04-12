@@ -1,55 +1,71 @@
-background-color = rgb(4, 34, 37)
-font-color = white
+@import font_faces
 
-guest-dimension = 250px
+$background-color = rgb(4, 34, 37)
+$font-color = white
+$fonts-main = 'Adelle Regular'
+$fonts-text = 'Proxima Nova Alt Regular'
+$fonts-heading = 'Adelle Light'
 
-footer-padding = 50px
+$grid-spacing = 1px
+$grid-border = $grid-spacing solid $background-color
+
+$guest-dimension = 250px
+
+$footer-padding = 50px
 
 *
-  padding: 0
-  margin: 0
+  padding 0
+  margin 0
 
 body
-  background: background-color
-  color: font-color
+  background $background-color
+  color $font-color
+  font-family $fonts-main
 
 .wrapper
-  width: guest-dimension * 3
-  margin: auto
-  outline: 1px solid red
+  width ($guest-dimension * 3) + ($grid-spacing * 2)
+  margin auto
 
 .header
-  width: guest-dimension * 1.5
-  height: guest-dimension
-  float: right
-  margin-right: guest-dimension * -0.5
-  background: blue
+  width $guest-dimension * 1.5
+  height $guest-dimension + $grid-spacing
+  float right
+  margin-right -(@width/3)
+  background blue
 
 .guest
-  width: guest-dimension
-  height: guest-dimension
-  float: left
-  background: #666
-  outline: 1px solid white
+  width $guest-dimension
+  height @width
+  float left
+  background #666
+  border-bottom $grid-border
 
   &:first-of-type
-    width: guest-dimension * 2
-    height: guest-dimension * 2
+    width ($guest-dimension * 2) + $grid-spacing
+    height @width
+    border-left none !important
+
+  &:nth-of-type(2)
+    border-bottom $grid-border
+
+  &:nth-of-type(3n+1)
+    border-left $grid-border
+    border-right @border-left
 
 .footer
-  clear: both
+  clear both
 
   nav
-    width: guest-dimension
-    float: left
-    border-right: 1px solid green
-    padding: footer-padding 0
+    width $guest-dimension
+    float left
+    border-right 1px solid green
+    padding $footer-padding 0
 
   ul
-    list-style: none
+    list-style none
 
   li
-    display: inline-block
+    display inline-block
 
   p
-    padding: footer-padding 0
+    padding $footer-padding 0
