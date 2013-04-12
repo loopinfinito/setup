@@ -1,0 +1,135 @@
+@import font_faces
+
+color-blue-dark = #072226
+color-blue = #23435D
+color-yellow-light = #DDCCA9
+color-yellow = #F38825
+color-orange = #EE5100
+
+// fonts-main = 'Adelle Regular'
+fonts-text = 'Proxima Nova Alt Regular'
+fonts-heading = 'Adelle Light'
+
+grid-spacing = 1px
+grid-border = grid-spacing solid color-blue-dark
+
+guest-dimension = 233px
+
+footer-padding = 50px
+footer-line-height = 20px
+
+*
+  padding 0
+  margin 0
+  -webkit-font-smoothing antialiased
+
+body
+  background color-blue-dark
+  color color-yellow-light
+  font-family fonts-heading
+  font-size 16px
+  font-weight 100
+
+a
+  color color-yellow
+  text-decoration none
+
+  &:hover
+    border-bottom 1px solid color-yellow
+
+h1
+  font-weight 100
+  font-size 120px
+  letter-spacing -0.06em
+
+.wrapper
+  width (guest-dimension * 3) + (grid-spacing * 2)
+  margin auto
+
+.header
+  width guest-dimension * 1.5
+  height guest-dimension + grid-spacing
+  float right
+  margin-right -(@width/3)
+  line-height @height
+
+  a
+    color color-orange
+    padding 0 20px
+    margin-left 40px
+
+    &:hover
+      border-bottom none
+      background color-orange
+      color color-blue-dark
+
+    &::selection
+        background transparent
+
+.guests
+  list-style: none
+
+.guest
+  width guest-dimension
+  height guest-dimension
+  display block
+  float left
+  background #666
+  border-bottom grid-border
+
+  &:first-of-type
+    width (guest-dimension * 2) + grid-spacing
+    height @width
+    border-left none !important
+
+  &:nth-of-type(2)
+    border-bottom grid-border
+
+  &:nth-of-type(3n+1)
+    border-left grid-border
+    border-right grid-border
+
+  a
+    width 100%
+    height 100%
+    display block
+    overflow hidden
+    background black
+    border-bottom none
+
+    img
+      width 100%
+      height 100%
+
+.footer
+  clear both
+
+  nav
+    width guest-dimension
+    float left
+    border-right 1px solid color-blue
+    padding footer-padding 0
+
+    ul
+      list-style none
+      text-align center
+
+    li
+      display inline-block
+
+    a
+      font-size 20px
+      line-height footer-line-height
+      margin: 0 15px
+
+  .loop-infinito
+    padding footer-padding
+    float left
+    color color-blue
+    line-height footer-line-height
+
+    a
+      color color-orange
+      opacity 0.8
+      border-color @color
+

@@ -1,18 +1,28 @@
 @font-face{font-family:'Adelle Light';src:url("../fonts/adelle_light-webfont.eot");src:url("../fonts/adelle_light-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_light-webfont.woff") format('woff'),url("../fonts/adelle_light-webfont.ttf") format('truetype'),url("../fonts/adelle_light-webfont.svg#adelle_ltlight") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Adelle Light Italic';src:url("../fonts/adelle_lightitalic-webfont.eot");src:url("../fonts/adelle_lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_lightitalic-webfont.woff") format('woff'),url("../fonts/adelle_lightitalic-webfont.ttf") format('truetype'),url("../fonts/adelle_lightitalic-webfont.svg#adelle_ltlight_italic") format('svg');font-weight:normal;font-style:normal}
-@font-face{font-family:'Adelle Regular';src:url("../fonts/adelle_reg-webfont.eot");src:url("../fonts/adelle_reg-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_reg-webfont.woff") format('woff'),url("../fonts/adelle_reg-webfont.ttf") format('truetype'),url("../fonts/adelle_reg-webfont.svg#adelle_rgregular") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Proxima Nova Alt Bold';src:url("../fonts/proximanovaalt-bold-webfont.eot");src:url("../fonts/proximanovaalt-bold-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/proximanovaalt-bold-webfont.woff") format('woff'),url("../fonts/proximanovaalt-bold-webfont.ttf") format('truetype'),url("../fonts/proximanovaalt-bold-webfont.svg#proxima_nova_alt_rgbold") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Proxima Nova Alt Regular';src:url("../fonts/proximanovaalt-reg-webfont.eot");src:url("../fonts/proximanovaalt-reg-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/proximanovaalt-reg-webfont.woff") format('woff'),url("../fonts/proximanovaalt-reg-webfont.ttf") format('truetype'),url("../fonts/proximanovaalt-reg-webfont.svg#proxima_nova_alt_rgregular") format('svg');font-weight:normal;font-style:normal}
-*{padding:0;margin:0}
-body{background:#042225;color:#fff;font-family:'Adelle Regular'}
-.wrapper{width:752px;margin:auto}
-.header{width:375px;height:251px;float:right;margin-right:-125px;background:#00f}
-.guest{width:250px;height:250px;float:left;background:#666;border-bottom:1px solid #042225;}
-.guest:first-of-type{width:501px;height:501px;border-left:none !important}
-.guest:nth-of-type(2){border-bottom:1px solid #042225}
-.guest:nth-of-type(3n+1){border-left:1px solid #042225;border-right:1px solid #042225}
+*{padding:0;margin:0;-webkit-font-smoothing:antialiased}
+body{background:#072226;color:#ddcca9;font-family:'Adelle Light';font-size:16px;font-weight:100}
+a{color:#f38825;text-decoration:none;}
+a:hover{border-bottom:1px solid #f38825}
+h1{font-weight:100;font-size:120px;letter-spacing:-.06em}
+.wrapper{width:701px;margin:auto}
+.header{width:349.5px;height:234px;float:right;margin-right:-116.5px;line-height:234px;}
+.header a{color:#ee5100;padding:0 20px;margin-left:40px;}
+.header a:hover{border-bottom:none;background:#ee5100;color:#072226}
+.header a::selection{background:transparent}
+.guests{list-style:none}
+.guest{width:233px;height:233px;display:block;float:left;background:#666;border-bottom:1px solid #072226;}
+.guest:first-of-type{width:467px;height:467px;border-left:none !important}
+.guest:nth-of-type(2){border-bottom:1px solid #072226}
+.guest:nth-of-type(3n+1){border-left:1px solid #072226;border-right:1px solid #072226}
+.guest a{width:100%;height:100%;display:block;overflow:hidden;background:#000;border-bottom:none;}
+.guest a img{width:100%;height:100%}
 .footer{clear:both;}
-.footer nav{width:250px;float:left;border-right:1px solid #008000;padding:50px 0}
-.footer ul{list-style:none}
-.footer li{display:inline-block}
-.footer p{padding:50px 0}
+.footer nav{width:233px;float:left;border-right:1px solid #23435d;padding:50px 0;}
+.footer nav ul{list-style:none;text-align:center}
+.footer nav li{display:inline-block}
+.footer nav a{font-size:20px;line-height:20px;margin:0 15px}
+.footer .loop-infinito{padding:50px;float:left;color:#23435d;line-height:20px;}
+.footer .loop-infinito a{color:#ee5100;opacity:.8;border-color:#ee5100}
