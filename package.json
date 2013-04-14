@@ -1,0 +1,22 @@
+{
+  "name": "setup",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "docpad": "~6.30.3",
+    "docpad-plugin-livereload": "~2.3.1",
+    "docpad-plugin-stylus": "~2.3.0",
+    "docpad-plugin-coffeescript": "~2.2.1",
+    "docpad-plugin-marked": "~2.1.1",
+    "docpad-plugin-eco": "~2.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/loopinfinito/setup.git"
+  },
+  "gitHead": "397044c24cffd759c2215964ca3d7f537fced61f",
+  "readmeFilename": "README.md"
+}
