@@ -1,0 +1,53 @@
+// Colors ----------------------------------------------------------------------
+color-blue-dark = #072226
+color-blue = #23435D
+color-yellow-light = #DDCCA9
+color-yellow = #F38825
+color-orange = #EE5100
+
+// Fonts -----------------------------------------------------------------------
+fonts-main = 'Adelle Regular'
+fonts-text = 'Proxima Nova Alt Regular'
+fonts-heading = 'Adelle Light'
+fonts-heading-italic = 'Adelle Light Italic'
+
+// Grid ------------------------------------------------------------------------
+grid-spacing = 1px
+grid-border = grid-spacing solid color-blue-dark
+
+// General styles --------------------------------------------------------------
+*
+  padding 0
+  margin 0
+  -webkit-font-smoothing antialiased
+
+body
+  background color-blue-dark
+  color color-yellow-light
+  font-family fonts-main
+  font-size 15px
+  font-weight 100
+
+a
+  color color-yellow
+  text-decoration none
+
+  &:hover
+    border-bottom 1px solid color-yellow
+
+  &.shape
+    padding 0 0.5ex
+
+    &:hover
+      background @color
+      color color-blue-dark
+      border-bottom none
+
+h1
+  font-weight 100
+  font-size 120px
+  font-family fonts-heading
+  letter-spacing -0.06em
+
+.wrapper
+  margin auto
