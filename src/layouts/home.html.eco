@@ -6,119 +6,24 @@
   <%- @getBlock('meta').toHTML() %>
   <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
 </head>
-<body>
+<body class="page-home">
   <div class="wrapper">
     <header class="header">
-      <h1><a href="/">setup</a></h1>
+      <h1><a class="shape" href="/">setup</a></h1>
     </header>
-    <ul class="guests">
-      <li class="guest">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span class="guest-professional-info">
-                gerente de produto @ <span class="guest-company">estante virtual</span>
-              </span>
-              <span class="guest-name guest-first-name">bernard de</span><br />
-              <span class="guest-name guest-last-name">luna</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest fade">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span class="guest-professional-info">
-                gerente de produto @ <span class="guest-company">estante virtual</span>
-              </span>
-              <span class="guest-name guest-first-name">bernard de</span><br />
-              <span class="guest-name guest-last-name">luna</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest move-from-right">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>krakatau</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest move-from-left">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest move-from-top">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest fade">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest move-from-left">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li class="guest move-from-bottom">
-        <a class="guest-link" href="#">
-          <img class="guest-image" src="/images/samples/guest1.jpg">
-          <div class="guest-overlay">
-            <div class="guest-info">
-              <span>caio</span><br />
-              <span>gondãn</span>
-            </div>
-          </div>
-        </a>
-      </li>
-    </ul>
+
+    <%- @content %>
+
     <footer class="footer">
-      <nav>
+      <nav class="menu">
         <ul>
-          <li><a class="shape" href="/">home</a></li>
-          <li><a class="shape" href="/sobre">sobre</a></li>
+          <li class="menu-item"><a class="shape" href="/">home</a></li>
+          <li class="menu-item"><a class="shape" href="/sobre">sobre</a></li>
         </ul>
       </nav>
       <p class="loop-infinito">um projeto <a class="shape" href="#">loop infinito</a></p>
     </footer>
   </div>
-  <%- @content %>
   <%- @getBlock('scripts').toHTML() %>
 </body>
 </html>
