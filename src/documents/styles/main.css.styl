@@ -1,44 +1,30 @@
+// Imports ---------------------------------------------------------------------
+@import mixins
 @import font_faces
 
+// Colors ----------------------------------------------------------------------
 color-blue-dark = #072226
 color-blue = #23435D
 color-yellow-light = #DDCCA9
 color-yellow = #F38825
 color-orange = #EE5100
 
+// Fonts -----------------------------------------------------------------------
 fonts-main = 'Adelle Regular'
 fonts-text = 'Proxima Nova Alt Regular'
 fonts-heading = 'Adelle Light'
 fonts-heading-italic = 'Adelle Light Italic'
 
+// Grid ------------------------------------------------------------------------
 grid-spacing = 1px
 grid-border = grid-spacing solid color-blue-dark
-
 guest-dimension = 233px
 
+// Footer ----------------------------------------------------------------------
 footer-padding = 50px
 footer-line-height = 20px
 
-transition()
-  -webkit-transition arguments
-  -moz-transition arguments
-  -ms-transition arguments
-  -o-transition arguments
-  transition arguments
-
-transition-move(po)
-  -webkit-transition po 0.2s ease
-
-transition-fade()
-  -webkit-transition opacity 0.2s ease
-
-filter()
-  -webkit-filter arguments
-  -moz-filter arguments
-  -ms-filter arguments
-  -o-filter arguments
-  filter arguments
-
+// General styles --------------------------------------------------------------
 *
   padding 0
   margin 0
@@ -59,11 +45,11 @@ a
     border-bottom 1px solid color-yellow
 
   &.shape
-    padding: 0 5px;
+    padding 0 0.5ex
 
     &:hover
-      background: @color;
-      color: color-blue-dark;
+      background @color
+      color color-blue-dark
       border-bottom none
 
 h1
@@ -73,23 +59,21 @@ h1
   letter-spacing -0.06em
 
 .wrapper
-  width (guest-dimension * 3) + (grid-spacing * 2)
+  // width (guest-dimension * 3) + (grid-spacing * 2)
   margin auto
 
 .header
-  width guest-dimension * 1.5
+  // width guest-dimension * 1.5
   height guest-dimension + grid-spacing
-  float right
-  margin-right -(@width/3)
+  // float right
+  // margin-right -(@width/3)
   line-height @height
 
   a
     color color-orange
-    padding 0 20px
     margin-left 40px
 
     &:hover
-      border-bottom none
       background color-orange
       color color-blue-dark
 
@@ -261,36 +245,37 @@ h1
 .footer
   clear both
 
-  nav
-    width guest-dimension
-    float left
-    border-right 1px solid color-blue
-    padding footer-padding 0
+.menu
+  width guest-dimension
+  float left
+  border-right 1px solid color-blue
+  padding footer-padding 0
 
-    ul
-      list-style none
-      text-align center
+  ul
+    list-style none
+    text-align center
 
-    li
-      display inline-block
+.menu-item
+  display inline-block
 
-    a
-      font-size 20px
-      line-height footer-line-height
-      margin: 0 15px
-
-  .loop-infinito
-    padding footer-padding
-    float left
-    color color-blue
+  a
+    font-size 20px
     line-height footer-line-height
+    margin: 0 15px
 
-    a
-      color color-orange
-      opacity 0.8
-      padding 0 3px
+.loop-infinito
+  padding footer-padding
+  float left
+  color color-blue
+  line-height footer-line-height
 
-      &:hover
-        background @color
-        color color-blue-dark
+  a
+    color color-orange
+    opacity 0.8
+    padding 0 3px
 
+    &:hover
+      background @color
+      color color-blue-dark
+
+@import home
