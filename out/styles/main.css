@@ -1,12 +1,15 @@
 @font-face{font-family:'Adelle Light';src:url("../fonts/adelle_light-webfont.eot");src:url("../fonts/adelle_light-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_light-webfont.woff") format('woff'),url("../fonts/adelle_light-webfont.ttf") format('truetype'),url("../fonts/adelle_light-webfont.svg#adelle_ltlight") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Adelle Light Italic';src:url("../fonts/adelle_lightitalic-webfont.eot");src:url("../fonts/adelle_lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_lightitalic-webfont.woff") format('woff'),url("../fonts/adelle_lightitalic-webfont.ttf") format('truetype'),url("../fonts/adelle_lightitalic-webfont.svg#adelle_ltlight_italic") format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'Adelle Regular';src:url("../fonts/adelle_reg-webfont.eot");src:url("../fonts/adelle_reg-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/adelle_reg-webfont.woff") format('woff'),url("../fonts/adelle_reg-webfont.ttf") format('truetype'),url("../fonts/adelle_reg-webfont.svg#adelle_rgregular") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Proxima Nova Alt Bold';src:url("../fonts/proximanovaalt-bold-webfont.eot");src:url("../fonts/proximanovaalt-bold-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/proximanovaalt-bold-webfont.woff") format('woff'),url("../fonts/proximanovaalt-bold-webfont.ttf") format('truetype'),url("../fonts/proximanovaalt-bold-webfont.svg#proxima_nova_alt_rgbold") format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Proxima Nova Alt Regular';src:url("../fonts/proximanovaalt-reg-webfont.eot");src:url("../fonts/proximanovaalt-reg-webfont.eot?#iefix") format('embedded-opentype'),url("../fonts/proximanovaalt-reg-webfont.woff") format('woff'),url("../fonts/proximanovaalt-reg-webfont.ttf") format('truetype'),url("../fonts/proximanovaalt-reg-webfont.svg#proxima_nova_alt_rgregular") format('svg');font-weight:normal;font-style:normal}
 *{padding:0;margin:0;-webkit-font-smoothing:antialiased}
-body{background:#072226;color:#ddcca9;font-family:'Adelle Light';font-size:16px;font-weight:100}
+body{background:#072226;color:#ddcca9;font-family:'Adelle Regular';font-size:15px;font-weight:100}
 a{color:#f38825;text-decoration:none;}
 a:hover{border-bottom:1px solid #f38825}
-h1{font-weight:100;font-size:120px;letter-spacing:-.06em}
+a.shape{padding:0 5px;}
+a.shape:hover{background:#f38825;color:#072226;border-bottom:none}
+h1{font-weight:100;font-size:120px;font-family:'Adelle Light';letter-spacing:-.06em}
 .wrapper{width:701px;margin:auto}
 .header{width:349.5px;height:234px;float:right;margin-right:-116.5px;line-height:234px;}
 .header a{color:#ee5100;padding:0 20px;margin-left:40px;}
@@ -14,15 +17,40 @@ h1{font-weight:100;font-size:120px;letter-spacing:-.06em}
 .header a::selection{background:transparent}
 .guests{list-style:none}
 .guest{width:233px;height:233px;display:block;float:left;background:#666;border-bottom:1px solid #072226;}
-.guest:first-of-type{width:467px;height:467px;border-left:none !important}
 .guest:nth-of-type(2){border-bottom:1px solid #072226}
 .guest:nth-of-type(3n+1){border-left:1px solid #072226;border-right:1px solid #072226}
-.guest a{width:100%;height:100%;display:block;overflow:hidden;background:#000;border-bottom:none;}
-.guest a img{width:100%;height:100%}
+.guest:hover .guest-overlay{top:0;left:0}
+.guest.move-from-left .guest-overlay{top:0;bottom:auto;left:auto;right:100%;-webkit-transition:right .2s ease}
+.guest.move-from-left:hover .guest-overlay{right:0}
+.guest.move-from-right .guest-overlay{top:0;bottom:auto;left:100%;right:auto;-webkit-transition:left .2s ease}
+.guest.move-from-right:hover .guest-overlay{left:0}
+.guest.move-from-top .guest-overlay{top:auto;bottom:100%;left:0;right:auto;-webkit-transition:bottom .2s ease}
+.guest.move-from-top:hover .guest-overlay{bottom:0}
+.guest.move-from-bottom .guest-overlay{top:100%;bottom:auto;left:0;right:auto;-webkit-transition:top .2s ease}
+.guest.move-from-bottom:hover .guest-overlay{top:0}
+.guest.fade .guest-overlay{top:0;left:0;opacity:0;-webkit-transition:opacity .2s ease}
+.guest.fade:hover .guest-overlay{opacity:1}
+.guest-link{position:relative;width:100%;height:100%;display:block;overflow:hidden;background:#000;}
+.guest-link:hover{border-bottom:none}
+.guest-image{width:100%;height:100%}
+.guest-overlay{position:absolute;width:100%;height:100%;background:#000}
+.guest-info{display:table-cell;width:233px;height:233px;vertical-align:middle;text-align:right;padding:20px;box-sizing:border-box;font-size:42px;line-height:46px;color:#fff;background:#f38825}
+.guest-professional-info{display:none}
+.guest:first-of-type{width:467px;height:467px;border-left:none !important;}
+.guest:first-of-type .guest-image{-webkit-transition:-webkit-filter .2s ease;-moz-transition:-webkit-filter .2s ease;-ms-transition:-webkit-filter .2s ease;-o-transition:-webkit-filter .2s ease;transition:-webkit-filter .2s ease}
+.guest:first-of-type:hover .guest-image{-webkit-filter:brightness(115%);-moz-filter:brightness(115%);-ms-filter:brightness(115%);-o-filter:brightness(115%);filter:brightness(115%)}
+.guest:first-of-type .guest-overlay{top:0;left:0;background:none;}
+.guest:first-of-type .guest-overlay .guest-info{position:absolute;display:block;width:auto;height:auto;padding:0;box-sizing:content-box;background:none;right:50px;bottom:50px;}
+.guest:first-of-type .guest-overlay .guest-info span{display:inline-block;padding:12px 15px 10px 15px;}
+.guest:first-of-type .guest-overlay .guest-info span.guest-professional-info{font-size:15px;line-height:15px;font-family:'Adelle Regular';background:#23435d;color:#ddcca9}
+.guest:first-of-type .guest-overlay .guest-info span.guest-name{background:#ee5100;font-size:66px;font-family:'Adelle Light';line-height:66px;letter-spacing:-.06em}
+.guest:first-of-type .guest-overlay .guest-info span.guest-last-name{padding-top:0}
+.guest:first-of-type .guest-overlay .guest-info span.guest-company{font-family:'Adelle Light Italic';padding:0}
 .footer{clear:both;}
 .footer nav{width:233px;float:left;border-right:1px solid #23435d;padding:50px 0;}
 .footer nav ul{list-style:none;text-align:center}
 .footer nav li{display:inline-block}
 .footer nav a{font-size:20px;line-height:20px;margin:0 15px}
 .footer .loop-infinito{padding:50px;float:left;color:#23435d;line-height:20px;}
-.footer .loop-infinito a{color:#ee5100;opacity:.8;border-color:#ee5100}
+.footer .loop-infinito a{color:#ee5100;opacity:.8;padding:0 3px;}
+.footer .loop-infinito a:hover{background:#ee5100;color:#072226}
