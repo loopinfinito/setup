@@ -11,7 +11,9 @@
     "docpad-plugin-eco": "~2.0.2"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.2"
+    "coffee-script": "~1.6.2",
+    "grunt": "~0.4.1",
+    "grunt-rsync": "~0.1.1"
   },
   "repository": {
     "type": "git",
