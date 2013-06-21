@@ -21,9 +21,9 @@
           <li class="menu-item"><a class="shape" href="/sobre">sobre</a></li>
         </ul>
       </nav>
-      <p class="loop-infinito">um projeto <a class="shape" href="#">loop infinito</a></p>
+      <p class="loop-infinito">um projeto <a class="shape" href="http://loopinfinito.com.br/">loop infinito</a></p>
     </footer>
   </div>
-  <%- @getBlock('scripts').toHTML() %>
+  <%- @getBlock('scripts').add(['/scripts/main.js']).toHTML() %>
 </body>
 </html>
