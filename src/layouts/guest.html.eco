@@ -1,0 +1,5 @@
+---
+layout: home
+---
+<h1><%= @document.title %></h1>
+<div><%- @content %></div>
