@@ -10,7 +10,7 @@ title: Setup
     <% guest = pages[i] %>
     <% guest.url = guest.url.replace('index.html', '') %>
 
-    <li class="guest">
+    <li class="guest<% if i > 0: %> move-from-right<% end %>">
       <a class="guest-link" href="<%= guest.url %>">
         <img class="guest-image" src="/images/guests/<%= guest.image %>">
         <div class="guest-overlay">
@@ -34,4 +34,11 @@ title: Setup
 
   <% end %>
 <% end %>
+
+<!-- placeholder para participante que ainda nao existe -->
+<li class="guest guest-placeholder">;)</li>
+<li class="guest guest-placeholder">=)</li>
+<li class="guest guest-placeholder">:)</li>
+<li class="guest guest-placeholder">=)</li>
+
 </ul>
