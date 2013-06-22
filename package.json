@@ -8,7 +8,8 @@
     "docpad-plugin-stylus": "~2.3.0",
     "docpad-plugin-coffeescript": "~2.2.1",
     "docpad-plugin-marked": "~2.1.1",
-    "docpad-plugin-eco": "~2.0.2"
+    "docpad-plugin-eco": "~2.0.2",
+    "docpad-plugin-partials": "~2.6.3"
   },
   "devDependencies": {
     "coffee-script": "~1.6.2",
