@@ -7,31 +7,7 @@ title: Setup
 <% pages = @getCollection("html").toJSON() %>
 <% for i in [0...pages.length]: %>
   <% if pages[i].layout == 'guest.html.eco': %>
-    <% guest = pages[i] %>
-    <% guest.url = guest.url.replace('index.html', '') %>
-
-    <li class="guest<% if i > 0: %> move-from-right<% end %>">
-      <a class="guest-link" href="<%= guest.url %>">
-        <img class="guest-image" src="/images/guests/<%= guest.image %>">
-        <div class="guest-overlay">
-          <div class="guest-info">
-            <% if guest.position or guest.company: %>
-              <span class="guest-professional-info">
-                <%= guest.position %>
-                <% if guest.company: %>
-                  @ <span class="guest-company"><%= guest.company %></span>
-                <% end %>
-              </span>
-            <% end %>
-            <span class="guest-name guest-first-name"><%= guest.first_name %></span><br />
-            <% if guest.last_name: %>
-              <span class="guest-name guest-last-name"><%= guest.last_name %></span>
-            <% end %>
-          </div>
-        </div>
-      </a>
-    </li>
-
+    <%- @partial('guest-tile.html.eco', {guest: pages[i], highlight: i == 0, list: true}) %>
   <% end %>
 <% end %>
 

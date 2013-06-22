@@ -1,28 +1,13 @@
 <!doctype html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <title><%= @document.title %></title>
-  <%- @getBlock('meta').toHTML() %>
-  <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
-</head>
+<%- @partial('head.html.eco', @) %>
 <body class="page-home">
   <div class="wrapper">
     <header class="header">
-      <h1><a class="shape" href="/">setup</a></h1>
+      <h1><a class="link-home shape" href="/">setup</a></h1>
     </header>
-
     <%- @content %>
-
-    <footer class="footer">
-      <nav class="menu">
-        <ul>
-          <li class="menu-item"><a class="shape" href="/">home</a></li>
-          <li class="menu-item"><a class="shape" href="/about">sobre</a></li>
-        </ul>
-      </nav>
-      <p class="loop-infinito">um projeto <a class="shape" href="http://loopinfinito.com.br/">loop infinito</a></p>
-    </footer>
+    <%- @partial('footer.html') %>
   </div>
   <%- @getBlock('scripts').add(['/scripts/main.js']).toHTML() %>
 </body>

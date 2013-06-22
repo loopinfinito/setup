@@ -1,0 +1,6 @@
+<head>
+  <meta charset="UTF-8" />
+  <title><%= @document.title %></title>
+  <%- @getBlock('meta').toHTML() %>
+  <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
+</head>

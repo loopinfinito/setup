@@ -1,5 +1,45 @@
----
-layout: home
----
-<h1><%= @document.title %></h1>
-<div><%- @content %></div>
+<!doctype html>
+<html lang="pt-BR">
+<% @document.title = "#{@document.first_name} #{@document.last_name} @ Setup ##{@document.number}" %>
+<% months = ['', 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'] %>
+<% split_date = @document.published_date.split('/') %>
+<% day = split_date[0] %>
+<% month = months[parseInt split_date[1]] %>
+<% year = split_date[2] %>
+<%- @partial('head.html.eco', @) %>
+<body class="page-guest">
+  <header class="header">
+    <div class="wrapper">
+      <section class="area-left">
+        <%- @partial('guest-tile.html.eco', {guest: @document, highlight: true}) %>
+      </section>
+      <section class="area-right">
+        <time class="interview-date"><%= day %> / <span class="date-month"><%= month %></span> / <%= year %></time>
+        <h1 class="interview-title">setup <span class="interview-number">#<%= @document.number %></span></h1>
+        <% if @document.positions: %>
+          <ul>
+            <% for position in @document.positions: %>
+              <li>
+                <span class="position-do"><%= position.do %></span>
+                <% if position.at: %>
+                  @ <span class="position-at"><%= position.at %></span>
+                <% end %>
+                <%= position.url %>
+              </li>
+            <% end %>
+            <% for link in @document.links: %>
+              <li>
+                <a href="<%= link.url %>"><%= link.text %></a>
+              </li>
+            <% end %>
+          </ul>
+        <% end %>
+      </section>
+    </div>
+  </header>
+    <%- @content %>
+    <%- @partial('footer.html') %>
+
+  <%- @getBlock('scripts').add(['/scripts/main.js']).toHTML() %>
+</body>
+</html>
