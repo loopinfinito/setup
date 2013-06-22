@@ -1,5 +1,6 @@
 // Vars ------------------------------------------------------------------------
 guest-dimension = 233px
+guest-highlight-dimension = (guest-dimension * 2) + grid-spacing
 
 // Mixins ----------------------------------------------------------------------
 transition-move(po)
@@ -9,23 +10,12 @@ transition-fade()
   transition(opacity 0.2s ease)
 
 // Styles ----------------------------------------------------------------------
-.guests
-  list-style: none
-
 .guest
   width guest-dimension
   height guest-dimension
   display block
   float left
-  background #666
-  border-bottom grid-border
-
-  &:nth-of-type(2)
-    border-bottom grid-border
-
-  &:nth-of-type(3n+1)
-    border-left grid-border
-    border-right grid-border
+  background darken(color-blue-dark, 60%)
 
   &:hover .guest-overlay
     top 0
@@ -118,7 +108,7 @@ transition-fade()
   display none
 
 .guest:first-of-type
-  width (guest-dimension * 2) + grid-spacing
+  width guest-highlight-dimension
   height @width
   border-left none !important
 

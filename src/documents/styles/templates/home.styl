@@ -10,6 +10,19 @@ home-width = (guest-dimension * 3) + (grid-spacing * 2)
     float right
     margin-right -(@width/3)
 
+  .guests
+    list-style: none
+
+  .guest
+    border-bottom grid-border
+
+    &:nth-of-type(2)
+      border-bottom grid-border
+
+    &:nth-of-type(3n+1)
+      border-left grid-border
+      border-right grid-border
+
 // Infelizmente nao da pra usar variaveis com media queries no stylus.
 // O jeito eh apelar
 // mediaq = "screen and (min-width: " + (home-width + 1) + ")"
