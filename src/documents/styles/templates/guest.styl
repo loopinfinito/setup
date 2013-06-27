@@ -4,6 +4,7 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
 
   .wrapper
     width guestview-width
+    position relative
 
   .area-left
     float left
@@ -14,11 +15,11 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
   .area-right
     position relative
     float right
-    width guest-highlight-dimension
-    height guest-highlight-dimension
-    box-sizing border-box
+    width guest-highlight-dimension - content-padding
+    height @width - (content-padding * 0.8)
     padding (content-padding * 0.8) 0 content-padding content-padding
     font-size 24px
+    overflow hidden
 
   .header
     width 100%
@@ -54,3 +55,43 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
 
   .position-at
     color color-yellow-light
+
+button-dimension = 90px
+
+.button
+  position absolute
+  width 63px
+  height @width * 2
+  top guest-dimension - (@width)
+  overflow hidden
+
+  a
+    position relative
+    display block
+    width button-dimension
+    height button-dimension
+    -webkit-transform rotate(45deg)
+
+    &:hover
+      border-color color-yellow
+
+.button-prev
+  left - button-dimension
+
+  a
+    border-bottom layout-border
+    border-left layout-border
+    top 17px
+    left 19px
+
+.button-next
+  right - button-dimension
+
+  a
+    border-top layout-border
+    border-right layout-border
+    top 17px
+    right 47px
+
+    &:hover
+      border-bottom none

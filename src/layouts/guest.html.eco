@@ -35,6 +35,8 @@
           </ul>
         <% end %>
       </section>
+      <div class="button button-prev"><a href="#"></a></div>
+      <div class="button button-next"><a href="#"></a></div>
     </div>
   </header>
   <section class="content">
