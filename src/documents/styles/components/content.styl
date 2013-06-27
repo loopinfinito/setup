@@ -18,9 +18,15 @@ question-right()
     .wrapper
       display(flex)
 
-  .question-title-area, .question-content-area
+  .question-title-area,
+  .question-content-area
     width 50%
-    padding content-padding 0
+    padding (content-padding * 0.8) 0
+
+  .question-content-area
+    font-family fonts-text
+    font-size 20px
+    line-height 170%
 
   .question:nth-of-type(2n)
 
@@ -37,3 +43,7 @@ question-right()
 
     .question-content-area
       question-left()
+
+  .question-title
+    color color-orange
+    font-size 36px
