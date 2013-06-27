@@ -6,21 +6,51 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
     width guestview-width
 
   .area-left
-  	float left
-  	width guest-highlight-dimension
-  	height guest-highlight-dimension
-  	border-right layout-border
+    float left
+    width guest-highlight-dimension
+    height guest-highlight-dimension
+    border-right layout-border
 
   .area-right
-  	float right
-  	width guest-highlight-dimension
-  	height guest-highlight-dimension
+    position relative
+    float right
+    width guest-highlight-dimension
+    height guest-highlight-dimension
+    box-sizing border-box
+    padding (content-padding * 0.8) 0 content-padding content-padding
+    font-size 24px
 
   .header
-  	width 100%
-  	height guest-dimension * 2
-  	overflow hidden
-  	border-bottom layout-border
+    width 100%
+    height guest-dimension * 2
+    overflow hidden
+    border-bottom layout-border
 
   .footer .menu
     margin-left guest-dimension + grid-spacing
+
+.interview-date
+  color color-blue
+
+  .date-month
+    font-style italic
+
+.interview-title
+  font-size 60px
+  color color-orange
+
+.interview-number
+  color color-blue
+
+.guest-information
+  position absolute
+  list-style none
+  line-height 40px
+  bottom content-padding * 0.8
+  color #5E4A22
+
+  .position-do
+    color color-yellow
+
+  .position-at
+    color color-yellow-light

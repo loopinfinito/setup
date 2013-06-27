@@ -17,7 +17,7 @@
         <time class="interview-date"><%= day %> / <span class="date-month"><%= month %></span> / <%= year %></time>
         <h1 class="interview-title">setup <span class="interview-number">#<%= @document.number %></span></h1>
         <% if @document.positions: %>
-          <ul>
+          <ul class="guest-information">
             <% for position in @document.positions: %>
               <li>
                 <span class="position-do"><%= position.do %></span>
