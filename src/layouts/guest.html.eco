@@ -15,7 +15,10 @@
       </section>
       <section class="area-right">
         <time class="interview-date"><%= day %> / <span class="date-month"><%= month %></span> / <%= year %></time>
-        <h1 class="interview-title">setup <span class="interview-number">#<%= @document.number %></span></h1>
+        <h1 class="interview-title">
+          <a href="/" class="shape">setup</a>
+          <span class="interview-number">#<%= @document.number %></span>
+        </h1>
         <% if @document.positions: %>
           <ul class="guest-information">
             <% for position in @document.positions: %>

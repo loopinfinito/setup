@@ -38,7 +38,15 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
 
 .interview-title
   font-size 60px
-  color color-orange
+  position relative
+  left -0.5ex
+
+  a
+    color color-orange
+
+    &:hover
+      background-color color-orange
+      border-bottom none
 
 .interview-number
   color color-blue
