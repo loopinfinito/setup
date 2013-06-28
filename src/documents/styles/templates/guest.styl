@@ -65,10 +65,11 @@ guestview-width = (guest-highlight-dimension * 2) + grid-spacing
     color color-yellow-light
 
 button-dimension = 90px
+button-mask-width = 63px
 
 .button
   position absolute
-  width 63px
+  width button-mask-width
   height @width * 2
   top guest-dimension - (@width)
   overflow hidden
@@ -84,7 +85,7 @@ button-dimension = 90px
       border-color color-yellow
 
 .button-prev
-  left - button-dimension
+  left (button-mask-width * -2)
 
   a
     border-bottom layout-border
@@ -93,7 +94,7 @@ button-dimension = 90px
     left 19px
 
 .button-next
-  right - button-dimension
+  right (button-mask-width * -2)
 
   a
     border-top layout-border
