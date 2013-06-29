@@ -38,8 +38,26 @@
           </ul>
         <% end %>
       </section>
-      <div class="button button-prev"><a href="#"></a></div>
-      <div class="button button-next"><a href="#"></a></div>
+
+      <% prev = (n) -> n = parseInt(n) - 1; if n < 10 then "0#{n}" else "#{n}" %>
+      <% next = (n) -> n = parseInt(n) + 1; if n < 10 then "0#{n}" else "#{n}" %>
+      <% current = @document.number %>
+      <% pages = @getCollection('html') %>
+      <% prevPage = pages.filter (page) -> page.get('number') is prev current %>
+      <% nextPage = pages.filter (page) -> page.get('number') is next current %>
+
+      <% if prevPage.length: %>
+        <div class="button button-prev">
+          <a href="<%= prevPage[0].attributes.url.replace 'index.html', '' %>"></a>
+        </div>
+      <% end %>
+
+      <% if nextPage.length: %>
+        <div class="button button-next">
+          <a href="<%= nextPage[0].attributes.url.replace 'index.html', '' %>"></a>
+        </div>
+      <% end %>
+
     </div>
   </header>
   <section class="content">
