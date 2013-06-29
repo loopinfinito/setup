@@ -3,18 +3,20 @@ layout: home
 title: Setup
 ---
 
-<ul class="guests">
-<% pages = @getCollection("html").toJSON() %>
-<% for i in [0...pages.length]: %>
-  <% if pages[i].layout == 'guest.html.eco': %>
-    <%- @partial('guest-tile.html.eco', {guest: pages[i], highlight: i == 0, list: true}) %>
-  <% end %>
-<% end %>
+<% pages = @getCollection 'html' %>
+<% pages.comparator = (page) -> -page.get 'number' %>
+<% pages = pages.sort().filter (page) -> page.get 'number' %>
 
-<!-- placeholder para participante que ainda nao existe -->
-<li class="guest guest-placeholder">;)</li>
-<li class="guest guest-placeholder">=)</li>
-<li class="guest guest-placeholder">:)</li>
-<li class="guest guest-placeholder">=)</li>
+<ul class="guests">
+
+  <% for i in [0...pages.length]: %>
+    <%- @partial 'guest-tile.html.eco', guest: pages[i].toJSON(), highlight: i == 0, list: true %>
+  <% end %>
+
+  <!-- placeholder para participante que ainda nao existe -->
+  <li class="guest guest-placeholder">;)</li>
+  <li class="guest guest-placeholder">=)</li>
+  <li class="guest guest-placeholder">:)</li>
+  <li class="guest guest-placeholder">=)</li>
 
 </ul>
