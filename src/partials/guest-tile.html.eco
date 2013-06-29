@@ -3,7 +3,7 @@
     <img class="guest-image" src="/images/guests/<%= @guest.image %>">
     <div class="guest-overlay">
       <div class="guest-info">
-        <% if @guest.positions and not @highlight: %>
+        <% if @guest.positions and @highlight and @list: %>
           <span class="guest-professional-info">
             <%= @guest.positions[0].do %>
             <% if @guest.positions[0].at: %>
