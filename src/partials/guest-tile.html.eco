@@ -4,16 +4,22 @@
     <div class="guest-overlay">
       <div class="guest-info">
         <% if @guest.positions and @highlight and @list: %>
-          <span class="guest-professional-info">
-            <%= @guest.positions[0].do %>
-            <% if @guest.positions[0].at: %>
-              @ <span class="guest-company"><%= @guest.positions[0].at %></span>
-            <% end %>
-          </span>
+          <div>
+            <span class="guest-professional-info">
+              <%= @guest.positions[0].do %>
+              <% if @guest.positions[0].at: %>
+                @ <span class="guest-company"><%= @guest.positions[0].at %></span>
+              <% end %>
+            </span>
+          </div>
         <% end %>
-        <span class="guest-name guest-first-name"><%= @guest.first_name %></span>
+        <div>
+          <span class="guest-name guest-first-name"><%= @guest.first_name %></span>
+        </div>
         <% if @guest.last_name: %>
-          <span class="guest-name guest-last-name"><%= @guest.last_name %></span>
+          <div>
+            <span class="guest-name guest-last-name"><%= @guest.last_name %></span>
+          </div>
         <% end %>
       </div>
     </div>

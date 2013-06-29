@@ -2,8 +2,7 @@
 layout: guest
 number: '02'
 published_date: 22/06/2013
-first_name: almir
-last_name: filho
+first_name: almir filho
 image:
 positions:
   - do: co-fundador
