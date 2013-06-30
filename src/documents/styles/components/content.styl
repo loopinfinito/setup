@@ -10,40 +10,38 @@ question-right()
   padding-left content-padding
   order(2)
 
-.content
+.question
+  border-bottom layout-border
 
-  .question
-    border-bottom layout-border
+  .wrapper
+    display(flex)
 
-    .wrapper
-      display(flex)
+.question-title-area,
+.question-content-area
+  width 50%
+  padding (content-padding * 0.8) 0
 
-  .question-title-area,
+.question-content-area
+  font-family fonts-text
+  font-size 20px
+  line-height 170%
+
+.question:nth-of-type(2n)
+
+  .question-title-area
+    question-left()
+
   .question-content-area
-    width 50%
-    padding (content-padding * 0.8) 0
+    question-right()
+
+.question:nth-of-type(2n+1)
+
+  .question-title-area
+    question-right()
 
   .question-content-area
-    font-family fonts-text
-    font-size 20px
-    line-height 170%
+    question-left()
 
-  .question:nth-of-type(2n)
-
-    .question-title-area
-      question-left()
-
-    .question-content-area
-      question-right()
-
-  .question:nth-of-type(2n+1)
-
-    .question-title-area
-      question-right()
-
-    .question-content-area
-      question-left()
-
-  .question-title
-    color color-orange
-    font-size 36px
+.question-title
+  color color-orange
+  font-size 36px

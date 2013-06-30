@@ -1,11 +1,12 @@
-<!doctype html>
-<html lang="pt-BR">
 <% @document.title = "#{@document.first_name} #{@document.last_name} @ Setup ##{@document.number}" %>
 <% months = ['', 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'] %>
 <% split_date = @document.published_date.split('/') %>
 <% day = split_date[0] %>
 <% month = months[parseInt split_date[1]] %>
 <% year = split_date[2] %>
+
+<!doctype html>
+<html lang="pt-BR">
 <%- @partial('head.html.eco', @) %>
 <body class="page-guest">
   <header class="header">
