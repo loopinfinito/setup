@@ -32,7 +32,23 @@ mediaq = "screen and (max-device-width: " + home-width + "), screen and (max-wid
   .page-home
 
     .header
-      display none
+      margin-right 0
+      float none
+      width auto
+      text-align center
+      height 250px
+
+      h1
+        font-size 200px
+        height 100%
+        width 100%
+
+    .link-home
+      margin-left 0
+      height 100%
+      width 100%
+      display block
+      padding 0
 
     .wrapper
       width 100%
@@ -61,6 +77,17 @@ mediaq = "screen and (max-device-width: " + home-width + "), screen and (max-wid
 
 mediaq = "screen and (max-device-width: " + home-width + ")"
 @media mediaq
+
+  .page-home
+
+    .header
+      height 450px
+
+      h1
+        font-size 360px
+
+    .link-home
+      line-height 410px
 
   .guest:first-of-type
 
