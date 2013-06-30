@@ -4,7 +4,7 @@ title: Setup
 ---
 
 <% pages = @getCollection 'html' %>
-<% pages.comparator = (page) -> -page.get 'number' %>
+<% pages.comparator = (page) -> -parseInt page.get 'number' %>
 <% pages = pages.sort().filter (page) -> page.get 'number' %>
 
 <ul class="guests">
