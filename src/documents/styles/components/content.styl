@@ -33,6 +33,18 @@ question-right()
   font-size 20px
   line-height 170%
 
+.image-fit
+  width guest-highlight-dimension
+  margin 30px 0
+  display block
+  border layout-border
+  box-sizing border-box
+
+.image-float
+  width (guest-highlight-dimension / 2)
+  margin 10px 20px
+  border layout-border
+
 .question:nth-of-type(2n)
 
   .question-title-area
@@ -44,6 +56,14 @@ question-right()
   .question-content-area
     question-right()
 
+    .image-fit,
+    .image-float
+      border-left none
+      margin-left - content-padding
+
+    .image-float
+      float left
+
 .question:nth-of-type(2n+1)
 
   .question-title-area
@@ -54,3 +74,11 @@ question-right()
 
   .question-content-area
     question-left()
+
+    .image-fit,
+    .image-float
+      border-right none
+      margin-right - content-padding
+
+    .image-float
+      float right
