@@ -25,11 +25,74 @@ home-width = (guest-dimension * 3) + (grid-spacing * 2)
 
 // Infelizmente nao da pra usar variaveis com media queries no stylus.
 // O jeito eh apelar
-// mediaq = "screen and (min-width: " + (home-width + 1) + ")"
-// @media mediaq
 
-// mediaq = "screen and (max-width: " + home-width + ")"
-// @media mediaq
+mediaq = "screen and (max-device-width: " + home-width + "), screen and (max-width: " + home-width + ")"
+@media mediaq
 
-//   .page-home
-//
+  .page-home
+
+    .header
+      display none
+
+    .wrapper
+      width 100%
+
+    .guest
+      width 50%
+      box-sizing border-box
+
+      &:first-of-type
+        width 100%
+        border-right none
+
+      &:nth-of-type(3n+1)
+        border-left none
+        border-right none
+
+      &:nth-of-type(2n)
+        border-right grid-border
+
+    .guest-info
+      width 50%
+
+    .footer .menu
+      width 50%
+      box-sizing border-box
+
+mediaq = "screen and (max-device-width: " + home-width + ")"
+@media mediaq
+
+  .guest:first-of-type
+
+    .guest-professional-info
+      font-size 40px
+      line-height 40px
+      padding 22px 30px 22px 30px
+
+    .guest-name
+      font-size 140px
+      line-height 140px
+      padding 26px 32px
+
+    .guest-last-name
+      padding-top 0
+
+  .guest-placeholder
+    font-size 240px
+
+  .menu
+    padding 120px 0
+    width 50%
+
+  .menu-item a
+    font-size 60px
+
+  .loop-infinito
+    width 50%
+    font-size 50px
+    line-height 100px
+    padding 30px 0 0 50px
+    box-sizing border-box
+
+    a
+      display block

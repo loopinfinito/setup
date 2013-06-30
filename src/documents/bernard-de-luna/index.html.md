@@ -2,8 +2,8 @@
 layout: guest
 number: '01'
 published_date: 21/06/2013
-first_name: bernard de
-last_name: luna
+first_name: bernard
+last_name: de luna
 image: bernard-de-luna.jpg
 positions:
   - do: gerente de produto

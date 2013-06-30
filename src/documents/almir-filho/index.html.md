@@ -3,7 +3,7 @@ layout: guest
 number: '02'
 published_date: 22/06/2013
 first_name: almir filho
-image:
+image: almir.jpg
 positions:
   - do: co-fundador
     at: loop infinito

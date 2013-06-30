@@ -1,54 +1,62 @@
 screenState = 'normal'
-mediaQuerySmall  = window.matchMedia "(max-width: 701px)"
+mediaQuerySmall  = window.matchMedia "(max-width: 701px), (max-device-width: 701px)"
 
-wrapper = document.querySelectorAll '.wrapper'
-header = document.querySelectorAll '.header'
-firstGuest = document.querySelectorAll '.guest:first-of-type'
+firstGuest = document.querySelectorAll('.guest:first-of-type')[0]
 allGuests = document.querySelectorAll '.guest'
 infos = document.querySelectorAll '.guest-info'
 totalGuests = allGuests.length
+totalInfos = infos.length
 
-wrapperOriginalWidth = window.getComputedStyle(wrapper[0]).getPropertyValue 'width'
-firstGuestOriginalWidth = null
-guestsOriginalWidth = null
-# gridOriginalBorder = null
+firstGuestOriginalDimension = null
+guestsOriginalDimension = null
+
+# apagar depois
+guestPlaceholders = document.querySelectorAll '.guest-placeholder'
+totalGuestPlaceholders = guestPlaceholders.length
+# apagar depois
 
 setSmallLayout = ->
 	screenState = 'small'
-	wrapper[0].style.width = '100%'
-	header[0].style.display = 'none'
-	firstGuest[0].style.width = '100%'
-	firstGuest[0].style.height = window.getComputedStyle(firstGuest[0]).getPropertyValue 'width'
-	# firstGuest[0].style.borderRight = 'none'
+	firstGuest.style.height = getWidth firstGuest
+	newDimesion = getWidth allGuests[1]
 
-	if totalGuests > 1
-		newDimesion = parseInt(firstGuest[0].style.height.replace('px', '') / 2) + 'px'
-		for i in [1...totalGuests]
-			allGuests[i].style.width = allGuests[i].style.height = infos[i].style.width = infos[i].style.height = newDimesion
-			# allGuests[i].style.border = 'none'
+	for i in [1...totalGuests]
+		allGuests[i].style.height = newDimesion
 
-		return
+	for i in [1...totalInfos]
+		infos[i].style.height = newDimesion
+
+	# apagar depois
+	for i in [0...totalGuestPlaceholders]
+		guestPlaceholders[i].style.lineHeight = newDimesion
+	# apagar depois
+
+	return
 
 setNormalLayout = ->
 	unless screenState is 'normal'
 		screenState = 'normal'
-		wrapper[0].style.width = wrapperOriginalWidth
-		header[0].style.display = 'block'
-		firstGuest[0].style.width = firstGuestOriginalWidth
-		firstGuest[0].style.height = firstGuestOriginalWidth
-		# firstGuest[0].style.borderRight = gridOriginalBorder
+		firstGuest.style.height = firstGuestOriginalDimension
 
 		for i in [1...totalGuests]
-			allGuests[i].style.width = allGuests[i].style.height = infos[i].style.width = infos[i].style.height = guestsOriginalWidth
+			allGuests[i].style.height = guestsOriginalDimension
 
-		return
+		for i in [1...totalInfos]
+			infos[i].style.height = guestsOriginalDimension
+
+		# apagar depois
+		for i in [0...totalGuestPlaceholders]
+			guestPlaceholders[i].style.lineHeight = guestsOriginalDimension
+		# apagar depois
+
+	return
+
+getWidth = (element) ->
+	window.getComputedStyle(element).getPropertyValue 'width'
 
 if totalGuests > 0
-	firstGuestOriginalWidth = window.getComputedStyle(firstGuest[0]).getPropertyValue 'width'
-	# gridOriginalBorder = window.getComputedStyle(firstGuest[0]).getPropertyValue 'border-right'
-
-	if totalGuests > 1
-		guestsOriginalWidth = window.getComputedStyle(allGuests[1]).getPropertyValue 'width'
+	firstGuestOriginalDimension = getWidth(firstGuest)
+	guestsOriginalDimension = getWidth(allGuests[1])
 
 	setSmallLayout() if mediaQuerySmall.matches
 
