@@ -19,9 +19,16 @@ question-right()
 .question-title-area,
 .question-content-area
   width 50%
-  padding (content-padding * 0.8) 0
+  padding (content-padding - 27px) 0
 
-.question-content-area
+.question-title
+  color color-orange
+  font-size 36px
+  margin-top 9px
+  position relative
+
+.text p
+  margin 20px 0
   font-family fonts-text
   font-size 20px
   line-height 170%
@@ -31,6 +38,9 @@ question-right()
   .question-title-area
     question-left()
 
+    .question-title
+      right -3px
+
   .question-content-area
     question-right()
 
@@ -39,9 +49,8 @@ question-right()
   .question-title-area
     question-right()
 
+    .question-title
+      left -3px
+
   .question-content-area
     question-left()
-
-.question-title
-  color color-orange
-  font-size 36px

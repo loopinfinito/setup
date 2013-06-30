@@ -13,7 +13,7 @@
 
   <section class="content">
     <div class="wrapper">
-      <div class="content-area">
+      <div class="content-area text">
         <%- @content %>
       </div>
     </div>

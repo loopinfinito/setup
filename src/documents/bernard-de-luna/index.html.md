@@ -23,7 +23,7 @@ links:
       <h2 class="question-title">dadasdas</h2>
     </div>
     <div class="question-content-area">
-      <div class="question-content">
+      <div class="question-content text">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et __dolore__ magna aliqua. Ut enim ad minim veniam,
@@ -45,7 +45,7 @@ links:
       <h2 class="question-title">dadasdas</h2>
     </div>
     <div class="question-content-area">
-      <div class="question-content">
+      <div class="question-content text">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et __dolore__ magna aliqua. Ut enim ad minim veniam,
@@ -67,7 +67,7 @@ links:
       <h2 class="question-title">dadasdas</h2>
     </div>
     <div class="question-content-area">
-      <div class="question-content">
+      <div class="question-content text">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et __dolore__ magna aliqua. Ut enim ad minim veniam,
@@ -89,7 +89,7 @@ links:
       <h2 class="question-title">dadasdas</h2>
     </div>
     <div class="question-content-area">
-      <div class="question-content">
+      <div class="question-content text">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et __dolore__ magna aliqua. Ut enim ad minim veniam,
