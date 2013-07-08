@@ -6,8 +6,6 @@ first_name: bernard
 last_name: de luna
 image: bernard-de-luna.jpg
 positions:
-  - do: gerente de produto
-    at: estante virtual
   - do: co-fundador
     at: braziljs
   - do: rio de janeiro
@@ -59,7 +57,7 @@ links:
         trocando 2x para locais maiores.
         </p>
         <p>
-        Por fim, em 2011 aceitei um novo desafio, voltando para o Rio de Janeiro
+        Por fim, em 2012 aceitei um novo desafio, voltando para o Rio de Janeiro
         com a missão de inovar e revitalizar o produto da
         [Estante Virtual](http://www.estantevirtual.com.br), passados 8 meses
         sem muito sucesso, entendemos que a filosofia de trabalho entre mim e a
@@ -111,47 +109,54 @@ links:
         Há alguns anos que eu costumo gerenciar projetos, montando times e dando
         consultoria para alguns aplicativos e projetos web, assim sendo, um dos
         diferenciais mais interessantes que eu uso para um projeto com prazos é
-        utilizar o diagrama de Gantt, o Openproj, Merlin e outros ajudam muito
+        utilizar o [diagrama de Gantt](http://pt.wikipedia.org/wiki/Diagrama_de_Gantt),
+        o [OpenProj](http://sourceforge.net/projects/openproj/),
+        [Merlin](http://www.projectwizards.net/en/merlin/) e outros ajudam muito
         nesse momento, assim se fizer de casa, utilizo o Merlin, caso seja um
-        projeto com outros líderes, acabo utilizando Basecamp, se for em uma
-        empresa que não usa Mac, acabo sugerindo o Open Proj.
+        projeto com outros líderes, acabo utilizando [Basecamp](http://basecamp.com/),
+        se for em uma empresa que não usa Mac, acabo sugerindo o OpenProj.
         </p>
         <p>
-        O Trello é mais interessante quando no projeto ou na sprint, existem
-        tarefas independentes, apenas para ter um overview do que está sendo
-        feito e o que já foi terminado, porém confesso que ainda prefiro a
-        utilização do Basecamp para isso.
+        O [Trello](http://trello.com/) é mais interessante quando no projeto ou
+        no sprint, existem tarefas independentes, apenas para ter um overview do
+        que está sendo feito e o que já foi terminado, porém confesso que ainda
+        prefiro a utilização do Basecamp para isso.
         </p>
         <p>
-        O google docs conseguiu melhorar muito nos últimos anos, assim sendo, é
-        uma plataforma indispensável hoje para projetos, seja internos ou
-        externos. Por exemplo, estou no momento criando um business plan inteiro
-        utilizando google docs (teto e planilhas).
+        O [Google Docs](http://docs.google.com) conseguiu melhorar muito nos
+        últimos anos, assim sendo, é uma plataforma indispensável hoje para
+        projetos, seja internos ou externos. Por exemplo, estou no momento
+        criando um business plan inteiro utilizando google docs (teto e planilhas).
         </p>
         <p>
         Como estou constantemente palestrando, dando consultorias e workshops,
         invisto muito tempo e carinho nos slides, sempre utilizando meu lado
         publicitário e designer para apresentações sexy e didáticas, ferramentas
-        como Powerpoint e Keynote são importantíssimos para isso e adoro as duas,
-        cada uma com a sua qualidade :)
+        como [Powerpoint](http://office.microsoft.com/PT-BR/powerpoint) e
+        [Keynote](http://www.apple.com/iwork/keynote/) são importantíssimos para
+        isso e adoro as duas, cada uma com a sua qualidade :)
         </p>
         <p>
         Na parte de desenvolvimento utilizo ferramentas comuns na área de
-        desenvolvimento, como o atualmente mais querido Sublime Text 2 como
-        editor, Github e BitBucket para versionamento e colaboração, Grunt para
+        desenvolvimento, como o atualmente mais querido
+        [Sublime Text 2](http://www.sublimetext.com/) como editor,
+        [Github](http://github.com) e [BitBucket](http://bitbucket.org/) para
+        versionamento e colaboração, [Grunt](http://gruntjs.com/) para
         automatizar tarefas (muito necessário em projetos), Quando trabalho com
-        pré-processadores, uso muito o Less app para deixar em whatch mode. Por
-        causa do https://github.com/braziljs/conf-boilerplate acabei conhecendo
-        e aprendendo a mexer com o Docpad, o qual gostei bastante da ideia, mas
-        ainda vejo um ótimo mercado e necessidade do wordpress para alguns
+        pré-processadores, uso muito o [Less app](http://incident57.com/less/)
+        para deixar em whatch mode. Por causa do
+        [Conf Boilerplate](https://github.com/braziljs/conf-boilerplate) acabei
+        conhecendo e aprendendo a mexer com o [Docpad](http://docpad.org/), o
+        qual gostei bastante da ideia, mas ainda vejo um ótimo mercado e
+        necessidade do [Wordpress](http://pt-br.wordpress.com/) para alguns
         projetos.
         </p>
         <p>
         Bom, acredito que ferramentas são importantes, mas não podem restringir
         o profissional, precisamos sempre estar abertos para experimentar e
         rever conceitos, foi assim com editores, foi assim com pré-processadores,
-        foi assim com Git, precisamos ser analistas, e isso pra mim é um
-        exercício diário.
+        foi assim com [Git](http://git-scm.com/), precisamos ser analistas, e
+        isso pra mim é um exercício diário.
         </p>
       </div>
     </div>
@@ -179,13 +184,13 @@ links:
         acontecer, é motivar pessoas a fazerem o mesmo e ajudar o mercado
         brasileiro a evoluir cada vez mais, fazer o empresário gastar cada vez
         mais em projetos web e garantir que seus profissionais retornarão o
-        investimento em um projeto "pica das galáxias".
+        investimento em um projeto __pica das galáxias__.
         </p>
         <p>
-        O que eu quero com isso? Revolucionar, mudar a vida das pessoas, mudar o
-        padrão brasileiro, mudar a visão que o mundo tem de nós e a visão que
-        nós temos do mundo. Acho que tenho contribuido um pouco para isso, e
-        isso só me faz querer cada vez mais.
+        O que eu quero com isso? __Revolucionar__, mudar a vida das
+        pessoas, mudar o padrão brasileiro, mudar a visão que o mundo tem de nós
+        e a visão que nós temos do mundo. Acho que tenho contribuído um pouco
+        para isso, e isso só me faz querer cada vez mais.
         </p>
       </div>
     </div>
@@ -200,20 +205,21 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        O meu principal hobby é exatamente não estar na web, acho que é isso que
-        faz toda a diferença para mim. Usar meu tempo livre para desenhar, tocar
-        bateria, tocar violão (tentar), sair para sertanejos, ter muitos amigos,
-        andar de longboard, surfar, lutar, jogar futebol, e muitas outras coisas.
+        O meu principal hobby é exatamente __não estar na web__,
+        acho que é isso que faz toda a diferença para mim. Usar meu tempo livre
+        para desenhar, tocar bateria, tocar violão (tentar), sair para sertanejos,
+        ter muitos amigos, andar de longboard, surfar, lutar, jogar futebol, e
+        muitas outras coisas.
         É esse tipo de saída que me faz pensar no quanto tudo isso está
         interligado e como posso utilizar técnicas aprendidas e uma tarefa em
         outra, isso é excitante e ao mesmo tempo um grande desafio. Então
-        acredito que o meu principal hobby é sempre estar me desafiando para
-        aprender algo novo, e sem ser apenas na internet ou na profissão, na
+        acredito que o meu principal hobby é __sempre estar me desafiando para
+        aprender algo novo__, e sem ser apenas na internet ou na profissão, na
         vida mesmo.
         </p>
         <p>
-        Convido a todos para aprender no mínimo 1 coisa diferente
-        por semestre, isso vai mudar a vida de vocês e é extremamente viciante.
+        Convido a todos para aprender no mínimo __1 coisa diferente por semestre__,
+        isso vai mudar a vida de vocês e é extremamente viciante.
         </p>
       </div>
     </div>
