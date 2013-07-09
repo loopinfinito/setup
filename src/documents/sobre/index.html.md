@@ -3,16 +3,20 @@ layout: about
 title: Sobre Setup
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Uma coleção de entrevistas<br /> com brasileiros referência<br /> no mundo da Web
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+De programadores a designers de interface.<br />
+De empreendedores a freelancers.<br />
+Conheça pessoas que causaram impacto na Web ou na comunidade, e como o fazem.
+
+## Ferramentas e workflow
+
+As melhores dicas de quem sabe o que faz.
+Saiba quais são suas ferramentas e como as utilizam para melhorar seu workflow<br />
+ — _and how they get shit done_.
+
+## De onde vieram, onde estão e onde sonham chegar
+
+Saiba como chegaram até aqui e para onde estão indo.
+Os desafios que enfrentaram, o que os motiva, o que
+estão fazendo e o que pretendem com isso.
