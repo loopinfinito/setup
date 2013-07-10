@@ -19,7 +19,7 @@ module.exports = (grunt) ->
     spawn = require('child_process').spawn
     done = @async()
 
-    docpad = spawn('docpad', ['generate'])
+    docpad = spawn('docpad', ['generate','--env', 'static'])
     docpad.stdout.on('data', (data) ->
       grunt.log.write "#{data}"
     )
