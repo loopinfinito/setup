@@ -2,6 +2,15 @@
   <meta charset="UTF-8" />
   <title><%= @document.title %></title>
 
+  <meta name="author" content="Almir Filho, Caio Gondim" />
+  <meta name="keywords" content="setup, entrevista, programadores, designers, workflow, ferramentas, dicas, pessoas, profissional, trabalho, web, empreendedores, freelancers" />
+  <meta name="description" content="De programadores a designers de interface. De empreendedores a freelancers. Conheça pessoas que causaram impacto na Web ou na comunidade, e como o fazem." />
+  <meta name="language" content="pt" />
+  <meta name="content-language" content="pt-BR" />
+  <meta name="robots" content="all" />
+  <meta name="distribution" content="Local" />
+  <meta name="resource-type" content="document" />
+
   <%- @getBlock('meta').toHTML() %>
   <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
 
