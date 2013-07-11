@@ -5,6 +5,12 @@ published_date: 21/06/2013
 first_name: bernard
 last_name: de luna
 image: bernard-de-luna.jpg
+keywords: >
+  bernard de luna, braziljs, rio de janeiro, jornal do brasil, petrobras,
+  melt dsp, estante virtual, faculdade ccaa, openproj, trello, merlin, basecamp,
+  google docs, powerpoint, keynote, sublime text, grunt, grantt, less app,
+  conf boilerplate, docpad, wordpress, bitbucket, github, pica das galaxias,
+  revolucionar, nao estar na web
 positions:
   - do: co-fundador
     at: braziljs
