@@ -1,9 +1,13 @@
+<% keywords = "setup, entrevista, programadores, designers, workflow, ferramentas, dicas, pessoas, profissional, trabalho, web, empreendedores, freelancers" %>
+<% keywords = "#{name}, #{@document.keywords}" if @document.keywords %>
+<% name = "#{@document.first_name} #{@document.last_name}" if @document.first_name %>
+
 <head>
   <meta charset="UTF-8" />
   <title><%= @document.title %></title>
 
   <meta name="author" content="Almir Filho, Caio Gondim" />
-  <meta name="keywords" content="setup, entrevista, programadores, designers, workflow, ferramentas, dicas, pessoas, profissional, trabalho, web, empreendedores, freelancers" />
+  <meta name="keywords" content="<%= keywords %>" />
   <meta name="description" content="De programadores a designers de interface. De empreendedores a freelancers. Conheça pessoas que causaram impacto na Web ou na comunidade, e como o fazem." />
   <meta name="language" content="pt" />
   <meta name="content-language" content="pt-BR" />
