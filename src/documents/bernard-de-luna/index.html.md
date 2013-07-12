@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '01'
-published_date: 21/06/2013
+published_date: 11/07/2013
 first_name: bernard
 last_name: de luna
 image: bernard-de-luna.jpg
