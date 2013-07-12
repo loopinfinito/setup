@@ -14,7 +14,8 @@
   "devDependencies": {
     "coffee-script": "~1.6.2",
     "grunt": "~0.4.1",
-    "grunt-rsync": "~0.1.1"
+    "grunt-rsync": "~0.1.1",
+    "grunt-contrib-htmlmin": "~0.1.3"
   },
   "repository": {
     "type": "git",
