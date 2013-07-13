@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '01'
-published_date: 21/06/2013
+published_date: 11/07/2013
 first_name: bernard
 last_name: de luna
 image: bernard-de-luna.jpg
@@ -16,8 +16,8 @@ positions:
     at: braziljs
   - do: rio de janeiro
 links:
-  - text: bernarddeluna.com.br
-    url: "http://bernarddeluna.com.br"
+  - text: bernarddeluna.com
+    url: "http://bernarddeluna.com"
   - text: @bernarddeluna
     url: "http://twitter.com/bernarddeluna"
 ---
@@ -132,7 +132,7 @@ links:
         O [Google Docs](http://docs.google.com) conseguiu melhorar muito nos
         últimos anos, assim sendo, é uma plataforma indispensável hoje para
         projetos, seja internos ou externos. Por exemplo, estou no momento
-        criando um business plan inteiro utilizando google docs (teto e planilhas).
+        criando um business plan inteiro utilizando google docs (texto e planilhas).
         </p>
         <p>
         Como estou constantemente palestrando, dando consultorias e workshops,

@@ -1,5 +1,7 @@
 module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-rsync'
+  grunt.loadNpmTasks 'grunt-contrib-htmlmin'
+  grunt.loadNpmTasks 'grunt-contrib-cssmin'
 
   grunt.initConfig(
     rsync:
@@ -13,6 +15,21 @@ module.exports = (grunt) ->
         dest: '~/staging.setup.loopinfinito.com.br'
         host: 'loopinfinito@bugsy.dreamhost.com'
         recursive: true
+    htmlmin:
+      prod:
+        options:
+          removeComments: true,
+          collapseWhitespace: true
+        files: [
+          expand: true
+          src: ['out/**/*.html']
+        ]
+    cssmin:
+      prod:
+        files:
+          'out/styles/main.css': 'out/styles/main.css'
+        options:
+          report: 'gzip'
   )
 
   grunt.registerTask('build', 'Gera arquivos estáticos', () ->
@@ -47,5 +64,5 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('deploy', ['build', 'rsync:prod'])
-  grunt.registerTask('deploy:staging', ['build', 'rsync:staging'])
+  grunt.registerTask('deploy', ['build', 'htmlmin', 'cssmin', 'rsync:prod'])
+  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'cssmin', 'rsync:staging'])
