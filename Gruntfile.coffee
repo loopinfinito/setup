@@ -1,6 +1,7 @@
 module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-rsync'
   grunt.loadNpmTasks 'grunt-contrib-htmlmin'
+  grunt.loadNpmTasks 'grunt-contrib-cssmin'
 
   grunt.initConfig(
     rsync:
@@ -23,6 +24,12 @@ module.exports = (grunt) ->
           expand: true
           src: ['out/**/*.html']
         ]
+    cssmin:
+      prod:
+        files:
+          'out/styles/main.css': 'out/styles/main.css'
+        options:
+          report: 'gzip'
   )
 
   grunt.registerTask('build', 'Gera arquivos estáticos', () ->
@@ -57,5 +64,5 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('deploy', ['build', 'htmlmin', 'rsync:prod'])
-  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'rsync:staging'])
+  grunt.registerTask('deploy', ['build', 'htmlmin', 'cssmin', 'rsync:prod'])
+  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'cssmin', 'rsync:staging'])
