@@ -2,6 +2,7 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-rsync'
   grunt.loadNpmTasks 'grunt-contrib-htmlmin'
   grunt.loadNpmTasks 'grunt-contrib-cssmin'
+  grunt.loadNpmTasks 'grunt-contrib-uglify'
 
   grunt.initConfig(
     rsync:
@@ -28,6 +29,12 @@ module.exports = (grunt) ->
       prod:
         files:
           'out/styles/main.css': 'out/styles/main.css'
+        options:
+          report: 'gzip'
+    uglify:
+      prod:
+        files:
+          'out/scripts/main.js': 'out/scripts/main.js'
         options:
           report: 'gzip'
   )
@@ -64,5 +71,5 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('deploy', ['build', 'htmlmin', 'cssmin', 'rsync:prod'])
-  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'cssmin', 'rsync:staging'])
+  grunt.registerTask('deploy', ['build', 'htmlmin', 'cssmin', 'uglify', 'rsync:prod'])
+  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'cssmin', 'uglify', 'rsync:staging'])
