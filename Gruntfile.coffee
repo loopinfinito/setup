@@ -3,6 +3,7 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-htmlmin'
   grunt.loadNpmTasks 'grunt-contrib-cssmin'
   grunt.loadNpmTasks 'grunt-contrib-uglify'
+  grunt.loadNpmTasks 'grunt-contrib-clean'
 
   grunt.initConfig(
     rsync:
@@ -37,9 +38,14 @@ module.exports = (grunt) ->
           'out/scripts/main.js': 'out/scripts/main.js'
         options:
           report: 'gzip'
+    clean: [
+      'out/styles/*.styl'
+      'out/styles/components'
+      'out/styles/templates'
+    ]
   )
 
-  grunt.registerTask('build', 'Gera arquivos estáticos', () ->
+  grunt.registerTask('docpadGenerate', 'Gera arquivos estáticos', () ->
     spawn = require('child_process').spawn
     done = @async()
 
@@ -71,5 +77,18 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('deploy', ['build', 'htmlmin', 'cssmin', 'uglify', 'rsync:prod'])
-  grunt.registerTask('deploy:staging', ['build', 'htmlmin', 'cssmin', 'uglify', 'rsync:staging'])
+  grunt.registerTask('build', ['docpadGenerate', 'clean'])
+  grunt.registerTask('deploy', [
+    'build',
+    'htmlmin',
+    'cssmin',
+    'uglify',
+    'rsync:prod'
+  ])
+  grunt.registerTask('deploy:staging', [
+    'build',
+    'htmlmin',
+    'cssmin',
+    'uglify',
+    'rsync:staging'
+  ])
