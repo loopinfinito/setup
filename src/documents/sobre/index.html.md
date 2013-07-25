@@ -11,7 +11,7 @@ Conheça pessoas que causaram impacto na Web ou na comunidade, e como o fazem.
 
 ## Ferramentas e workflow
 
-As melhores dicas de quem sabe o que faz.
+As melhores dicas de quem sabe o que faz.<br />
 Saiba quais são suas ferramentas e como as utilizam para melhorar seu workflow<br />
  — _and how they get shit done_.
 
