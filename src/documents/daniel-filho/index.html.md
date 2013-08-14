@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '02'
-published_date: 15/08/2013
+published_date: 14/08/2013
 first_name: daniel filho
 last_name: ''
 image: daniel-filho.jpg
@@ -41,7 +41,7 @@ links:
         </p>
         <p>
           Hoje, trabalho no [NetShoes](http://www.netshoes.com.br/) como
-          especialista em _front-end_. Também participo de um projeto
+          analista de interface e front-end. Também participo de um projeto
           como "Core Team Front-End Engineer", de uma _startup_ de
           Seattle chamada [MakeMe](http://playmakeme.com/), onde cuidei de todo
           o _front-end_ do projeto e também de alguns designs do
@@ -62,12 +62,12 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          No trabalho: Um [MacMini](http://www.apple.com/mac-mini/) i5 com 8GB,
-          [Magic TrackPad](http://www.apple.com/magictrackpad/),
+          No trabalho: Um [MacBook Pro](http://www.apple.com/macbook-pro/features/)
+          17" Core i7, [Magic TrackPad](http://www.apple.com/magictrackpad/),
           [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa)
-          com teclado numérico __com fio__, um monitor LG 22E153 e
-          um DELL que uso na vertical, para os códigos. No trabalho uso um fone
-          de ouvido [Sony MDR-V150](http://www.amazon.com/Sony-MDR-V150-Monitor-Series-Headphones/dp/B000092YPR).
+          com teclado numérico (com fio), um monitor LG E2360 (para
+          _dual screen_), para os códigos. No trabalho uso um fone de ouvido
+          [Sony MDR-V150](http://www.amazon.com/Sony-MDR-V150-Monitor-Series-Headphones/dp/B000092YPR).
         </p>
         <p>
           Em casa: uso um [MacBook Pro de 13"](http://store.apple.com/us/mac/family/macbook-pro)
@@ -76,15 +76,15 @@ links:
           [Magic TrackPad](http://www.apple.com/magictrackpad/), mas quando vou
           jogar (sou viciado em jogos _First Person Shooter_!), uso um mouse
           [Logitech m500](http://www.logitech.com/en-us/product/corded-mouse-m500)
-          __com fio__ e um
+          (com fio) e um
           [mousepad Razr "Battlefield 3 edition"](http://www.amazon.com/Razer-Scarab-Gaming-Mouse-RZ02-00420200-R3M1/dp/B005N7H3PA).
           Como teclado, uso o [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa)
-          com teclado numérico e __com fio__ (não gosto de periféricos sem fio).
+          com teclado numérico e (com fio) (não gosto de periféricos sem fio).
           Também uso um monitor externo Samsung de 21".
         </p>
         <p>
           Pra som eu sou meio maníaco. Eu já fiz curso de produção musical e
-          tive uma banda durante 10 anos, então sou meio (__bastante__) enjoado pra
+          tive uma banda durante 10 anos, então sou meio (bastante) enjoado pra
           isso. Pra caixa de som, tenho um
           [Bose Companion 5](http://www.bose.com/controller?url=/shop_online/speakers/computer_speakers/companion_5/index.jsp)
           para ficar "fixa" em casa, e uma
@@ -103,8 +103,7 @@ links:
           [Behringer C1U](http://www.amazon.com/Behringer-C-1U-Condenser-Microphone-Cardioid/dp/B001QXCYZY)
           pra gravar o Zone of Front-Enders.
         </p>
-        <iframe class="vine-embed" src="https://vine.co/v/b5duKwMWu5u/embed/simple" width="420" height="420" frameborder="0">
-        </iframe>
+        <iframe class="vine-embed" src="https://vine.co/v/b5duKwMWu5u/embed/simple" width="420" height="420" frameborder="0"></iframe>
         <script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
         <p>
           Como dispositivos móveis, tenho minha linha principal em um
