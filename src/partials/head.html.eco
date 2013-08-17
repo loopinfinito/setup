@@ -5,6 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <title><%= @document.title %></title>
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
 
   <meta name="author" content="Almir Filho, Caio Gondim" />
   <meta name="keywords" content="<%= keywords %>" />
