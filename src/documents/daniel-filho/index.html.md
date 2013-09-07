@@ -10,9 +10,9 @@ keywords: >
   r7, fone de ouvido
 positions:
   - do: front-end engineer
-    at: NetShoes
+    at: netshoes
   - do: apresentador
-    at: Z.O.F-E
+    at: z.o.f-e
   - do: são paulo
 links:
   - text: danielfilho.github.io
