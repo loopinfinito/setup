@@ -56,7 +56,7 @@ links:
           Hellobits.
         </p>
         <p>
-          O foco da [Hellobits](http://hellobits.com) são os treinamentos, mas
+          Os treinamentos são o foco da [Hellobits](http://hellobits.com), mas
           eu também tenho um produto chamado
           [Codeplane](http://codeplane.com.br), que é uma alternativa para quem
           precisa de hospedagem Git voltada para desenvolvedores freelance e
@@ -222,7 +222,7 @@ links:
           vida miserável. Adoro estudar. Durmo pouco para estudar mais, para
           saber mais. Diria que __sou viciado em aprender__. E em ensinar.
           Ensinar sempre foi algo que queria fazer, desde a época da faculdade e
-          hoje não consigo me imaginar fazer outra coisa. Ouvir de alunos que
+          hoje não consigo me imaginar fazendo outra coisa. Ouvir de alunos que
           conseguiram arrumar um emprego legal porque você mostrou o caminho das
           pedras é __indescritível__.
         </p>
