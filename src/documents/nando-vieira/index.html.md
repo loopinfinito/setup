@@ -164,7 +164,7 @@ links:
           "Melhor App de Screencast" no meu coração.
         </p>
         <p>
-          Não gosto muito de applicativos web, por incrível que pareça. Para
+          Não gosto muito de aplicativos web, por incrível que pareça. Para
           emails, prefiro usar o [Mail](http://www.apple.com/osx/apps/#mail).
           Para feeds, estou usando o
           [Caffeinated](https://itunes.apple.com/gb/app/caffeinated/id502378856?mt=12).
@@ -245,7 +245,7 @@ links:
           história familiar atribulada, mas ele foi forte o bastante para criar
           três crianças sozinho. Ele é a minha inspiração. Me mostrou que __só o
           trabalho pode fazer de você uma pessoa digna__ e que não existe
-          trabalho indigno. E é isso o que tenho passar para os meus filhos.
+          trabalho indigno. E é isso o que tento passar para os meus filhos.
         </p>
       </div>
     </div>
