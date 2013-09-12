@@ -3,7 +3,7 @@ layout: guest
 number: '02'
 published_date: 14/08/2013
 first_name: daniel filho
-last_name: ''
+last_name:
 image: daniel-filho.jpg
 keywords: >
   daniel filho, braziljs, são paulo, netshoes, ig,
