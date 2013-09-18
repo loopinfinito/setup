@@ -6,8 +6,16 @@ first_name: daniel filho
 last_name:
 image: daniel-filho.jpg
 keywords: >
-  daniel filho, braziljs, são paulo, netshoes, ig,
-  r7, fone de ouvido
+  daniel filho, braziljs, são paulo, netshoes, ig, r7, fone de ouvido, zofe,
+  zone of front-enders, makeme, google developer group, mackbook pro, magic
+  trackpad, apple keyboard, sony MDR-V150, logitech m500, mousepad razr,
+  battlefield 3 edition, bose, bose companion 5, jawbone jambox, apple earpod,
+  bose quietcomfort 15, JVC HARX300, philips SHP2500, beats by dr. dre solo HD,
+  behringer C1U, iphone 5, ios 7, geeksphone keon, firefoxOS, ipad 2, chrome
+  orlov, opera, firefox, chrome, safari, airmail, netnewswire, reeder,
+  workflowy, libre office, sublime text, git, git gutter, cdnjs, ternjs, sass,
+  sublime linter, iterm 2, dterm, shuttle, github, bitbucket, zsh, gruntjs,
+  grunt, capistrano, vagrant, digital ocean, carl sagan, tesseract
 positions:
   - do: front-end engineer
     at: netshoes
