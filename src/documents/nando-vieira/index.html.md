@@ -6,7 +6,13 @@ first_name: nando vieira
 last_name:
 image: nando-vieira.jpg
 keywords: >
-  nando vieira
+  nando vieira, hellobits, codeplane, ruby on rails, site, locaweb, grupo abril,
+  cloud, uol, perl, php, frontpage, sao paulo, howto, sublime text, screenflow,
+  ishowu, ishowuhd, screenflick, mail, caffeinated, apple keynote, apple,
+  princeXML, photoshop, illustrator, tweetbot, alfred, vagrant, vmware fusion,
+  git, ruby, javascript, postgresql, safari, chrome, macbook air, mac mini,
+  samsung, magic mouse, time capsule, dropbox, behringer c-1u, Sennheiser HD215,
+  philips, airport express, iphone 4, pai
 positions:
   - do: fundador
     at: hellobits
