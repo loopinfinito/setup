@@ -1,6 +1,5 @@
 <% keywords = "setup, entrevista, programadores, designers, workflow, ferramentas, dicas, pessoas, profissional, trabalho, web, empreendedores, freelancers" %>
-<% name = "#{@document.first_name} #{@document.last_name}" if @document.first_name %>
-<% if @document.keywords then keywords = "#{name}, #{@document.keywords.replace('\n', '')}" %>
+<% if @document.keywords then keywords = @document.keywords.replace('\n', '') %>
 
 <head>
   <meta charset="UTF-8" />
