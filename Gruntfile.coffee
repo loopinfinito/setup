@@ -16,6 +16,7 @@ module.exports = (grunt) ->
         src: './out/'
         dest: '~/staging.setup.loopinfinito.com.br'
         host: 'loopinfinito@bugsy.dreamhost.com'
+        exclude: ['.htaccess', '.htpasswd']
         recursive: true
     htmlmin:
       prod:
