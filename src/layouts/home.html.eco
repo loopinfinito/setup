@@ -9,6 +9,7 @@
     <%- @content %>
     <%- @partial('footer.html') %>
   </div>
+  <%- @getBlock('scripts').add(['/scripts/jquery.js']).toHTML() %>
   <%- @getBlock('scripts').add(['/scripts/main.js']).toHTML() %>
 </body>
 </html>

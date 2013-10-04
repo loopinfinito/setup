@@ -9,6 +9,55 @@ transition-move(po)
 transition-fade()
   transition(opacity 0.2s ease)
 
+// Animations ------------------------------------------------------------------
+@keyframes moveinfromleft
+  0%
+    transform translateX(-233px)
+  100%
+    transform translateX(0)
+
+@keyframes moveoutfromleft
+  0%
+    transform translateX(0)
+  100%
+    transform translateX(-233px)
+
+@keyframes moveinfromright
+  0%
+    transform translateX(+233px)
+  100%
+    transform translateX(0)
+
+@keyframes moveoutfromright
+  0%
+    transform translateX(0)
+  100%
+    transform translateX(+233px)
+
+@keyframes moveinfromtop
+  0%
+    transform translateY(-233px)
+  100%
+    transform translateY(0)
+
+@keyframes moveoutfromtop
+  0%
+    transform translateY(0)
+  100%
+    transform translateY(-233px)
+
+@keyframes moveinfrombottom
+  0%
+    transform translateY(+233px)
+  100%
+    transform translateY(0)
+
+@keyframes moveoutfrombottom
+  0%
+    transform translateY(0)
+  100%
+    transform translateY(+233px)
+
 // Styles ----------------------------------------------------------------------
 .guest
   width guest-dimension
@@ -17,49 +66,64 @@ transition-fade()
   float left
   background darken(color-blue-dark, 60%)
 
-  &:hover .guest-overlay
+  .guest-overlay
+    transform translateY(+233px)
+
+  &:hover
     top 0
     left 0
 
-  &.move-from-left
+  &.move-in-from-left
     .guest-overlay
-      top 0
-      bottom auto
-      left auto
-      right 100%
-      transition-move(right)
-    &:hover .guest-overlay
-      right 0
+      -webkit-animation moveinfromleft 0.2s ease-in-out forwards
+      -moz-animation moveinfromleft 0.2s ease-in-out forwards
+      -ms-animation moveinfromleft 0.2s ease-in-out forwards
+      animation moveinfromleft 0.2s ease-in-out forwards
+  &.move-out-from-left
+    .guest-overlay
+      -webkit-animation moveoutfromleft 0.2s ease-in-out forwards
+      -moz-animation moveoutfromleft 0.2s ease-in-out forwards
+      -ms-animation moveoutfromleft 0.2s ease-in-out forwards
+      animation moveoutfromleft 0.2s ease-in-out forwards
 
-  &.move-from-right
+  &.move-in-from-right
     .guest-overlay
-      top 0
-      bottom auto
-      left 100%
-      right auto
-      transition-move(left)
-    &:hover .guest-overlay
-      left 0
+      -webkit-animation moveinfromright 0.2s ease-in-out forwards
+      -moz-animation moveinfromright 0.2s ease-in-out forwards
+      -ms-animation moveinfromright 0.2s ease-in-out forwards
+      animation moveinfromright 0.2s ease-in-out forwards
+  &.move-out-from-right
+    .guest-overlay
+      -webkit-animation moveoutfromright 0.2s ease-in-out forwards
+      -moz-animation moveoutfromright 0.2s ease-in-out forwards
+      -ms-animation moveoutfromright 0.2s ease-in-out forwards
+      animation moveoutfromright 0.2s ease-in-out forwards
 
-  &.move-from-top
+  &.move-in-from-top
     .guest-overlay
-      top auto
-      bottom 100%
-      left 0
-      right auto
-      transition-move(bottom)
-    &:hover .guest-overlay
-      bottom 0
+      -webkit-animation moveinfromtop 0.2s ease-in-out forwards
+      -moz-animation moveinfromtop 0.2s ease-in-out forwards
+      -ms-animation moveinfromtop 0.2s ease-in-out forwards
+      animation moveinfromtop 0.2s ease-in-out forwards
+  &.move-out-from-top
+    .guest-overlay
+      -webkit-animation moveoutfromtop 0.2s ease-in-out forwards
+      -moz-animation moveoutfromtop 0.2s ease-in-out forwards
+      -ms-animation moveoutfromtop 0.2s ease-in-out forwards
+      animation moveoutfromtop 0.2s ease-in-out forwards
 
-  &.move-from-bottom
+  &.move-in-from-bottom
     .guest-overlay
-      top 100%
-      bottom auto
-      left 0
-      right auto
-      transition-move(top)
-    &:hover .guest-overlay
-      top 0
+      -webkit-animation moveinfrombottom 0.2s ease-in-out forwards
+      -moz-animation moveinfrombottom 0.2s ease-in-out forwards
+      -ms-animation moveinfrombottom 0.2s ease-in-out forwards
+      animation moveinfrombottom 0.2s ease-in-out forwards
+  &.move-out-from-bottom
+    .guest-overlay
+      -webkit-animation moveoutfrombottom 0.2s ease-in-out forwards
+      -moz-animation moveoutfrombottom 0.2s ease-in-out forwards
+      -ms-animation moveoutfrombottom 0.2s ease-in-out forwards
+      animation moveoutfrombottom 0.2s ease-in-out forwards
 
   &.fade
     .guest-overlay
@@ -90,6 +154,8 @@ transition-fade()
   width 100%
   height 100%
   background black
+  left 0
+  top 0
 
 .guest-info
   display table-cell
@@ -119,9 +185,8 @@ transition-fade()
     filter(brightness(115%))
 
   .guest-overlay
-    top 0
-    left 0
     background none
+    transform translateY(0)
 
   .guest-info
     // resetando estilos
