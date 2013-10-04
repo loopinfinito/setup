@@ -15,6 +15,54 @@ guestPlaceholders = document.querySelectorAll '.guest-placeholder'
 totalGuestPlaceholders = guestPlaceholders.length
 # apagar depois
 
+init = ->
+	#
+	$('.guest:not(:first)')
+    .on('mouseenter', (event) ->
+      addClass(event, this, 'in')
+    )
+    .on('mouseleave', (event) ->
+      addClass(event, this, 'out')
+    )
+
+	#
+	if totalGuests > 0
+		firstGuestOriginalDimension = getWidth(firstGuest)
+		guestsOriginalDimension = getWidth(allGuests[1])
+		setSmallLayout() if mediaQuerySmall.matches
+		window.onresize = ->
+			if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
+
+getMouseEnterDirection = (event, el) ->
+	width = el.offsetWidth
+	height = el.offsetHeight
+	x = (event.pageX - el.offsetLeft - (width / 2) * (if width > height then (height / width) else 1))
+	y = (event.pageY - el.offsetTop - (height / 2) * (if height > width then (width / height) else 1))
+	direction = Math.round(Math.atan2(y, x) / 1.57079633 + 5) % 4
+
+	return direction
+
+addClass = (event, el, state) ->
+  direction = getMouseEnterDirection(event, el)
+  class_suffix = ""
+
+  el.classList.remove 'move-in-from-top'
+  el.classList.remove 'move-in-from-right'
+  el.classList.remove 'move-in-from-bottom'
+  el.classList.remove 'move-in-from-left'
+  el.classList.remove 'move-out-from-top'
+  el.classList.remove 'move-out-from-right'
+  el.classList.remove 'move-out-from-bottom'
+  el.classList.remove 'move-out-from-left'
+
+  switch direction
+    when 0 then class_suffix = 'top'
+    when 1 then class_suffix = 'right'
+    when 2 then class_suffix = 'bottom'
+    when 3 then class_suffix = 'left'
+
+  el.classList.add('move-' + state + '-from-' + class_suffix)
+
 setSmallLayout = ->
 	screenState = 'small'
 	firstGuest.style.height = getWidth firstGuest
@@ -54,11 +102,4 @@ setNormalLayout = ->
 getWidth = (element) ->
 	window.getComputedStyle(element).getPropertyValue 'width'
 
-if totalGuests > 0
-	firstGuestOriginalDimension = getWidth(firstGuest)
-	guestsOriginalDimension = getWidth(allGuests[1])
-
-	setSmallLayout() if mediaQuerySmall.matches
-
-	window.onresize = ->
-		if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
+init()
