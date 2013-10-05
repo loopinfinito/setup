@@ -157,7 +157,7 @@ links:
           Comecei a utilizar o [Sublime Text 2](http://www.sublimetext.com/2) desde
           o segundo semestre do 2011, aposentando meu [TextMate](http://macromates.com/).
           O que mais me fascinou logo de cara foi a rapidez na
-          qual ele faz buscas num determinado projeto e os momentosúltiplos cursores. Em
+          qual ele faz buscas num determinado projeto e os múltiplos cursores. Em
           momentos que preciso de edições rápidas uso o [Vim](http://www.vim.org/), turbinado com alguns _plugins_.
         </p>
         <figure>
