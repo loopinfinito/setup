@@ -21,8 +21,7 @@ module.exports = (grunt) ->
     htmlmin:
       prod:
         options:
-          removeComments: true,
-          collapseWhitespace: true
+          removeComments: true
         files: [
           expand: true
           src: ['out/**/*.html']
