@@ -45,7 +45,7 @@ module.exports = (grunt) ->
     ]
   )
 
-  grunt.registerTask('docpadGenerate', 'Gera arquivos estáticos', () ->
+  grunt.registerTask('docpad:generate', 'Gera arquivos estáticos', () ->
     spawn = require('child_process').spawn
     done = @async()
 
@@ -77,7 +77,7 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('build', ['docpadGenerate', 'clean'])
+  grunt.registerTask('build', ['docpad:generate', 'clean'])
   grunt.registerTask('deploy', [
     'build',
     'htmlmin',
