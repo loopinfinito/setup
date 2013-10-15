@@ -131,7 +131,7 @@ links:
         </p>
         <p>
           Venho trabalhando com o [OS X](http://www.apple.com/osx/) desde 2009. Atualmente uso a versão 10.7.
-          E enquanto estiver trabalhando com desenvolvimento _front-end_, acho bem difícil troca-lo por um outro
+          E enquanto estiver trabalhando com desenvolvimento _front-end_, acho bem difícil trocá-lo por um outro
           <abbr title="Sistema Operacional">S.O</abbr>.
         </p>
         <p>
