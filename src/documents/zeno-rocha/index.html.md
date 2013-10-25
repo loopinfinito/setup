@@ -98,7 +98,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Passo a maior parte do tempo no browser, tenho instalados [Firefox Nightly](http://nightly.mozilla.org/) e [Opera Next](http://www.opera.com/computer/next), mas meu favorito continua sendo o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html). Para testar sites em navegadores antigos, uso algumas VMs de Windows no [VirtualBox](https://www.virtualbox.org/).
+          Passo a maior parte do tempo no browser, tenho instalados [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) e [Opera Next](http://www.opera.com/computer/next), mas meu favorito continua sendo o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html). Para testar sites em navegadores antigos, uso algumas VMs de Windows no [VirtualBox](https://www.virtualbox.org/).
         </p>
         <p>
           Com relação à editor de código nem preciso falar né, se você me conhece sabe que eu sou apaixonado pelo [Sublime Text](http://sublimetext.com/), hoje na versão 3. Inclusive já gravei alguns vídeos mostrando [como eu uso ele](http://www.youtube.com/watch?v=Ms3Vsz7Jc3A). Meus plugins favoritos são: [Emmet](https://github.com/sergeche/emmet-sublime/) para abreviação de HTML/CSS, [GitGutter](https://github.com/jisaacks/GitGutter) para visualizar diffs, [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) para correção inline e [JSFormat](https://github.com/jdc0589/JsFormat) para formatação. Também criei um conjunto de [snippets para JavaScript e NodeJS](https://github.com/zenorocha/sublime-snippets-js) que me ajuda muito. A lista completa de plugins e configurações tá no [GitHub](https://github.com/zenorocha/sublime-preferences).
@@ -126,10 +126,10 @@ links:
           Não sei brincar de feeds RSS, tenho uma lista enorme de blogs que eu gosto e acabo acumulando muita coisa por lá.
         </p>
         <p>
-          Tento manter a maioria das minhas coisas na nuvem caso meu computador seja roubado no trajeto de bike até o trabalho. Ouço músicas no [Spotify](https://www.spotify.com) (sincronizadas offline no celular) e guardo minhas fotos no [Google Photos](https://photos.google.com/).
+          Tento manter a maioria das minhas coisas na nuvem caso meu computador seja roubado (o que inclusive aconteceu recentemente em Madrid e, por isso, me incentivou a criar um [guia de setup para Mac OS X](https://gist.github.com/zenorocha/7159780)). Ouço músicas no [Spotify](https://www.spotify.com) (sincronizadas offline no celular) e guardo minhas fotos no [Google Photos](https://photos.google.com/).
         </p>
         <p>
-          Para gravar screencasts ou editar vídeos uso o ScreenFlow, inclusive [todos meus vídeos usando a GoPro](https://vimeo.com/zenorocha) são editados nele. Para gravar GIFs usava um processo extremamente complexo no terminal até descobrir o ridiculamente fácil de usar, [LICEcap](http://www.cockos.com/licecap/).
+          Para gravar screencasts ou editar vídeos uso o [ScreenFlow](http://www.telestream.net/screenflow/), inclusive [todos meus vídeos usando a GoPro](https://vimeo.com/zenorocha) são editados nele. Para gravar GIFs usava um processo extremamente complexo no terminal até descobrir o ridiculamente fácil de usar, [LICEcap](http://www.cockos.com/licecap/).
         </p>
         <p>
           Compartilho arquivos e encurto links no [Cloud](http://getcloudapp.com), é a melhor experiência para esse tipo de tarefa que eu já encontrei. Consegui ainda configurar um domínio só para ele: [zno.io](http://zno.io). Também uso [Dropbox](https://www.dropbox.com/) e [TimeMachine](http://support.apple.com/kb/ht1427) para backup.
