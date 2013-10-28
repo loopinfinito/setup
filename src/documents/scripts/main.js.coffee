@@ -17,12 +17,18 @@ totalGuestPlaceholders = guestPlaceholders.length
 
 init = ->
 	#
-	$('.guest:not(:first)')
-    .on('mouseenter', (event) ->
-      addClass(event, this, 'in')
-    )
-    .on('mouseleave', (event) ->
-      addClass(event, this, 'out')
+    guests = document.querySelectorAll('.guest:not(:first-child)')
+    isMouseOverGuest = false
+    [].forEach.call(guests, (element, i) ->
+        element.addEventListener 'mouseover', (event) ->
+            if not isMouseOverGuest
+                isMouseOverGuest = true
+                addClass(event, this, 'in')
+
+        element.addEventListener 'mouseout', (event) ->
+            if not _isDescendant element, event.relatedTarget
+                isMouseOverGuest = false
+                addClass(event, this, 'out')
     )
 
 	#
@@ -32,6 +38,17 @@ init = ->
 		setSmallLayout() if mediaQuerySmall.matches
 		window.onresize = ->
 			if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
+
+# Returns `true` if `child` is a children element of `parent`,
+# no matter how deep
+_isDescendant = (parent, child) ->
+    node = child.parentNode
+
+    while node isnt null
+        if node is parent
+            return true
+        node = node.parentNode
+    return false
 
 getMouseEnterDirection = (event, el) ->
 	width = el.offsetWidth
