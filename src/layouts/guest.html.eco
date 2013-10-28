@@ -1,4 +1,6 @@
-<% @document.title = "#{@document.first_name} #{@document.last_name} @ Setup ##{@document.number}" %>
+<% guest_name = @document.first_name %>
+<% guest_name += " #{@document.last_name}" if @document.last_name? and @document.last_name isnt '' %>
+<% @document.title = "#{guest_name} @ Setup ##{@document.number}" %>
 <% months = ['', 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'] %>
 <% split_date = @document.published_date.split('/') %>
 <% day = split_date[0] %>

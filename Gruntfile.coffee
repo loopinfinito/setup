@@ -16,12 +16,12 @@ module.exports = (grunt) ->
         src: './out/'
         dest: '~/staging.setup.loopinfinito.com.br'
         host: 'loopinfinito@bugsy.dreamhost.com'
+        exclude: ['.htaccess', '.htpasswd']
         recursive: true
     htmlmin:
       prod:
         options:
-          removeComments: true,
-          collapseWhitespace: true
+          removeComments: true
         files: [
           expand: true
           src: ['out/**/*.html']
@@ -45,7 +45,7 @@ module.exports = (grunt) ->
     ]
   )
 
-  grunt.registerTask('docpadGenerate', 'Gera arquivos estáticos', () ->
+  grunt.registerTask('docpad:generate', 'Gera arquivos estáticos', () ->
     spawn = require('child_process').spawn
     done = @async()
 
@@ -77,7 +77,7 @@ module.exports = (grunt) ->
     )
   )
 
-  grunt.registerTask('build', ['docpadGenerate', 'clean'])
+  grunt.registerTask('build', ['docpad:generate', 'clean'])
   grunt.registerTask('deploy', [
     'build',
     'htmlmin',

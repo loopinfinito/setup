@@ -3,11 +3,19 @@ layout: guest
 number: '02'
 published_date: 14/08/2013
 first_name: daniel filho
-last_name: ''
+last_name:
 image: daniel-filho.jpg
 keywords: >
-  daniel filho, braziljs, são paulo, netshoes, ig,
-  r7, fone de ouvido
+  daniel filho, braziljs, são paulo, netshoes, ig, r7, fone de ouvido, zofe,
+  zone of front-enders, makeme, google developer group, mackbook pro, magic
+  trackpad, apple keyboard, sony MDR-V150, logitech m500, mousepad razr,
+  battlefield 3 edition, bose, bose companion 5, jawbone jambox, apple earpod,
+  bose quietcomfort 15, JVC HARX300, philips SHP2500, beats by dr. dre solo HD,
+  behringer C1U, iphone 5, ios 7, geeksphone keon, firefoxOS, ipad 2, chrome
+  orlov, opera, firefox, chrome, safari, airmail, netnewswire, reeder,
+  workflowy, libre office, sublime text, git, git gutter, cdnjs, ternjs, sass,
+  sublime linter, iterm 2, dterm, shuttle, github, bitbucket, zsh, gruntjs,
+  grunt, capistrano, vagrant, digital ocean, carl sagan, tesseract
 positions:
   - do: front-end engineer
     at: netshoes
@@ -65,7 +73,7 @@ links:
           No trabalho: Um [MacBook Pro](http://www.apple.com/macbook-pro/features/)
           17" Core i7, [Magic TrackPad](http://www.apple.com/magictrackpad/),
           [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa)
-          com teclado numérico (com fio), um monitor LG E2360 (para
+          com teclado numérico (com fio), um monitor Dell 23" (para
           _dual screen_), para os códigos. No trabalho uso um fone de ouvido
           [Sony MDR-V150](http://www.amazon.com/Sony-MDR-V150-Monitor-Series-Headphones/dp/B000092YPR).
         </p>
@@ -80,7 +88,7 @@ links:
           [mousepad Razr "Battlefield 3 edition"](http://www.amazon.com/Razer-Scarab-Gaming-Mouse-RZ02-00420200-R3M1/dp/B005N7H3PA).
           Como teclado, uso o [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa)
           com teclado numérico e (com fio) (não gosto de periféricos sem fio).
-          Também uso um monitor externo Samsung de 21".
+          Também uso um monitor externo [Dell UltraSharp U2713HM de 27"](http://accessories.la.dell.com/sna/productdetail.aspx?c=br&l=pt&s=dhs&cs=brdhs1&sku=225-4015)".
         </p>
         <p>
           Pra som eu sou meio maníaco. Eu já fiz curso de produção musical e
@@ -94,7 +102,7 @@ links:
           que comentei, dois
           [Apple EarPods](http://store.apple.com/us/product/MD827LL/A/apple-earpods-with-remote-and-mic),
           um [Bose QuietComfort 15](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp), um [JVC HARX300](http://www.amazon.com/JVC-HARX300-Full-Size-Headphones-Black/dp/B000NUYW92),
-          um [Philips SHP2500](http://www.amazon.com/Philips-SHP2500-37-Headphone-Control/dp/B000G31SRU)
+          um [Philips SHP2500](http://www.amazon.com/Philips-SHP2500-37-Headphone-Control/dp/B000G31SRU), um [Sony Pulse USB](http://www.livrariasaraiva.com.br/produto/4729479) para jogos
           e um [Beats by Dr. Dre Solo HD](http://www.beatsbydre.com/headphones/solohd/black/900-00011-01.html).
           Não me julguem.
         </p>
@@ -133,8 +141,8 @@ links:
           _Apps_. Vou me controlar neste tópico! :D Como navegador, tenho sempre
           o principal, mas como todo desenvolvedor _front-end_, vivo usando uma
           _feature_ de um, outra de outro e por aí vai, pra ter o melhor de todos
-          os mundos. Meu navegador padrão é o [Opera](http://www.opera.com/),
-          secundário é [Firefox](http://firefox.com), depois
+          os mundos. Meu navegador padrão é o [Firefox](http://firefox.com),
+          secundário é [Opera](http://opera.com), depois
           [Chrome](https://www.google.com/chrome), depois
           [Safari](http://www.apple.com/safari/).
         </p>
