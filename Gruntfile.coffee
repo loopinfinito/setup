@@ -22,6 +22,8 @@ module.exports = (grunt) ->
       prod:
         options:
           removeComments: true
+          collapseWhitespace: true
+          removeRedundantAttributes: true
         files: [
           expand: true
           src: ['out/**/*.html']
