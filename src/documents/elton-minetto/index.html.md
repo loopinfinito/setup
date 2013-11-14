@@ -43,7 +43,7 @@ links:
           Quando digo que trabalho com computadores eu falo sério, porque
           tudo relacionado a isso me fascina. Já trabalhei com algumas
           linguagens de programação como
-          [Cobol](http://pt.wikipedia.org/wiki/COBOL),
+          [COBOL](http://pt.wikipedia.org/wiki/COBOL),
           [PL/SQL](http://pt.wikipedia.org/wiki/PL/SQL),
           [Python](http://www.python.org/),
           [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -63,7 +63,7 @@ links:
           época do ano.
         </p>
         <p>
-          Me mudei para <strong>Joinville</strong> para encarar um novo desafio,
+          Me mudei para Joinville para encarar um novo desafio,
           o de ser gerente de uma equipe em uma startup que estava sendo criada
           na cidade. Apesar de eu já ter trabalhado com equipes na Unochapecó,
           desta vez a responsabilidade era muito maior e mais complexa. Errei
@@ -107,7 +107,7 @@ links:
           Sou um grande fã dos produtos da <strong>Apple</strong>. Atualmente
           uso um [Macbook Pro 13'' mid 2012](http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.5-13-mid-2012-unibody-usb3-specs.html),
           2.3GHz Core i5, que eu incrementei com 16 GB de
-          <abbr title="Random-access memory">RAM</abbr>. As vezes uso um
+          <abbr title="Random-access memory">RAM</abbr>. Às vezes uso um
           monitor externo, mas não é algo comum.
         </p>
         <p>
@@ -137,7 +137,7 @@ links:
         </p>
         <p>
           Usei [Linux](http://pt.wikipedia.org/wiki/LINUX) como desktop por
-          quase 10 anos e quando fiz a migração para o OS X, em 2007 eu trouxe
+          quase 10 anos e quando fiz a migração para o OS X, em 2007, eu trouxe
           alguns costumes junto, como o vício pelo terminal. Sou muito mais ágil
           usando o <strong>terminal</strong> do que o mouse e sempre tenho uma
           janela aberta para algo. Comecei a usar o
@@ -191,7 +191,7 @@ links:
           [nginx](http://nginx.org/), [PostgreSQL](http://www.postgresql.org/).
           Eu sempre tento manter uma máquina virtual com configuração semelhante
           a que vai existir no servidor de produção do cliente. Geralmente
-          indicamos o [AWS](http://aws.amazon.com/), mas as vezes o cliente
+          indicamos o [AWS](http://aws.amazon.com/), mas às vezes o cliente
           possui uma estrutura pronta e o uso do Vagrant diminui a possibilidade
           de surpresas na hora do deploy para produção.
         </p>
