@@ -13,10 +13,4 @@ title: Setup
     <%- @partial 'guest-tile.html.eco', guest: pages[i].toJSON(), highlight: i == 0, list: true %>
   <% end %>
 
-  <!-- placeholder para participante que ainda nao existe -->
-  <li class="guest guest-placeholder">;)</li>
-  <li class="guest guest-placeholder">=)</li>
-  <li class="guest guest-placeholder">:)</li>
-  <li class="guest guest-placeholder">=)</li>
-
 </ul>
