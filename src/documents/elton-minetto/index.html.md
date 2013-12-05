@@ -6,7 +6,13 @@ first_name: elton
 last_name: minetto
 image: elton-minetto.jpg
 keywords: >
-  lorem, ipsum
+  elton minetto, eminetto, php, zend framework, mac, os x, linux, open source,
+  software livre, coderockr, codesquad, joinville, chapecó, parana, programação,
+  livro, e-book, ZF na prática, doctrine na prática, github, git, svn, safari,
+  firefox, ciência da computação, mba, dba, database administrator, apple,
+  macbook, iphone, ipad, iterm, bash, evernote, adium, skype, sublime text,
+  markdown, writedown, vagrant, mysql, apache, nginx, postgresql, aws, trello,
+  google docs, rdio
 positions:
   - do: cto
     at: coderockr
