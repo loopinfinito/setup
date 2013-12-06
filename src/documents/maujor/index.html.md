@@ -122,7 +122,26 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          dsadas
+          Computador de trabalho: [DELL Inspiron One 2330](http://reviews.cnet.com/desktops/dell-inspiron-one-23/4505-3118_7-35493284.html)
+          com processador Intel Core de 3ª geração i5-3330S, memória de 6GB,
+          disco rígido externo da SATA de 1TB e tela de 23 polegadas Touch
+          Screen, rodando Windows 8.
+        </p>
+        <p>
+          NoteBook: [Samsung RV415](http://www.samsung.com/br/consumer/it-products/notebooks-netbooks/essential/NP-RV415-CD3BR)
+          rodando Windows 8.
+        </p>
+        <p>
+          Tablet: [Samsung GT-P5110](http://www.techspot.com/products/tablets/samsung-galaxy-tab-2-101-inch-gt-p5100-gt-p5110.84022/)
+          rodando Android 4.1.1.
+        </p>
+        <p>
+          Smartphone: [iPhone 5](http://www.theverge.com/2012/9/21/3363238/iphone-5-review).
+        </p>
+        <p>
+          E, um velho Samsung de gabinete com monitor Samsung de 24 polegadas
+          rodando Windows XP que conservo para eventuais consultas a existência
+          de antigos arquivos aparentemente "desaparecidos".
         </p>
       </div>
     </div>
@@ -137,7 +156,31 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          dsadas
+          O navegador de trabalho é [Firefox](http://www.mozilla.org/pt-BR/firefox/new/)
+          e uso também [Chrome](http://www.google.com/intl/pt-BR/chrome/),
+          [Opera](http://www.opera.com/), [IE7](https://www.microsoft.com/pt-br/download/internet-explorer-7-details.aspx)
+          e [IE10](http://windows.microsoft.com/pt-br/internet-explorer/ie-10-worldwide-languages)
+          e [Safari](www.apple.com/br/safari/) em Windows para testes. Meu
+          cliente de email é o [Outlook 2013](http://office.microsoft.com/PT-BR/outlook)
+          configurado para receber as mensagens do Gmail que também recebe
+          minhas contas de email do domínio maujor.com.
+        </p>
+        <p>
+          Para trabalhos de engenharia e pessoais uso [AUTOCAD 2014](),
+          [Word e Excel 2010](http://office.microsoft.com/pt-PT). Meu editor de
+          texto é o [Dreamweaver CS6](http://www.adobe.com/africa/products/dreamweaver.html)
+          e o de imagens o [Fireworks 8](https://creative.adobe.com/products/fireworks).
+        </p>
+        <p>
+          Uso [PHP](http://php.net/) básico com [MySQL](http://www.mysql.com/)
+          para desenvolver scripts para meu site. Um software que gosto muito é o
+          [Beyond Compare](http://www.scootersoftware.com/index.php) para
+          comparação de arquivos. Aliás, estou aguardando a versão para Windows 8.
+        </p>
+        <p>
+          Meus backups estão em HD externo, no [DropBox](https://www.dropbox.com/)
+          e no [SkyDrive](https://skydrive.live.com). Sou maníaco por backups,
+          desde há tempos quando perdi todos meus arquivos.
         </p>
       </div>
     </div>
@@ -152,7 +195,15 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          dsadas
+          Minha motivação continua a mesma de quando comecei com a diferença que
+          cresce dia a dia e que se resume em: __Transmitir conhecimentos,
+          principalmente para quem está se iniciando na carreira__. O efeito
+          colateral disso é uma sensação incrível de dever cumprido, que me
+          motiva ainda mais, quando em eventos de TI, principalmente, recebo
+          depoimentos relatando a gratidão de iniciantes e de profissionais
+          reconhecidos no mercado agradecendo o que aprenderam ou tem aprendido
+          no [maujor.com](http://maujor.com). São depoimentos sinceros e
+          despretenciosos, os mais variados, que me arrepiam até a alma.
         </p>
       </div>
     </div>
@@ -167,7 +218,20 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          dsadas
+          Já tive vários hobbies, cada um próprio a uma fase da minha vida de 70
+          anos. Minha formação militar sempre me colocou em contato com
+          atividades físicas e __desde os 14 anos gosto de jogar volleybol__.
+        </p>
+        <figure>
+          <img src="/images/content/maujor-volley.jpg" class="image-fit" alt="Maujor na praia" />
+        </figure>
+        <p>
+          Hoje sou sócio de uma rede de volley de praia localizada na altura da
+          Rua Figueiredo de Magalhães em Copacabana denominada __Vovoley__. A
+          rede é armada sete dias por semana das 06:30h às 11:30h e é ali que
+          descarrego eventuais tensões, brigo e xingo respeitados senhores
+          de 70/80 anos, bato papo à sombra da lona armada no local e dou minhas
+          cortadas já não tão potentes e manchetes já não tão precisas.
         </p>
       </div>
     </div>
