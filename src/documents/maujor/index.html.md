@@ -37,7 +37,7 @@ links:
           financeiras para bancar meus estudos fora da cidade, fazendo valer seu
           direito de sargento do Exército conseguiu uma vaga como aluno interno
           no [Colégio Militar de Belo Horizonte](http://www.cmbh.ensino.eb.br/)
-          onde aprendi a viver um dia a dia sem o carinho da família, mas que em
+          onde aprendi a viver um dia-a-dia sem o carinho da família, mas que em
           contrapartida me ofereceu o início de uma formação estudantil sólida,
           moldou meu caráter e ensinou-me o valor da disciplina e da hierarquia.
           Valores que cultuei e cultuo por toda minha vida.
@@ -47,7 +47,7 @@ links:
           para a [Academia Militar das Agulhas Negras](http://www.aman.ensino.eb.br/),
           onde fui declarado Aspirante a Oficial do Exército Brasileiro em 1965.
           Em 1972 ingressei no IME – [Instituto Militar de Engenharia](http://www.ime.eb.br/)
-          onde me formei em Engenharia Civil. Em 1976, no posto de capitão,
+          –, onde me formei em Engenharia Civil. Em 1976, no posto de capitão,
           ingressei no Magistério do Exército e fui ser professor de Geometria
           Descritiva e Matemática no Colégio Militar do Rio de Janeiro onde
           permaneci até o posto de Coronel, passando para a reserva em 1990.
@@ -59,7 +59,7 @@ links:
         </p>
         <p>
           Meu envolvimento com computadores de grande porte se deu como aluno do
-          <abbr title="Instituto Militar de Engenharia">IME</abbr> onde aprendi
+          <abbr title="Instituto Militar de Engenharia">IME</abbr>, onde aprendi
           a programar com uso de [FORTRAN](http://pt.wikipedia.org/wiki/Fortran)
           e perfurar cartões nas madrugadas da Praia Vermelha, local no Rio de
           Janeiro onde fica a estação do teleférrico para o Pão de Açúcar.
@@ -77,8 +77,8 @@ links:
         </p>
         <p>
           Meu segundo computador pessoal para valer foi um
-          [TK-80](http://pt.wikipedia.org/wiki/TK80) adquirido em 1982 e desde
-          então sempre atualiza meus modelos de computador pessoal.
+          [TK-80](http://pt.wikipedia.org/wiki/TK80) adquirido em 1982, que
+          desde então sempre atualiza meus modelos de computador pessoal.
         </p>
         <p>
           Me envolvi com web em 2000, já na reserva (aposentado) do Exército com
@@ -88,7 +88,7 @@ links:
           do qual eu era o Presidente e o faz-tudo.
         </p>
         <p>
-          Ao descobrir como fazer um site a paixão foi tão grande que comecei a
+          Ao descobrir como fazer um site, a paixão foi tão grande que comecei a
           estudar tudo sobre sites, importar livros de programação e estudar os
           documentos do [W3C](http://www.w3c.br/Home/WebHome).
         </p>
@@ -99,7 +99,7 @@ links:
           para divulgar o que eu havia aprendido.
         </p>
         <p>
-          Hoje continuo me dedicando a transmissão do conhecimento e curtindo
+          Hoje continuo me dedicando à transmissão do conhecimento e curtindo
           intensamente meus dois netos e duas netas.
         </p>
         <p>
@@ -124,8 +124,8 @@ links:
         <p>
           Computador de trabalho: [DELL Inspiron One 2330](http://reviews.cnet.com/desktops/dell-inspiron-one-23/4505-3118_7-35493284.html)
           com processador Intel Core de 3ª geração i5-3330S, memória de 6GB,
-          disco rígido externo da SATA de 1TB e tela de 23 polegadas Touch
-          Screen, rodando Windows 8.
+          disco rígido externo SATA de 1TB e tela de 23 polegadas Touch Screen,
+          rodando Windows 8.
         </p>
         <p>
           NoteBook: [Samsung RV415](http://www.samsung.com/br/consumer/it-products/notebooks-netbooks/essential/NP-RV415-CD3BR)
@@ -199,9 +199,9 @@ links:
           cresce dia a dia e que se resume em: __Transmitir conhecimentos,
           principalmente para quem está se iniciando na carreira__. O efeito
           colateral disso é uma sensação incrível de dever cumprido, que me
-          motiva ainda mais, quando em eventos de TI, principalmente, recebo
+          motiva ainda mais. Quando em eventos de TI, principalmente, recebo
           depoimentos relatando a gratidão de iniciantes e de profissionais
-          reconhecidos no mercado agradecendo o que aprenderam ou tem aprendido
+          reconhecidos no mercado agradecendo o que aprenderam ou têm aprendido
           no [maujor.com](http://maujor.com). São depoimentos sinceros e
           despretenciosos, os mais variados, que me arrepiam até a alma.
         </p>
@@ -228,7 +228,7 @@ links:
         <p>
           Hoje sou sócio de uma rede de volley de praia localizada na altura da
           Rua Figueiredo de Magalhães em Copacabana denominada __Vovoley__. A
-          rede é armada sete dias por semana das 06:30h às 11:30h e é ali que
+          rede é armada sete dias por semana das 06:30h às 11:30h, e é ali que
           descarrego eventuais tensões, brigo e xingo respeitados senhores
           de 70/80 anos, bato papo à sombra da lona armada no local e dou minhas
           cortadas já não tão potentes e manchetes já não tão precisas.
