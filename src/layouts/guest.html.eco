@@ -69,5 +69,6 @@
   <div class="wrapper">
     <%- @partial('footer.html') %>
   </div>
+  <%- @getBlock('scripts').toHTML() %>
 </body>
 </html>
