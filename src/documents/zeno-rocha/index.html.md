@@ -6,7 +6,15 @@ first_name: zeno rocha
 last_name:
 image: zeno-rocha.jpg
 keywords: >
-  zeno rocha, ...
+  zeno rocha, braziljs, liferay, zofe, zone of front-enders, unirio,
+  caos! design, petrobras, globo, globo esporte, windows, linux, os x, apple,
+  macbook pro, macbook air, fone de ouvido, podcast, ipad mini, nexus 4,
+  firefox os, firefox, opera, chrome, chrome canary, virtualbox, sublime text,
+  dracula theme, zsh, oh my zsh!, iterm 2, alfred, alfred powerpack,
+  alfred workflows, workflowy, github, git, nodegh, eduardo lundgren,
+  sourcetree app, kaleidoscope app, markdown, mou, spotify, google photos,
+  screenflow, licecap, cloudapp, dropbox, time machine, kayak, google now,
+  1password, dash, mariano pimentel, bernard de luna, paul irish
 positions:
   - do: front-end engineer
     at: liferay, inc.
