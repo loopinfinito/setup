@@ -80,10 +80,10 @@ links:
           Hoje eu sou um cara extremamente feliz usando um [Macbook Pro](http://www.apple.com/macbook-pro/) 15", com 512GB de HD SSD e 16GB de RAM. Eu viajo muito, mas muito mesmo, então foi difícil sair do meu antigo [Macbook Air](http://www.apple.com/macbook-air/) 13", mas os novos modelos do Pro estão vindo tão leves quanto o Air, então tudo bem. No trabalho tenho um monitor externo, mas que não faço muita questão em usar.
         </p>
         <p>
-          Não entendo nada de áudio, mas conheço quem entende. Uso um fone de ouvido [Bose AE2](http://www.amazon.com/Bose%C2%AE-AE2-audio-headphones-Black/dp/B00478O0JI/) e um microfone [Behringer C1U](http://www.amazon.com/Behringer-C-1U-Condenser-Microphone-Cardioid/dp/B001QXCYZY) para gravar o [ZOFE](http://zofe.com.br).
+          Não entendo nada de áudio, mas conheço quem entende. Uso um fone de ouvido [Bose AE2](http://www.amazon.com/Bose%C2%AE-AE2-audio-headphones-Black/dp/B00478O0JI/) e um microfone [Behringer C1U](http://www.amazon.com/Behringer-C-1U-Condenser-Microphone-Cardioid/dp/B001QXCYZY) para gravar o [ZOFE](http://zofe.com.br). Para ouvir música no banho, uso uma [Beats Pill](http://www.beatsbydre.com/speakers/beats-pill-2.0.html).
         </p>
         <p>
-          Para ler e assistir seriados uso um [iPad Mini](http://www.apple.com/ipad-mini/overview/) com Retina Display (não entendo como as pessoas gostam daqueles tablets gigantes). E como telefone uso um [Nexus 4](http://www.google.com/nexus/4/) (a experiência de um Android puro é sensacional). Como telefone secundário tenho um [GeeksPhone Keon](http://shop.geeksphone.com/en/phones/1-keon.html) Developer's Preview com [FirefoxOS](http://www.mozilla.org/en-US/firefox/os/).
+          Para ler e assistir seriados uso um [iPad Mini](http://www.apple.com/ipad-mini/overview/) com Retina Display (não entendo como as pessoas gostam daqueles tablets gigantes). E como telefone uso um [Nexus 5](http://www.google.com/nexus/5/) (a experiência de um Android puro é sensacional). Como telefone secundário tenho um [GeeksPhone Keon](http://shop.geeksphone.com/en/phones/1-keon.html) Developer's Preview com [FirefoxOS](http://www.mozilla.org/en-US/firefox/os/).
         </p>
       </div>
     </div>
@@ -98,7 +98,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Passo a maior parte do tempo no browser, tenho instalados [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) e [Opera Next](http://www.opera.com/computer/next), mas meu favorito continua sendo o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html). Para testar sites em navegadores antigos, uso algumas VMs de Windows no [VirtualBox](https://www.virtualbox.org/).
+          Passo a maior parte do tempo no browser, tenho instalados [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) e [Opera Next](http://www.opera.com/computer/next), mas meu favorito continua sendo o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html). Para testar sites em navegadores antigos, uso algumas [VMs de Windows](http://www.modern.ie/en-us/virtualization-tools) no [VirtualBox](https://www.virtualbox.org/).
         </p>
         <p>
           Com relação à editor de código nem preciso falar né, se você me conhece sabe que eu sou apaixonado pelo [Sublime Text](http://sublimetext.com/), hoje na versão 3. Inclusive já gravei alguns vídeos mostrando [como eu uso ele](http://www.youtube.com/watch?v=Ms3Vsz7Jc3A). Meus plugins favoritos são: [Emmet](https://github.com/sergeche/emmet-sublime/) para abreviação de HTML/CSS, [GitGutter](https://github.com/jisaacks/GitGutter) para visualizar diffs, [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) para correção inline e [JSFormat](https://github.com/jdc0589/JsFormat) para formatação. Também criei um conjunto de [snippets para JavaScript e NodeJS](https://github.com/zenorocha/sublime-snippets-js) que me ajuda muito e um tema chamado [Dracula](http://zenorocha.github.io/dracula-theme/). A lista completa de plugins e configurações tá no [GitHub](https://github.com/zenorocha/sublime-preferences).
