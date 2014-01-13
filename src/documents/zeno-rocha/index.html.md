@@ -28,6 +28,7 @@ links:
   - text: @zenorocha
     url: "http://twitter.com/zenorocha"
 ---
+
 <section class="question">
   <div class="wrapper">
     <div class="question-title-area">
@@ -37,7 +38,7 @@ links:
       <div class="question-content text">
         <p>
           Meu nome é Zeno Rocha, tenho 22 anos e sou de Curitiba, Paraná.
-          Todo mundo tem uma história romântica de como começou na *web*, já eu
+          Todo mundo tem uma história romântica de como começou na web, já eu
           nem lembro qual ano ou qual foi meu primeiro site exatamente.
         </p>
         <p>
@@ -45,12 +46,12 @@ links:
           [Universidade Federal do Estado do Rio de Janeiro](http://www.unirio.br/)
           em 2009 para cursar
           [Sistemas de Informação](http://uniriotec.br/bsi/index.html).
-          Nesse mesmo ano fui convidado para o meu primeiro estágio em um
+          Nesse mesmo ano fui convidado para o meu primeiro estágio em uma
           agência de design chamada [Caos! Design](http://caosdesign.com.br/).
           O negócio principal deles era vender experiências únicas na web
           usando Flash. Por isso, ActionScript 3 foi uma escola importante para
-          mim, mas desde aquela época o que realmente me interessava era
-          *Open Web*.
+          mim, mas desde aquela época o que realmente me interessava era Open
+          Web.
         </p>
         <p>
           Com o passar do tempo senti a necessidade de descobrir um outro mundo.
@@ -71,7 +72,7 @@ links:
         </p>
         <p>
           Quando descobri o impacto que poderia fazer no Brasil inteiro através
-          desses projetos pensei: por quê atingir só o Brasil? Por quê não
+          desses projetos pensei: por que atingir só o Brasil? Por que não
           impactar o mundo todo? Então, mesmo com todo o status que trabalhar
           na Globo proporcionava, resolvi sair para trabalhar na
           [Liferay, Inc](http://liferay.com). Hoje trabalho com pessoas do mundo
@@ -148,7 +149,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Passo a maior parte do tempo no *browser*, tenho instalados
+          Passo a maior parte do tempo no browser, tenho instalados
           [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) e
           [Opera Next](http://www.opera.com/computer/next), mas meu favorito
           continua sendo o
@@ -158,16 +159,16 @@ links:
           no [VirtualBox](https://www.virtualbox.org/).
         </p>
         <p>
-          Com relação à editor de código nem preciso falar né, se você me
+          Com relação a editor de código nem preciso falar né, se você me
           conhece sabe que eu sou apaixonado pelo
           [Sublime Text](http://sublimetext.com/), hoje na versão 3. Inclusive
           já gravei alguns vídeos mostrando
           [como eu o uso](http://www.youtube.com/watch?v=Ms3Vsz7Jc3A).
-          Meus *plugins* favoritos são:
+          Meus plugins favoritos são:
           [Emmet](https://github.com/sergeche/emmet-sublime/) para abreviação
           de HTML/CSS,
           [GitGutter](https://github.com/jisaacks/GitGutter) para visualizar
-          *diffs*,
+          diffs,
           [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) para
           correção inline e [JSFormat](https://github.com/jdc0589/JsFormat) para
           formatação. Também criei um conjunto de
@@ -178,11 +179,11 @@ links:
           [GitHub](https://github.com/zenorocha/sublime-preferences).
         </p>
         <p>
-          No terminal uso [zsh](http://www.zsh.org/) como *shell*, tirando
-          proveito das dezenas de *plugins* do
+          No terminal uso [zsh](http://www.zsh.org/) como shell, tirando
+          proveito das dezenas de plugins do
           [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). Volta e meia
           dou uma tunada nos meus
-          [dotfiles](https://github.com/zenorocha/dotfiles) com alguns *plugins*
+          [dotfiles](https://github.com/zenorocha/dotfiles) com alguns plugins
           como o [Z](https://github.com/rupa/z) para navegar entre os
           diretórios. Uso o [iTerm 2](http://www.iterm2.com/) como cliente com
           uma configuração para abrir o terminal até a metade da tela
@@ -193,16 +194,15 @@ links:
           Sou maníaco por produtividade e encontrei no
           [Alfred](http://alfredapp.com) minha alma gêmea. Através do
           [PowerPack](http://www.alfredapp.com/powerpack/) consigo criar
-          *workflows* que automatizam uma série de coisas pra mim. Se você não
+          workflows que automatizam uma série de coisas pra mim. Se você não
           aproveitar nada dessa entrevista pelo menos
           [veja isso](https://github.com/zenorocha/alfred-workflows).
         </p>
         <figure>
           <img
             src="/images/content/zeno-rocha-alfred.png"
-            class="image-fit"
-            style="border:none;"
-          />
+            class="image-float"
+            style="border:none; width:443px; margin-right:-10px; margin-bottom:20px;" />
         </figure>
         <p>
           Me envolvo com muitos projetos ao mesmo tempo e o
@@ -220,18 +220,18 @@ links:
           em tudo. Resolvo a maior parte das coisas no terminal, até por isso
           criei o [NodeGH](http://nodegh.io) junto com o
           [Eduardo Lundgren](http://twitter.com/eduardolundgren), mas tem coisas
-          como *add* iterativo que eu gosto de fazer no
+          como add iterativo que eu gosto de fazer no
           [SourceTree](http://www.sourcetreeapp.com/) e visualizar diferenças
-          de *merge* que eu gosto de ver no
+          de merge que eu gosto de ver no
           [Kaleidoscope](http://www.kaleidoscopeapp.com/).</p>
         <p>
           Praticamente tudo que eu escrevo envolve
           [Markdown](http://en.wikipedia.org/wiki/Markdown), sou viciado nele.
-          O [Mou](http://mouapp.com/) com seu *syntax highlight* e
-          *live preview* já virou indispensável pra mim.
+          O [Mou](http://mouapp.com/) com seu syntax highlight e
+          live preview já virou indispensável pra mim.
         </p>
         <p>
-          Não sei brincar de feeds RSS, tenho uma lista enorme de *blogs* que eu
+          Não sei brincar de feeds RSS, tenho uma lista enorme de blogs que eu
           gosto e acabo acumulando muita coisa por lá.
         </p>
         <p>
@@ -240,11 +240,11 @@ links:
           isso, me incentivou a criar um
           [guia de setup para Mac OS X](https://gist.github.com/zenorocha/7159780)).
           Ouço músicas no [Spotify](https://www.spotify.com) (sincronizadas
-          *offline* no celular) e guardo minhas fotos no
+          offline no celular) e guardo minhas fotos no
           [Google Photos](https://photos.google.com/).
         </p>
         <p>
-          Para gravar *screencasts* ou editar vídeos uso o
+          Para gravar screencasts ou editar vídeos uso o
           [ScreenFlow](http://www.telestream.net/screenflow/), inclusive
           [todos meus vídeos usando a GoPro](https://vimeo.com/zenorocha) são
           editados nele. Para gravar GIFs usava um processo extremamente
@@ -256,7 +256,7 @@ links:
           é a melhor experiência para esse tipo de tarefa que eu já encontrei.
           Consegui ainda configurar um domínio só para ele:
           [zno.io](http://zno.io). Também uso [Dropbox](https://www.dropbox.com/)
-          e [Time Machine](http://support.apple.com/kb/ht1427) para *backup*.
+          e [Time Machine](http://support.apple.com/kb/ht1427) para backup.
         </p>
         <p>
           Para gerenciar minhas viagens uso o [Kayak](http://www.kayak.com) e
@@ -265,7 +265,7 @@ links:
           não só para armazenar minhas senhas e licenças de software mas também
           para guardar o número dos programas de milhas de cada companhia.
           Recentemente comecei a usar o [Dash](http://kapeli.com/dash) para
-          consultar documentação de linguagens/frameworks *offline*, assim consigo
+          consultar documentação de linguagens/frameworks offline, assim consigo
           programar sem problemas no avião.
         </p>
       </div>
@@ -291,7 +291,7 @@ links:
           conhecendo pessoas incríveis em cada canto que eu passo.
         </p>
         <p>
-          Antes o que me motivava era fazer a maior quantidade de *freelas* em
+          Antes o que me motivava era fazer a maior quantidade de freelas em
           menos tempo. Hoje eu sou um cara que só quer ajudar as pessoas e
           mudar o mundo.
         </p>
