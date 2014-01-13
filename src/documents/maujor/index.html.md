@@ -6,7 +6,11 @@ first_name: maujor
 last_name:
 image: maujor.jpg
 keywords: >
-  maujor
+  maujor, mauricio samy silva, CMBH, IME, FORTRAN, HP-35, TK-80, frontpage,
+  abissal clube de pesca, w3c, blog, professor, educador, firefox, chrome,
+  opera, ie7, ie10, safari, outlook 2013, autocad 2014, word 2010, excel 2010,
+  dreamweaver cs6, fireworks 8, php, MySQL, beyond compare, dropbox, skydrive,
+  backup, iniciantes, volleybol, vovoley
 positions:
   - do: autor
     at: blog do maujor
@@ -19,6 +23,7 @@ links:
   - text: @maujor
     url: "http://twitter.com/maujor"
 ---
+
 <section class="question">
   <div class="wrapper">
     <div class="question-title-area">

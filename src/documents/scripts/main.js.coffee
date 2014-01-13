@@ -26,7 +26,7 @@ init = ->
                 addClass(event, this, 'in')
 
         element.addEventListener 'mouseout', (event) ->
-            if not _isDescendant element, event.relatedTarget
+            if event.relatedTarget is null or not _isDescendant element, event.relatedTarget
                 isMouseOverGuest = false
                 addClass(event, this, 'out')
     )
