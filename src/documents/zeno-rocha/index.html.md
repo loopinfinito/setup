@@ -121,13 +121,15 @@ links:
           e um microfone
           [Behringer C1U](http://www.amazon.com/Behringer-C-1U-Condenser-Microphone-Cardioid/dp/B001QXCYZY)
           para gravar o [ZOFE](http://zofe.com.br).
+          Para ouvir música no banho, uso uma
+          [Beats Pill](http://www.beatsbydre.com/speakers/beats-pill-2.0.html).
         </p>
         <p>
           Para ler e assistir seriados uso um
           [iPad Mini](http://www.apple.com/ipad-mini/overview/) com retina
           display (não entendo como as pessoas gostam daqueles tablets
           gigantes). E como telefone uso um
-          [Nexus 4](http://www.google.com/nexus/4/) (a experiência de um Android
+          [Nexus 5](http://www.google.com/nexus/5/) (a experiência de um Android
           puro é sensacional). Como telefone secundário tenho um
           [GeeksPhone Keon](http://shop.geeksphone.com/en/phones/1-keon.html)
           Developer's Preview com
@@ -152,8 +154,8 @@ links:
           continua sendo o
           [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html).
           Para testar sites em navegadores antigos, uso algumas
-          <abbr title="Virtual Machine">VM</abbr>s de Windows no
-          [VirtualBox](https://www.virtualbox.org/).
+          [<abbr title="Virtual Machine">VM</abbr>s de Windows](http://www.modern.ie/en-us/virtualization-tools)
+          no [VirtualBox](https://www.virtualbox.org/).
         </p>
         <p>
           Com relação à editor de código nem preciso falar né, se você me
