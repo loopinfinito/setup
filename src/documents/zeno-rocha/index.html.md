@@ -284,8 +284,8 @@ links:
         <p>
           Sempre adorei programar, mas o dia que eu dei minha primeira palestra
           tudo mudou na minha carreira profissional. Quando você descobre que
-          pode estudar algo que ama e depois compartilhar esse conhecimento com
-          outras pessoas, faz você mudar totalmente seu jeito de pensar.
+          pode __estudar algo que ama e depois compartilhar esse conhecimento
+          com outras pessoas__, faz você mudar totalmente seu jeito de pensar.
         </p>
         <p>
           Desde então eu tenho tido a oportunidade de viajar o mundo todo
@@ -293,8 +293,8 @@ links:
         </p>
         <p>
           Antes o que me motivava era fazer a maior quantidade de freelas em
-          menos tempo. Hoje eu sou um cara que só quer ajudar as pessoas e
-          mudar o mundo.
+          menos tempo. Hoje eu sou um cara que só quer __ajudar as pessoas e
+          mudar o mundo__.
         </p>
       </div>
     </div>
