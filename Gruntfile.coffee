@@ -48,38 +48,6 @@ module.exports = (grunt) ->
     ]
   )
 
-  grunt.registerTask('docpad:generate', 'Gera arquivos estáticos', () ->
-    spawn = require('child_process').spawn
-    done = @async()
-
-    docpad = spawn('docpad', ['generate','--env', 'static'])
-    docpad.stdout.on('data', (data) ->
-      grunt.log.write "#{data}"
-    )
-    docpad.stderr.on('data', (data) ->
-      grunt.log.write "#{data}"
-    )
-    docpad.on('close', (code) ->
-      done true
-    )
-  )
-
-  grunt.registerTask('run', 'Roda server com geração automática de estáticos', () ->
-    spawn = require('child_process').spawn
-    done = @async()
-
-    docpad = spawn('docpad', ['run'])
-    docpad.stdout.on('data', (data) ->
-      grunt.log.write "#{data}"
-    )
-    docpad.stderr.on('data', (data) ->
-      grunt.log.write "#{data}"
-    )
-    docpad.on('close', (code) ->
-      done true
-    )
-  )
-
   grunt.registerTask('build', [
     'docpad:generate',
     'clean'
