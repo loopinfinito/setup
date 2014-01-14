@@ -22,7 +22,6 @@ positions:
     at: braziljs
   - do: apresentador
     at: z.o.f-e
-  - do: recife
 links:
   - text: zenorocha.com
     url: "http://zenorocha.com/"
