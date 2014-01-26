@@ -56,11 +56,6 @@ module.exports = (grunt) ->
         src: ['**/*.{png,jpg,gif}']
         dest: 'out/'
       ]
-    sitemap:
-      dist:
-        siteRoot: 'out/',
-        homepage: 'index.html'
-
   )
 
   grunt.registerTask('build', [
