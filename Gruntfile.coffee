@@ -5,6 +5,8 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-cssmin'
   grunt.loadNpmTasks 'grunt-contrib-uglify'
   grunt.loadNpmTasks 'grunt-contrib-clean'
+  grunt.loadNpmTasks 'grunt-contrib-imagemin'
+  grunt.loadNpmTasks 'grunt-sitemap'
 
   grunt.initConfig(
     rsync:
@@ -46,6 +48,19 @@ module.exports = (grunt) ->
       'out/styles/components'
       'out/styles/templates'
     ]
+    imagemin:
+     dynamic:
+      files: [
+        expand: true,
+        cwd: 'src/',
+        src: ['**/*.{png,jpg,gif}'],
+        dest: 'out/'
+      ]
+    sitemap:
+      dist:
+        siteRoot: 'out/',
+        homepage: 'index.html'
+
   )
 
   grunt.registerTask('build', [
@@ -54,7 +69,9 @@ module.exports = (grunt) ->
   ])
 
   grunt.registerTask('deploy', [
+    'sitemap',
     'build',
+    'imagemin',
     'htmlmin',
     'cssmin',
     'uglify',
@@ -68,3 +85,4 @@ module.exports = (grunt) ->
     'uglify',
     'rsync:staging'
   ])
+
