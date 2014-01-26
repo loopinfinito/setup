@@ -6,7 +6,6 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-uglify'
   grunt.loadNpmTasks 'grunt-contrib-clean'
   grunt.loadNpmTasks 'grunt-contrib-imagemin'
-  grunt.loadNpmTasks 'grunt-sitemap'
 
   grunt.initConfig(
     rsync:
@@ -64,9 +63,7 @@ module.exports = (grunt) ->
   ])
 
   grunt.registerTask('deploy', [
-    'sitemap'
     'build'
-    'imagemin'
     'htmlmin'
     'cssmin'
     'uglify'
