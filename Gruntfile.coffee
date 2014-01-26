@@ -51,9 +51,9 @@ module.exports = (grunt) ->
     imagemin:
      dynamic:
       files: [
-        expand: true,
-        cwd: 'src/',
-        src: ['**/*.{png,jpg,gif}'],
+        expand: true
+        cwd: 'src/'
+        src: ['**/*.{png,jpg,gif}']
         dest: 'out/'
       ]
     sitemap:
@@ -64,25 +64,27 @@ module.exports = (grunt) ->
   )
 
   grunt.registerTask('build', [
-    'docpad:generate',
+    'docpad:generate'
     'clean'
   ])
 
   grunt.registerTask('deploy', [
-    'sitemap',
-    'build',
-    'imagemin',
-    'htmlmin',
-    'cssmin',
-    'uglify',
+    'sitemap'
+    'build'
+    'imagemin'
+    'htmlmin'
+    'cssmin'
+    'uglify'
+    'imagemin'
     'rsync:prod'
   ])
 
   grunt.registerTask('deploy:staging', [
-    'build',
-    'htmlmin',
-    'cssmin',
-    'uglify',
+    'build'
+    'htmlmin'
+    'cssmin'
+    'uglify'
+    'imagemin'
     'rsync:staging'
   ])
 
