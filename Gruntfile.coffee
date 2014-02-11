@@ -67,7 +67,6 @@ module.exports = (grunt) ->
     'htmlmin'
     'cssmin'
     'uglify'
-    'imagemin'
     'rsync:prod'
   ])
 
@@ -76,7 +75,6 @@ module.exports = (grunt) ->
     'htmlmin'
     'cssmin'
     'uglify'
-    'imagemin'
     'rsync:staging'
   ])
 
