@@ -133,10 +133,11 @@ links:
           _Apps_. Vou me controlar neste tópico! :D Como navegador, tenho sempre
           o principal, mas como todo desenvolvedor _front-end_, vivo usando uma
           _feature_ de um, outra de outro e por aí vai, pra ter o melhor de todos
-          os mundos. Meu navegador padrão é o [Opera](http://www.opera.com/),
-          secundário é [Firefox](http://firefox.com), depois
-          [Chrome](https://www.google.com/chrome), depois
-          [Safari](http://www.apple.com/safari/).
+          os mundos. Meu navegador padrão é o 
+          [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/), o 
+          secundário é o [Firefox](http://firefox.com), 
+          depois [Safari](http://www.apple.com/safari/), depois todos que temos
+          que testar pra garantir que tudo funcione bem.
         </p>
         <p>
           Meu cliente de e-mail é o [AirMail](http://airmailapp.com/), para
