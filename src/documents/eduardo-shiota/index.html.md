@@ -1,10 +1,10 @@
 ---
 layout: guest
 number: '08'
-published_date: 12/02/2014
-first_name: shiota
-last_name:
-image: shiota.jpg
+published_date: 18/02/2014
+first_name: eduardo
+last_name: shiota
+image: eduardo-shiota.jpg
 keywords: >
   shiota, eduardo shiota, amsterdã, amsterdam, holanda, booking.com, front-end,
   developer, desenvolvedor, html, css, javascript, ruby, python, mac, os x,
