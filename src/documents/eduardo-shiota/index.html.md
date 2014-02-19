@@ -36,7 +36,7 @@ links:
           [XT](http://pt.wikipedia.org/wiki/IBM_Personal_Computer_XT) com
           comandos básicos no [DOS](http://en.wikipedia.org/wiki/MS-DOS). Tive
           uma infância e adolescência inspiradas por games e programação graças
-          ao meu irmão, [@shadowmaru](twitter.com/shadowmaru). Foi seguindo os
+          ao meu irmão, [@shadowmaru](http://twitter.com/shadowmaru). Foi seguindo os
           passos dele que entrei no mundo do desenvolvimento na web.
         </p>
         <p>
@@ -65,7 +65,7 @@ links:
           que passei a vivenciar o apaixonante mundo das aplicações web e das
           startups. A partir daí, passei por consultorias, agências, pelo Grupo
           Abril, pela [Naspers](http://en.wikipedia.org/wiki/Naspers), comecei a
-          dar treinamentos no [HOWTO](howtocode.com.br), e entrei para o time da
+          dar treinamentos no [HOWTO](http://howtocode.com.br), e entrei para o time da
           [Baby.com.br](http://www.crunchbase.com/company/baby-com-br). Tive a
           honra de conhecer grandes nomes das comunidades de PHP, Ruby e de
           Front-end, e palestrei em várias cidades do Brasil.
