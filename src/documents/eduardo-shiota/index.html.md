@@ -97,18 +97,27 @@ links:
         </p>
         <p>
           No trabalho, tenho um [MacBook Pro](http://www.apple.com/macbook-pro/) 13" Core i7, com 8GB de RAM e
-          128GB de SSD; um [monitor Dell de 24"](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=04&sku=320-2676);
+          128GB de SSD; um [monitor Dell de 24"](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=04&sku=320-2676)
+          e um [Iiyama ProLite B2480HS](http://www.iiyama.com/us_en/products/prolite-b2480hs-1/)
+          de 24" (conectado por um adaptador
+          [USB StarTech USB32DVIPRO](http://uk.startech.com/AV/USB-Video-Adapters/USB-3-to-DVI-VGA-External-Video-Card-Multi-Monitor-Adapter-2048-1152~USB32DVIPRO));
           um [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa)
           (wired); e um [Magic Trackpad](http://www.apple.com/magictrackpad/). Como não costumo levar o computador
           pra casa, resolvi que o peso (comparado a um Air) é compensado pelo
           processador mais parrudo.
         </p>
+        <figure>
+          <img src="/images/content/shiota-trabalho.jpg" class="image-fit" />
+        </figure>
         <p>
           Em casa, tenho um [MacBook Pro](http://www.apple.com/macbook-pro/) 13" Retina Core i5, com 8GB de RAM e
           512GB de SSD. Como me mudei recentemente, não tenho monitor, mouse ou
           teclado externo. Não me vejo comprando-os tão cedo também. A tela do
           Retina é suficiente para mim.
         </p>
+        <figure>
+          <img src="/images/content/shiota-casa.jpg" class="image-fit" />
+        </figure>
         <p>
           No dia-a-dia, uso um [iPhone 5S](https://www.apple.com/iphone-5s/) de 64GB.
           Aqui dá pra comprar um e
