@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '08'
-published_date: 18/02/2014
+published_date: 19/02/2014
 first_name: eduardo
 last_name: shiota
 image: eduardo-shiota.jpg
