@@ -73,7 +73,7 @@ links:
         <p>
           Meu objetivo, no entanto, sempre foi __experimentar a vida fora do país__.
           Foi então que, no meio de 2013, surgiu a oportunidade perfeita e
-          [vim morar em Amsterdã](eshiota.com/blog/2013/11/18/recomecando-do-zero/),
+          [vim morar em Amsterdã](http://eshiota.com/blog/2013/11/18/recomecando-do-zero/),
           na Holanda. Hoje trabalho na [Booking.com](http://booking.com). Mudar
           de país não é fácil, mas posso dizer que foi uma das melhores decisões
           que já tomei — tanto pessoalmente quanto profissionalmente.
