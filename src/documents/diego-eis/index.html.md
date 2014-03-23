@@ -96,6 +96,11 @@ links:
           [HTC Ultimate](http://www.tudocelular.com/HTC/fichas-tecnicas/n2180/HTC-Ultimate.html "HTC Ultimate")
           com [Windows Phone](http://www.windowsphone.com/pt-BR "Windows Phone").
         </p>
+        <figure class="image-fit">
+          <img src="/images/content/diego-eis-workspace.jpg"
+               alt="Escritório. Onde Diego trabalha com o Tableless." />
+          <figcaption>Escritório. Onde Diego trabalha com o Tableless.</figcaption>
+        </figure>
         <p>
           Comprei recentemente um
           [Sony SRS-BTX500](https://store.sony.com/premium-bluetooth-speaker-zid27-SRSBTX500/cat-27-catid-All-iPod-Clocks-Speaker-Docks)
