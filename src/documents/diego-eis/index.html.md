@@ -6,7 +6,12 @@ first_name: diego eis
 last_name:
 image: diego-eis.jpg
 keywords: >
-  diego eis
+  diego eis, tableless, locaweb, sao paulo, diegoeis, treinamento, padrões web,
+  web, blog, convertidos, comunidade, desenvolvimento web, macbook pro retina,
+  cinema display, iphone 5s, htc ultimate, windows phone, sony srs, fitbit one,
+  tweetbot, vsco cam, bible, evernote, netflix, gas cubby, safari, sublime text,
+  brackets, jekyll, middleman, git, bootstrap, adobe illustrator, photoshop,
+  feedly
 positions:
   - do: coordenador front-end
     at: locaweb
@@ -90,9 +95,10 @@ links:
           comprar um.
         </p>
         <p>
-          Eu tenho um [iPhone 5S](https://www.apple.com/br/iphone-5s/ "iPhone
-          5S") que me quebra um galho gigante quando estou longe do meu
-          notebook. Mas o que eu amava mesmo era o meu antigo
+          Eu tenho um
+          [iPhone 5S](https://www.apple.com/br/iphone-5s/ "iPhone 5S") que me
+          quebra um galho gigante quando estou longe do meu notebook. Mas o que
+          eu amava mesmo era o meu antigo
           [HTC Ultimate](http://www.tudocelular.com/HTC/fichas-tecnicas/n2180/HTC-Ultimate.html "HTC Ultimate")
           com [Windows Phone](http://www.windowsphone.com/pt-BR "Windows Phone").
         </p>
