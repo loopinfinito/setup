@@ -41,11 +41,37 @@ question-right()
     color color-orange
 
 .image-fit
+  position relative
   width guest-highlight-dimension
   margin 30px 0
   display block
   border layout-border
   box-sizing border-box
+
+  img
+    width 100%
+    display block
+
+  figcaption
+    position absolute
+    display block
+    width 100%
+    bottom 0
+    left 0
+    background rgba(color-blue-dark, 0.6)
+    padding 15px 30px 15px 45px
+    box-sizing border-box
+    font-family fonts-text
+    font-style italic
+    transition(opacity 0.5s ease)
+
+    &.caption-top
+      bottom auto
+      top 0
+
+  &:hover
+    figcaption
+      opacity 0
 
 .image-float
   width (guest-highlight-dimension / 2)
