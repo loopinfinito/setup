@@ -13,10 +13,10 @@ keywords: >
   brackets, jekyll, middleman, git, bootstrap, adobe illustrator, photoshop,
   feedly
 positions:
-  - do: coordenador front-end
-    at: locaweb
   - do: fundador
     at: tableless
+  - do: coordenador front-end
+    at: locaweb
   - do: são paulo
 links:
   - text: tableless.com.br
@@ -50,8 +50,7 @@ links:
           SaaS/IaaS/PaaS da Locaweb utilizam.
         </p>
         <p>
-          Mas isso tudo é o que eu faço nas horas vagas. O que me ocupa o tempo
-          mesmo e é onde meu coração está é o
+          Mas o que me ocupa mesmo é o
           [Tableless](http://tableless.com.br/ "Tableless"). O Tableless foi um
           dos primeiros websites no Brasil a falar sobre desenvolvimento com
           padrões web. Criei o Tableless em meados de 2003. Antes disso eu só
@@ -84,12 +83,13 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Eu utilizo um
+          Eu uso um
           [MacBook Pro Retina de 13''](https://www.apple.com/br/macbook-pro/features-retina/)
-          que é perfeito porque viajo demais para palestras e aulas. 13'' é o
-          tamanho perfeito para trabalhar remoto. O peso é aceitável e por isso
-          não trocaria por um de 11''. Como a tela retina te acostuma muito mal,
-          estou pensando em trocar meu monitor LCD antigo por um
+          É perfeito porque viajo demais por causa de palestras e principalmente
+          por causa das aulas. 13'' é o tamanho perfeito para trabalhar remoto.
+          O peso é aceitável e por isso não trocaria por um de 11''. A tela
+          retina me acostumou muito mal, por isso estou pensando em trocar meu
+          monitor LCD antigo por um
           [Cinema Display](https://www.apple.com/br/displays/). Mas pra isso eu
           preciso planejar um assalto para poder angariar fundos e finalmente
           comprar um.
@@ -156,11 +156,12 @@ links:
           Para desenvolver uso o [Safari](http://www.apple.com/br/safari/) como
           browser principal e o [Sublime Text](http://www.sublimetext.com/) para
           codificar. Estou testando e gostando muito do
-          [Brackets](http://brackets.io/). Ainda falta uma coisa ou outra para
-          ele desbancar de vez o Sublime Text (para mim). Até lá, vou usando os
-          dois. Diariamente uso [Jekyll](http://jekyllrb.com/),
-          [Middleman](http://middlemanapp.com/), [Git](http://git-scm.com/) e
-          [Bootstrap](http://getbootstrap.com/).
+          [Brackets](http://brackets.io/). Não falta muito para ele desbancar de
+          vez o Sublime Text, mas agora com o advento do
+          [Atom](https://atom.io/), a brincadeira começa a ficar mais
+          interessante. Até lá, vou usando os dois. Diariamente uso
+          [Jekyll](http://jekyllrb.com/), [Middleman](http://middlemanapp.com/),
+          [Git](http://git-scm.com/) e [Bootstrap](http://getbootstrap.com/).
         </p>
         <p>
           Para gráfico uso
@@ -186,10 +187,10 @@ links:
       <div class="question-content text">
         <p>
           Me motiva muito __ajudar a movimentar uma comunidade e a levar as boas
-          práticas de desenvolvimento web__ para o Brasil inteiro. O mercado de
-          web aqui dentro é tão desnivelado que o desafio de ensinar e
-          compartilhar informações de qualidade para desenvolvedores do país
-          inteiro se torna um desafio diário.
+          práticas de desenvolvimento web__ para o Brasil inteiro. O mercado
+          brasileiro é tão desnivelado em relação ao mercado gringo, que o
+          desafio de ensinar e compartilhar informações de qualidade para
+          desenvolvedores do país inteiro se torna um desafio diário.
         </p>
       </div>
     </div>
