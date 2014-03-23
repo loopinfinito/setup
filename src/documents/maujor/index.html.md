@@ -227,8 +227,10 @@ links:
           anos. Minha formação militar sempre me colocou em contato com
           atividades físicas e __desde os 14 anos gosto de jogar volleybol__.
         </p>
-        <figure>
-          <img src="/images/content/maujor-volley.jpg" class="image-fit" alt="Maujor na praia" />
+        <figure class="image-fit">
+          <img src="/images/content/maujor-volley.jpg"
+               alt="Maujor na praia de Copacabana." />
+          <figcaption>Maujor na praia de Copacabana.</figcaption>
         </figure>
         <p>
           Hoje sou sócio de uma rede de volley de praia localizada na altura da

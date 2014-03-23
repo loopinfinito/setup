@@ -106,8 +106,10 @@ links:
           pra casa, resolvi que o peso (comparado a um Air) é compensado pelo
           processador mais parrudo.
         </p>
-        <figure>
-          <img src="/images/content/shiota-trabalho.jpg" class="image-fit" />
+        <figure class="image-fit">
+          <img src="/images/content/shiota-trabalho.jpg"
+               alt="Workspace de Eduardo Shiota na booking.com." />
+          <figcaption>Workspace de Eduardo Shiota na booking.com.</figcaption>
         </figure>
         <p>
           Em casa, tenho um [MacBook Pro](http://www.apple.com/macbook-pro/) 13" Retina Core i5, com 8GB de RAM e
@@ -115,8 +117,10 @@ links:
           teclado externo. Não me vejo comprando-os tão cedo também. A tela do
           Retina é suficiente para mim.
         </p>
-        <figure>
-          <img src="/images/content/shiota-casa.jpg" class="image-fit" />
+        <figure class="image-fit">
+          <img src="/images/content/shiota-casa.jpg"
+               alt="Workspace de Eduardo Shiota em sua casa." />
+          <figcaption class="caption-top">Workspace de Eduardo Shiota em sua casa.</figcaption>
         </figure>
         <p>
           No dia-a-dia, uso um [iPhone 5S](https://www.apple.com/iphone-5s/) de 64GB.
