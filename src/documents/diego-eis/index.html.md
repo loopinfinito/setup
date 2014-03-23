@@ -105,7 +105,7 @@ links:
         <figure class="image-fit">
           <img src="/images/content/diego-eis-workspace.jpg"
                alt="Escritório. Onde Diego trabalha com o Tableless." />
-          <figcaption>Workspace do escritório. Onde Diego trabalha com o Tableless.</figcaption>
+          <figcaption class="caption-top">Workspace do escritório. Onde Diego trabalha com o Tableless.</figcaption>
         </figure>
         <p>
           Comprei recentemente um
