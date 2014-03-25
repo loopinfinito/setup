@@ -65,6 +65,19 @@ links:
           aumentaram, pessoas se interessaram, o blog tomou forma e cresceu.
         </p>
         <p>
+          Hoje, além do blog que conta mais de 20 autores entre convidados e
+          voluntários, mantemos um [fórum](http://tableless.com.br/forum), um
+          repositório de [vídeos tutoriais](http://tableless.com.br/campus), uma
+          comunidade no [Facebook](http://facebook.com/tablelessbr), um Twitter
+          ([@tableless](http://twitter.com/tableless)) bem movimentado e um
+          evento anual, chamado [Tableless
+          Conf](http://tableless.com.br/tablelessconf), feito para poucas
+          pessoas (150) com o intuito de aproximar mais os palestrantes dos
+          ouvintes. Além dos [serviços](http://tableless.com.br/servicos/) que
+          fazemos para empresas que precisam de bom código front-end, websites
+          em Wordpress e codificação back-end.
+        </p>
+        <p>
           Muitas das minhas conquistas aconteceram por causa do Tableless.
           Ensinei muita gente, aprendi muita coisa. Tenho o orgulho de saber que
           vários dos muitos ótimos desenvolvedores brasileiros que conheço
