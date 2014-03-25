@@ -97,7 +97,7 @@ links:
       <div class="question-content text">
         <p>
           Eu uso um
-          [MacBook Pro Retina de 13''](https://www.apple.com/br/macbook-pro/features-retina/)
+          [MacBook Pro Retina de 13''](https://www.apple.com/br/macbook-pro/features-retina/).
           É perfeito porque viajo demais por causa de palestras e principalmente
           por causa das aulas. 13'' é o tamanho perfeito para trabalhar remoto.
           O peso é aceitável e por isso não trocaria por um de 11''. A tela
@@ -148,7 +148,7 @@ links:
       <div class="question-content text">
         <p>
           Com certeza o primeiro da lista é o [sistema do
-          FibBit](http://www.fitbit.com/iphone). Eu uso o tempo inteiro para
+          FitBit](http://www.fitbit.com/iphone). Eu uso o tempo inteiro para
           guardar o que eu como, bebo e atividades físicas.
         </p>
         <p>
