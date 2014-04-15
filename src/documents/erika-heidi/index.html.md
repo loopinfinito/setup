@@ -25,20 +25,20 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Meu nome é Erika Heidi Reinaldo. Sou brasileira, de [João Pessoa - PB](http://en.wikipedia.org/wiki/Jo%C3%A3o_Pessoa),
+        Meu nome é Erika Heidi Reinaldo. Sou brasileira, de [João Pessoa – PB](http://en.wikipedia.org/wiki/Jo%C3%A3o_Pessoa),
         onde morei a maior parte da minha vida. Em 2012, me mudei para Amsterdam
-        - Holanda, com meu marido e nosso cachorro. Sou uma profisional
+        – Holanda, com meu marido e nosso cachorro. Sou uma profissional
         independente, trabalho de casa com projetos próprios. Apesar de fazer
         muitas coisas diferentes em um projeto, a minha paixão é programar.
         </p>
         <p>
-        Trabalho principalmente com PHP desde 2003, mas na verdade eu faço um
-        pouco de tudo no que diz respeito a um projeto web - desde a parte
+        Trabalho principalmente com [PHP](http://www.php.net/) desde 2003, mas na verdade eu faço um
+        pouco de tudo no que diz respeito a um projeto web — desde a parte
         conceitual até o deploy da aplicação. Foi a forma que encontrei para
         evitar o tédio de trabalhar com a mesma coisa todos os dias, e ser capaz
         de criar meus próprios projetos independentemente. Dessa maneira,
         consegui deixar o emprego convencional e viver exclusivamente com a
-        renda do Google Adsense.
+        renda do [Google Adsense](http://adsense.com/‎).
         </p>
         <p>
         Como uma pessoa bastante independente e autodidata, eu nunca dei muito
@@ -68,7 +68,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Meu laptop ainda é o mesmo que trouxe do Brasil: um Dell Inspiron Core
+        Meu laptop ainda é o mesmo que trouxe do Brasil: um [Dell Inspiron](http://www.techtudo.com.br/review/dell-inspiron-14/preco-baixo-e-otimo-desempenho.html) Core
         i5, 14", com 8GB de ram, bastante razoável para as minhas necessidades
         diárias - só vira uma dor de cabeça quando viajo, já que ele não é tão
         leve quanto eu gostaria. No meu desktop, em casa, uso um monitor externo
@@ -78,13 +78,18 @@ links:
         Tive a experiência de trabalhar com um MacBook por cerca de 6 meses (na
         época em que trabalhei para uma empresa daqui), mas para mim é muito
         difícil aceitar as limitações impostas pela Apple, e como usuária Linux
-        desde 1999 eu não me sinto produtiva no OSX, muito menos com um IPhone.
+        desde 1999 eu não me sinto produtiva no OSX, muito menos com um iPhone.
         </p>
         <p>
         Meu celular é um [Nexus](https://play.google.com/store/apps/details?id=com.blyts.greedyspiders2.free) 4. Apesar de ter uma back cover frágil (que eu já
         consegui quebrar), no geral não tive nenhum outro problema com ele,  e
         sou muito feliz com meu Android.
         </p>
+        <figure class="image-fit">
+          <img src="/images/content/erika-heidi-workspace.jpg"
+               alt="Workspace de Erika Heidi em sua casa." />
+          <figcaption>Workspace de Erika Heidi em sua casa.</figcaption>
+        </figure>
         <p>
         Uso também um tablet [Wacom Pen & Touch](http://www.wacom.com/en/us/creative/intuos-m), especialmente útil quando estou
         preparando minhas palestras, já que sempre faço ilustrações para meus
@@ -106,7 +111,7 @@ links:
         <p>
         Por último, mas não menos importante e essencial para o meu trabalho, a
         minha cafeteira: uma [Tassimo Vivy](https://www.tassimo.co.uk/MachineRange/Vivy?category=1442&eshopProduct=951040), da Bosch, que faz um excelente
-        capuccino. Ótimo custo benefício.
+        capuccino. Ótimo custo-benefício.
         </p>
       </div>
     </div>
@@ -122,7 +127,7 @@ links:
       <div class="question-content text">
         </p>
         <p>
-        Uso Ubuntu 12.04 no meu laptop. Como IDE, uso [PHPStorm](http://www.jetbrains.com/phpstorm/), da JetBrains -
+        Uso Ubuntu 12.04 no meu laptop. Como IDE, uso [PHPStorm](http://www.jetbrains.com/phpstorm/), da JetBrains —
         na minha opinião o melhor editor PHP da atualidade. Como Shell, uso
         [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), tem um visual bem bacana e algumas funcionalidades
         interessantes. Também não pode faltar no meu sistema: PHP 5.5, [Nginx](http://nginx.org/)
@@ -175,12 +180,12 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Pra mim, ser uma desenvolvedora é ter o poder de criar, de transformar
-        uma idéia em algo funcional (e, se possível, bonito) - é pura arte. Foi
-        essa visão de código como arte - ao invés de algo puramente técnico e
-        exato - que me trouxe até onde estou hoje. Eu me considero uma pessoa
-        mais criativa do que técnica, e programação para mim é uma ferramenta
-        para criar.
+        Pra mim, ser uma desenvolvedora é __ter o poder de criar, de transformar
+        uma idéia em algo funcional__ (e, se possível, bonito) — é pura arte. Foi
+        essa visão de código como arte — ao invés de algo puramente técnico e
+        exato — que me trouxe até onde estou hoje. Eu me considero uma pessoa
+        mais criativa do que técnica, e __programação para mim é uma ferramenta
+        para criar__.
         </p>
       </div>
     </div>
@@ -201,18 +206,19 @@ links:
         para todos nós da área de TI, e em especial mulheres: [Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper). Ela
         foi uma pioneira, criadora do primeiro compilador, uma das primeiras
         pessoas do mundo a programar um computador ([Harvard Mark 1](http://en.wikipedia.org/wiki/Harvard_Mark_I)), mãe do
-        Cobol - uma das primeiras linguagens de programação modernas - e
+        [COBOL](http://pt.wikipedia.org/wiki/COBOL) — uma das primeiras linguagens de programação modernas — e
         inventora do termo "debugar". Ganhou inúmeras condecorações e prêmios
-        relacionados a tecnologia, sendo inspiração até hoje para eventos e
+        relacionados à tecnologia, sendo inspiração até hoje para eventos e
         iniciativas celebrando e incentivando a presença de mulheres na área.
         "[Amazing Grace](https://www.youtube.com/watch?v=buk_H7V7B2c)", como ficou conhecida, é uma grande inspiração e uma
         verdadeira heroína para qualquer mulher que trabalha hoje com
         programação.
         </p>
-        <p>
-        "Se a idéia é boa, vá em frente e faça. É bem mais fácil pedir desculpas
-        "do que pedir permissão". - Grace Hopper
-        </p>
+        <blockquote>
+          "Se a idéia é boa, vá em frente e faça. É bem mais fácil pedir
+          desculpas do que pedir permissão".
+          <footer>— <cite>Grace Hopper</cite></footer>
+        </blockquote>
       </div>
     </div>
   </div>
