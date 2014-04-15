@@ -6,7 +6,15 @@ first_name: erika heidi
 last_name:
 image: erika-heidi.jpg
 keywords: >
-  erika heidi
+  erika heidi, php, amsterda, amsterdam, desenvolvedora, web, joao pessoa, arte
+  holanda, independente, google adsense, vagrant, dell inspirion, nexus 4,
+  linux, logitech wireless presenter, wacom pen & touch, skullcandy, HMDX Jam,
+  fitbit flex, tassimo vivy, phpstorm, oh-my-zsh, nginx, Composer, git, curl,
+  vim, virtualbox, adobe fireworks, google chorme, adblock, strick workflow,
+  pomodoro, mysql workbench, robomongo, libreoffice impress, ReText, google
+  translator, google maps, twitter, facebook, app, gmail, fitbit app, yahoo
+  weather, tripadvisor, runkeeper, evernote, Greedy Spiders 2, SoundHound, grace
+  hopper, amazing grace, programação
 positions:
   - do: desenvolvedora web independente
   - do: amsterdã
