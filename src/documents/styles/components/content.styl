@@ -1,4 +1,5 @@
 content-padding = 45px
+blockquote-border-width = 5px
 
 question-left()
   padding-right content-padding
@@ -29,7 +30,7 @@ question-right()
 
 .text
 
-  p
+  p, blockquote
     margin 20px 0
     font-family fonts-text
     font-size 16px
@@ -39,6 +40,13 @@ question-right()
     font-family fonts-text-bold
     font-weight normal
     color color-orange
+
+  blockquote
+    width 100%
+    font-style italic
+
+    cite
+      font-style normal
 
 .image-fit
   position relative
@@ -98,6 +106,12 @@ question-right()
     .image-float
       float left
 
+  .text blockquote
+    position relative
+    margin-left - content-padding
+    border-left blockquote-border-width solid color-blue
+    padding 10px 0 10px (content-padding - blockquote-border-width)
+
 .question:nth-of-type(2n+1)
 
   .question-title-area
@@ -116,3 +130,7 @@ question-right()
 
     .image-float
       float right
+
+  .text blockquote
+    border-right blockquote-border-width solid color-blue
+    padding 10px (content-padding - blockquote-border-width) 10px 0
