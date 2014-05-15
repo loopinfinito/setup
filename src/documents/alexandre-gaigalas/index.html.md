@@ -6,7 +6,12 @@ first_name: alexandre
 last_name: gaigalas
 image: alexandre-gaigalas.jpg
 keywords: >
-  alexandre gaigalas, alganet
+  alexandre gaigalas, alganet, grande abc, sao paulo, php, javascript, kingo
+  labs, migre.me, sorteie.me, arizona, guilherme Chapiewski, asus N46VM, Bose
+  SoundLink ii, ubuntu, windows 8.1, firefox, samsung galaxy sii, duolingo,
+  khan Academy, twitter, reddit, sublime text, apt, npm, composer, bower, git,
+  virtualbox, vagrant, mingw, dsl, rest, api semântica, html, json-ld, rdf,
+  respect
 positions:
   - do: desenvolvedor web
   - do: são paulo
