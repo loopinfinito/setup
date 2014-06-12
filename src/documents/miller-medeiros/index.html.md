@@ -98,6 +98,11 @@ links:
           e usar como segundo monitor, e uso uma porrada de livros para deixar
           tanto o monitor quanto o laptop mais altos.
         </p>
+        <figure class="image-fit">
+          <img src="/images/content/miller-medeiros-workspace.jpg"
+               alt="Setup com que Miller programa maior parte do tempo." />
+          <figcaption class="caption-top">Setup com que Miller programa maior parte do tempo.</figcaption>
+        </figure>
         <p>
           Eu uso um [teclado wireless da Apple](https://www.apple.com/keyboard/)
           que comprei uns 4 anos atrás, mas sou doido para ter um
