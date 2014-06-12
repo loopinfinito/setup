@@ -76,7 +76,7 @@ links:
           Durante muitos anos eu fazia piadas com pessoas que usavam Mac, achava
           que era somente um símbolo de status e/ou para pessoas que não sabiam
           mexer no computador. Mas, quando estava voltando pro Brasil, resolvi
-          comprar um MBP já que iria trabalhar em casa e teria que testar os sites
+          comprar um [MacBook Pro](https://www.apple.com/macbook-pro/) já que iria trabalhar em casa e teria que testar os sites
           no maior número de browsers. Acabei acostumando e aprendendo a usar
           bastante o terminal, então hoje em dia acho **difícil** voltar para um PC.
         </p>
@@ -110,8 +110,7 @@ links:
           [Logitech Performance MX](http://www.logitech.com/en-us/product/performance-mouse-mx)
           que eu adorava, mas começou a
           falhar depois de uns 2 anos de uso, então comprei um modelo mais
-          "simples"
-          ([Logitech M510](http://www.logitech.com/en-us/product/wireless-mouse-m510)).
+          "simples", um [Logitech M510](http://www.logitech.com/en-us/product/wireless-mouse-m510).
         </p>
         <p>
           Também tenho uma cadeira
