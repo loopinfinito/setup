@@ -1,20 +1,21 @@
 ---
 layout: guest
 number: '12'
-published_date: 13/06/2014
+published_date: 16/06/2014
 first_name: miller
 last_name: medeiros
 image: miller-medeiros.jpg
 keywords: >
   miller medeiros, miller
 positions:
-  - do: desenvolvedor web
+  - do: front-end engineer
+    at: mozilla
   - do: são paulo
 links:
-  - text: gaigalas.net
-    url: "http://gaigalas.net"
-  - text: about.me/alganet
-    url: "http://about.me/alganet"
+  - text: millermedeiros.com
+    url: "http://blog.millermedeiros.com"
+  - text: @millermedeiros
+    url: "https://twitter.com/millermedeiros"
 ---
 
 <section class="question">
@@ -56,9 +57,9 @@ links:
           Tive que voltar para o Brasil para terminar a faculdade e renovar o
           visto, e decidi ficar. Mudei para São Paulo em 2011, onde vivo até
           hoje. Continuei trabalhando remotamente para a Firstborn até o final
-          de 2013, e atualmente trabalho para a Mozilla no Firefox OS (também
-          remoto), principalmente no desenvolvimento dos aplicativos de
-          calendário e alarme.
+          de 2013, e atualmente trabalho para a [Mozilla](http://www.mozilla.org/)
+          no Firefox OS (também remoto), principalmente no desenvolvimento dos
+          aplicativos de calendário e alarme.
         </p>
       </div>
     </div>
@@ -88,8 +89,8 @@ links:
           achei que o laptop menor seria mais prático (e realmente é). O 15" faz
           mais sentido se você usa bastante o Photoshop (os painéis ocupam muito
           espaço), mas hoje em dia eu trabalho em aplicativos para celular e
-          preciso de uma área bem menor na tela durante o desenvolvimento. -
-          pretendo comprar um monitor maior de 27" no futuro e parar de usar o
+          preciso de uma área bem menor na tela durante o desenvolvimento.
+          Pretendo comprar um monitor maior de 27" no futuro e parar de usar o
           laptop como segundo monitor.
         </p>
         <p>
@@ -207,9 +208,9 @@ links:
           arquivos.
         </p>
         <p>
-          Outro app simples que é bem mão na roda é o
+          Outro app simples que é bem "mão na roda" é o
           [Notational Velocity](http://notational.net/), uso sempre que preciso escrever
-          lembretes rápido e deixo ele salvar os `.txt` na minha pasta do
+          lembretes rápidos e deixo ele salvar os `.txt` na minha pasta do
           Dropbox para depois acessar no celular se precisar.
         </p>
         <p>
@@ -254,7 +255,7 @@ links:
 <section class="question">
   <div class="wrapper">
     <div class="question-title-area">
-      <h2 class="question-title">Um hobbie?</h2>
+      <h2 class="question-title">Um hobby?</h2>
     </div>
     <div class="question-content-area">
       <div class="question-content text">
@@ -262,7 +263,7 @@ links:
           Sempre tento fazer outras coisas que não seja programar (correr, tocar
           guitarra, ler, mountain bike, patins, escalada, assistir
           séries/filmes, brincar com o meu cachorro) mas meus projetos open
-          source ainda são o meu maior hobbie.
+          source ainda são o meu maior hobby.
         </p>
         <p>
           Alguns dos meus projetos, principalmente o [MOUT](http://moutjs.com/)
