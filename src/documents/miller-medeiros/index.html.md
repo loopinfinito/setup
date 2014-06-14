@@ -6,7 +6,13 @@ first_name: miller
 last_name: medeiros
 image: miller-medeiros.jpg
 keywords: >
-  miller medeiros, miller
+  miller medeiros, miller, javascript, programacao, minas gerais, sao paulo,
+  firstborn, big spaceship, fantasy interactive, nova york, nyc, mozilla,
+  firefox os, apple, macbook pro, retina, dell Ultrasharp, photoshop, mstand,
+  code, logitech performance mx, logitech M510, aeron, herman miller, shure
+  se215, macvim, vim, iterm 2, z, ack, http-server, replace, jshint, firefox
+  nightly, style editor, git, make, node.js, irccloud, dropbox, backblaze,
+  notational velocity, mout, esformatter
 positions:
   - do: front-end engineer
     at: mozilla
@@ -58,8 +64,9 @@ links:
           visto, e decidi ficar. Mudei para São Paulo em 2011, onde vivo até
           hoje. Continuei trabalhando remotamente para a Firstborn até o final
           de 2013, e atualmente trabalho para a [Mozilla](http://www.mozilla.org/)
-          no Firefox OS (também remoto), principalmente no desenvolvimento dos
-          aplicativos de calendário e alarme.
+          no [Firefox OS](http://www.mozilla.org/pt-BR/firefox/os/) (também
+          remoto), principalmente no desenvolvimento dos aplicativos de
+          calendário e alarme.
         </p>
       </div>
     </div>
