@@ -32,9 +32,9 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Meu nome é Miller Medeiros, nasci em Julho de 1985 em Leopoldina, Minas
-          Gerais, mas minha família mudou-se para Belo Horizonte no ano seguinte,
-          onde permaneci até os 23 anos de idade.
+          Meu nome é Miller Medeiros, nasci em Julho de 1985 em Leopoldina,
+          Minas Gerais, mas minha família mudou-se para Belo Horizonte no ano
+          seguinte, onde permaneci até os 23 anos de idade.
         </p>
         <p>
           Estudei na Escola Técnica de Formação Gerencial (SEBRAE) durante o
@@ -52,19 +52,21 @@ links:
           sonhava em trabalhar e/ou estudar fora; então resolvi mandar meu
           portfólio para os 9 escritórios de Web Design que eu achava mais
           legais no mundo e acabei sendo chamado para fazer estágio em 3 deles
-          ([Firstborn](http://firstborn.com/), [Big Spaceship](http://bigspaceship.com/) e
-          [Fantasy Interactive](http://f-i.com)). Tranquei minha matrícula e me mudei
-          para Nova York. Minha ideia inicial era ficar 6 meses na Firstborn e 6
-          meses na Big Spaceship, mas acabei sendo contratado na Firstborn.
-          Resolvi mudar para a área de programação e acabei ficando em NY por 2
-          anos.
+          ([Firstborn](http://firstborn.com/),
+          [Big Spaceship](http://bigspaceship.com/) e
+          [Fantasy Interactive](http://f-i.com)). Tranquei minha matrícula e me
+          mudei para Nova York. Minha ideia inicial era ficar 6 meses na
+          Firstborn e 6 meses na Big Spaceship, mas acabei sendo contratado na
+          Firstborn; resolvi mudar para a área de programação e morei em NY por
+          2 anos.
         </p>
         <p>
           Tive que voltar para o Brasil para terminar a faculdade e renovar o
           visto, e decidi ficar. Mudei para São Paulo em 2011, onde vivo até
           hoje. Continuei trabalhando remotamente para a Firstborn até o final
-          de 2013, e atualmente trabalho para a [Mozilla](http://www.mozilla.org/)
-          no [Firefox OS](http://www.mozilla.org/pt-BR/firefox/os/) (também
+          de 2013, e atualmente trabalho para a
+          [Mozilla](http://www.mozilla.org/) no
+          [Firefox OS](http://www.mozilla.org/pt-BR/firefox/os/) (também
           remoto), principalmente no desenvolvimento dos aplicativos de
           calendário e alarme.
         </p>
@@ -84,14 +86,16 @@ links:
           Durante muitos anos eu fazia piadas com pessoas que usavam Mac, achava
           que era somente um símbolo de status e/ou para pessoas que não sabiam
           mexer no computador. Mas, quando estava voltando pro Brasil, resolvi
-          comprar um [MacBook Pro](https://www.apple.com/macbook-pro/) já que iria trabalhar em casa e teria que testar os sites
-          no maior número de browsers. Acabei acostumando e aprendendo a usar
-          bastante o terminal, então hoje em dia acho **difícil** voltar para um PC.
+          comprar um [MacBook Pro](https://www.apple.com/macbook-pro/) já que
+          iria trabalhar em casa e teria que testar os sites no maior número de
+          browsers. Acabei acostumando e aprendendo a usar bastante o terminal,
+          então hoje em dia acho **difícil** voltar para um PC.
         </p>
         <p>
-          A Mozilla fornece laptops para todos os funcionários e eu acabei optando
-          por um Macbook Pro Retina 13" (top de linha), antes eu tinha um 15" (não
-          retina) mas como tenho viajado bastante e tenho um monitor externo
+          A Mozilla fornece laptops para todos os funcionários e eu acabei
+          optando por um Macbook Pro Retina 13" (top de linha), antes eu tinha
+          um 15" (não retina) mas como tenho viajado bastante e tenho um monitor
+          externo
           [Dell Ultrasharp U2311H](http://www.dell.com/hr/p/dell-u2311h/pd)
           achei que o laptop menor seria mais prático (e realmente é). O 15" faz
           mais sentido se você usa bastante o Photoshop (os painéis ocupam muito
@@ -102,9 +106,9 @@ links:
         </p>
         <p>
           Tenho um
-          [mStand da Rain Design](http://www.raindesigninc.com/mstand.html) para apoiar meu laptop
-          e usar como segundo monitor, e uso uma porrada de livros para deixar
-          tanto o monitor quanto o laptop mais altos.
+          [mStand da Rain Design](http://www.raindesigninc.com/mstand.html)
+          para apoiar meu laptop e usar como segundo monitor, e uso uma porrada
+          de livros para deixar tanto o monitor quanto o laptop mais altos.
         </p>
         <figure class="image-fit">
           <img src="/images/content/miller-medeiros-workspace.jpg"
@@ -197,8 +201,8 @@ links:
           No Firefox OS usamos o [Make](http://www.gnu.org/software/make/)
           para automatizar todas as tarefas. Nos meus projetos pessoais (e
           nos projetos antigos) eu utilizo
-          [scripts em node.js](http://blog.millermedeiros.com/node-js-as-a-build-script/) ou
-          shell, caso o script seja simples. JavaScript é minha linguagem
+          [scripts em node.js](http://blog.millermedeiros.com/node-js-as-a-build-script/)
+          ou shell, caso o script seja simples. JavaScript é minha linguagem
           favorita e a que tenho mais experiência, então acho mais produtivo
           escrever os scripts em node.js na maioria das vezes.
         </p>
@@ -216,9 +220,9 @@ links:
         </p>
         <p>
           Outro app simples que é bem "mão na roda" é o
-          [Notational Velocity](http://notational.net/), uso sempre que preciso escrever
-          lembretes rápidos e deixo ele salvar os `.txt` na minha pasta do
-          Dropbox para depois acessar no celular se precisar.
+          [Notational Velocity](http://notational.net/), uso sempre que preciso
+          escrever lembretes rápidos e deixo ele salvar os `.txt` na minha pasta
+          do Dropbox para depois acessar no celular se precisar.
         </p>
         <p>
           Eu tenho um
