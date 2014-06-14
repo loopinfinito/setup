@@ -41,17 +41,17 @@ module.exports = (grunt) ->
           report: 'gzip'
 
     rsync:
+      options:
+        src: './out/'
+        host: 'loopinfinito@highland-park.dreamhost.com'
+        recursive: true
       prod:
-        src: './out/'
-        dest: '~/setup.loopinfinito.com.br'
-        host: 'loopinfinito@bugsy.dreamhost.com'
-        recursive: true
+        options:
+          dest: '~/setup.loopinfinito.com.br'
       staging:
-        src: './out/'
-        dest: '~/staging.setup.loopinfinito.com.br'
-        host: 'loopinfinito@bugsy.dreamhost.com'
-        exclude: ['.htaccess', '.htpasswd']
-        recursive: true
+        options:
+          dest: '~/staging.setup.loopinfinito.com.br'
+          exclude: ['.htaccess', '.htpasswd']
 
 
   grunt.registerTask 'build', [
