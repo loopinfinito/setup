@@ -18,7 +18,7 @@ positions:
 links:
   - text: facebook.com/fabs
     url: "http://facebook.com/fabs"
-  - text: @millermedeiros
+  - text: @fabiomiranda
     url: "https://twitter.com/fabiomiranda"
 ---
 
@@ -113,9 +113,9 @@ links:
           no [blog do Paper](https://www.facebook.com/paper/blog/) e mais
           recentemente na
           [página de trending da copa do mundo](https://www.facebook.com/worldcup/).
-          Acho que desses o Lookback foi o que teve maior impacto, as pessoas
-          geraram mais de 350 milhões de compartilhamentos de seus vídeos e
-          pelas conversar que tive com algumas pessoas, foi perceptível que foi
+          Acho que desses, o Lookback foi o que teve maior impacto, as pessoas
+          geraram mais de 350 milhões de compartilhamentos de seus vídeos, e
+          pelas conversas que tive com algumas pessoas, foi perceptível que foi
           uma experiência positiva.
         </p>
       </div>
@@ -282,7 +282,7 @@ links:
           mesmo sabendo da dificuldade da entrevista, mas eu não tinha nada a
           perder. Esses desafios são muito motivadores, te fazem estudar, pensar
           e crescer. Nunca diga não a um desafio, mesmo que não tenha dado certo
-          anteriormente. Não tenha medo de falhar.
+          anteriormente. __Não tenha medo de falhar.__
         </p>
       </div>
     </div>
