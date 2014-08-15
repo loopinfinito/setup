@@ -94,6 +94,15 @@ links:
         mouse-200/JUD-00001). Não gosto de aparelhos que precisam de pilha. Meu
         mouse mate é uma pilha de papel.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/leo-balter-workspace.jpg"
+            alt="Workspace de Leo Balter"
+          />
+          <figcaption class="caption-bottom">
+            Workspace de Leo Balter.
+          </figcaption>
+        </figure>
         <p>
         Como vou pra muitos eventos de desenvolvimento e acabo levando minha
         máquina, a mochila precisa ser confortável, durável e impermeável. Uso
