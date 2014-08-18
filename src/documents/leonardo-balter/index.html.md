@@ -279,20 +279,6 @@ links:
         largar Direito ela agiu na maior naturalidade: "você já devia ter feito
         isso antes".
         </p>
-        <p>
-        A minha linda esposa Gabriela que esteve no meu lado nos melhores e
-        piores momentos da minha vida, inclusive quando passei uns dois anos me
-        recuperando de uma doença que quase me tirou a vida, hoje faz parte do
-        meu passado e ao lado da minha amada temos um futuro cheio de loucuras
-        que ainda vou planejar.
-        </p>
-        <p>
-        Os meus irmãos Felipe e Luiza que são cerca de 10 anos mais novos e não
-        me deixam perder minha juventude. Eu nunca fui um CDF, eles são e em um
-        nível galático. Da médica super carinhosa ao poliglota autodidata que em
-        breve se torna outro polímata, eu estou em um ambiente de altíssimo
-        padrão perto deles.
-        </p>
       </div>
     </div>
   </div>
