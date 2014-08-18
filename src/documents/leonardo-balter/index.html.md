@@ -10,7 +10,7 @@ keywords: >
 positions:
   - do: engenheiro open web
     at: bocoup
-  - do: engenheiro open web
+  - do: colaborador
     at: QUnit
   - do: rio de janeiro
 links:
