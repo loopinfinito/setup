@@ -28,20 +28,20 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Nascido perto e criado no Rio de Janeiro, digo pra todo mundo que sou
-        carioca da zona norte, no Grajaú, bem longe da praia, mas pertinho da
-        floresta da Tijuca. Em processo de mudança para os EUA, a cidade
-        maravilhosa vai me deixar saudades, mas pretendo voltar com alguma
-        frequência, é impossível abandonar o Rio e nem perder o contato com as
-        comunidades de desenvolvimento.
+        Nascido perto e criado no Rio de Janeiro, digo que sou carioca da zona
+        norte, bem longe da praia, mas pertinho da floresta da Tijuca. Em
+        processo de mudança para os EUA, a cidade maravilhosa vai me deixar
+        saudades, mas pretendo voltar com alguma frequência, é impossível
+        abandonar o Rio e perder o contato com as comunidades de
+        desenvolvimento.
         </p>
         <p>
         Devido à minha curiosidade infinita, me tornei um
         [polímata](http://pt.wikipedia.org/wiki/Pol%C3%ADmata). Estudei música
         por alguns anos, toco guitarra e alguns outros instrumentos, toquei em
         banda, cantei em coral, atuei no Teatro, pratiquei Arco e Flecha,
-        Hipismo Clássico, me formei em Direito, cheguei a fazer MBAs - não
-        finalizadas -  de Gestão Tributária, Arquitetura e Governança de TI, já
+        Hipismo Clássico, me formei em Direito, cheguei a fazer MBAs — não
+        finalizadas —  de Gestão Tributária, Arquitetura e Governança de TI, já
         estudei algumas coisas de Psicologia, História, etc. Em um momento
         estudei numa graduação de tempo reduzido de Análise de Sistemas e
         finalmente um curso de Engenharia de Software.
@@ -51,24 +51,28 @@ links:
         resumir tudo como programador. Sou apaixonado por JavaScript, mas já
         aprendi a programar desde os 9 anos de idade, em 1989, quando fui
         presenteado com um [MSX](https://en.wikipedia.org/wiki/MSX) onde alguns
-        jogos eram carregados com fita cassete de rádio e outros era digitando o
-        código impresso na revista comprada na banca de jornal. Aprendi da pior
-        forma possível que erros de digitação podiam quebrar tudo, mas da melhor
-        forma que eu podia escrever códigos pra criar meus jogos.
+        jogos eram carregados com fita cassete de rádio e outros eram digitando
+        o código impresso na revista comprada na banca de jornal. Aprendi da
+        pior forma possível que erros de digitação podiam quebrar tudo, mas da
+        melhor forma que eu poderia escrever códigos pra criar meus jogos.
         </p>
         <p>
         Por causa disso, acabei ajudando o meu pai a criar o primeiro programa
         de consulta de CEP no Brasil, isso deve ter sido lá por 1994, na época
         lançamos com licença dizendo que seria freeware e disponibilizamos o
         código. Nem sabia, mas estava lançando um projeto Open Source. O
-        programa era feito em Clipper, e rodava no DOS.
+        programa era feito em
+        [Clipper](http://pt.wikipedia.org/wiki/Clipper_%28linguagem_de_programa%C3%A7%C3%A3o%29),
+        e rodava no [DOS](http://pt.wikipedia.org/wiki/DOS).
         </p>
         <p>
         Agora eu tenho uma paixão por Open Source que me torna colaborador do
         [QUnit](http://qunitjs.com/), que é a ferramenta de testes utilizada em
-        grandes projetos como o jQuery, Backbone, Ember, Grunt, etc e adoro
-        aproveitar o tempo para colaborar com outros projetos também. Uma hora
-        ou outra estou ajudando alguns projetos independentes de amigos.
+        grandes projetos como o [jQuery](http://jquery.com/),
+        [Backbone](http://backbonejs.org/), [Ember](http://emberjs.com/),
+        [Grunt](http://gruntjs.com/), etc e adoro aproveitar o tempo livre para
+        colaborar com outros projetos também. Uma hora ou outra estou ajudando
+        alguns projetos independentes de amigos.
         </p>
       </div>
     </div>
@@ -83,8 +87,8 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Atualmente uso somente um MacBook Pro 15" Retina, estou pensando - desde
-        sempre - em começar a usar um monitor extra, mas a vida é muito curta e
+        Atualmente uso somente um MacBook Pro 15" Retina, estou pensando — desde
+        sempre — em começar a usar um monitor extra, mas a vida é muito curta e
         acabo não fazendo isso.
         </p>
         <p>
@@ -97,10 +101,10 @@ links:
         <figure class="image-fit">
           <img
             src="/images/content/leo-balter-workspace.jpg"
-            alt="Workspace de Leo Balter"
+            alt="Workspace fofuxo de Leo Balter"
           />
           <figcaption class="caption-bottom">
-            Workspace de Leo Balter.
+            Workspace fofuxo de Leo Balter.
           </figcaption>
         </figure>
         <p>
@@ -145,22 +149,24 @@ links:
         [devtools](https://developer.mozilla.org/en-US/docs/Tools) está bem
         interessante. O Chrome é bom, e eu amo a concorrência entre os browsers,
         pra mim é fundamental na corrida para quem tem [maior
-        quantidade](http://caniuse.com/) [padrões
+        quantidade](http://caniuse.com/) de [padrões
         implementados](http://kangax.github.io/compat-table/es6/).
         </p>
         <p>
         Para programar, uso o [iTerm 2](http://www.iterm2.com/), o
         [homebrew](http://brew.sh/) para instalar os pacotes básicos no mac,
-        como o Git 2.0.4, o Vim 7.4, NodeJS, etc. Para editor, além do Vim
-        tunadão - olha lá nos meus dotfiles - assim como o [Sublime Text
+        como o [Git](http://git-scm.com/) 2.0.4, o [Vim](http://www.vim.org/)
+        7.4, [NodeJS](http://nodejs.org/), etc. Para editor, além do Vim
+        tunadão — olha lá nos meus dotfiles — assim como o [Sublime Text
         3](http://www.sublimetext.com/), o único plugin que realmente uso com
         alguma frequência é o do
         [ESFormatter](https://github.com/millermedeiros/esformatter) do [Miller
         Medeiros](http://setup.loopinfinito.com.br/miller-medeiros/). Após uma
         tentativa frustrada de usar o [Atom](http://atom.io/), estou dando uma
         chance para o [Brackets](http://brackets.io/), editor Open Source da
-        Adobe. Ainda tem muito código a ser implementado, mas a equipe da
-        feedbacks rápidos e o sistema de plugins como módulos NPM é inspirador.
+        Adobe. Ainda tem muito código a ser implementado, mas a equipe é rápida
+        e atenciosa nos feedbacks e o sistema de plugins como módulos NPM é
+        inspirador.
         </p>
         <p>
         Minhas buscas são feitas no [DuckDuckGo](https://ddg.gg). Meu leitor de
@@ -212,17 +218,17 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Video games. Aprendi a programar por causa dos jogos. Queria hackear os
-        jogos na forma mais pura da vontade. Mil vidas obtidas na ideia do que
-        seria algo sem muito esforço. Eu não programo jogos, mas fico encantado
-        com a ideia que tudo por trás é código e pra mim não é nada mais que um
-        jogo resolver uma issue de um projeto. Ver cada software funcionando é
-        um motivo de orgulho.
+        Video games. __Aprendi a programar por causa dos jogos__. Queria hackear
+        os jogos na forma mais pura da vontade. Mil vidas obtidas na ideia do
+        que seria algo sem muito esforço. Eu não programo jogos, mas fico
+        encantado com a ideia que tudo por trás é código e pra mim não é nada
+        mais que um jogo resolver uma issue de um projeto. Ver cada software
+        funcionando é um motivo de orgulho.
         </p>
         <p>
         Uma outra motivação que me mantém como desenvolvedor são as comunidades.
-        Trabalhar em uma área onde posso compartilhar conhecimento é
-        sensacional. Me inspiro muito quando vejo tantas pessoas se reunindo
+        Trabalhar em uma área onde posso __compartilhar conhecimento é
+        sensacional__. Me inspiro muito quando vejo tantas pessoas se reunindo
         para um bem maior que é o conhecimento distribuído via projetos Open
         Source. É ótimo ver como as coisas funcionam super bem assim.
         </p>
@@ -232,9 +238,10 @@ links:
         básica de que simples atos podiam causar grandes revoluções. Foi nessa
         ideia que me reuni com uma galera e pensamos em criar o
         [FrontInRio](http://leobalter.net/eventos/frontinrio-um-evento-sobre-
-        frontend-no-rio-de-janeiro/), inspirado no DevInRio, queria reunir e
+        frontend-no-rio-de-janeiro/), inspirado no
+        [DevInRio](http://www.devinrio.com.br/), queria reunir e
         conhecer a galera de front end, até então super fragmentada. Na mesma
-        época surgiu o BrazilJS e 2011 deu início à revolução onde agora temos
+        época surgiu o [BrazilJS](http://braziljs.com.br/) e 2011 deu início à revolução onde agora temos
         [várias comunidades](http://communityjs.org/) e FrontIn*s acontecendo em
         dezenas de cidades no Brasil e já ouvi notícia que estão organizando até
         um FrontInAmsterdam, quem sabe? Não organizei nem todos os FrontInRios,
@@ -263,14 +270,14 @@ links:
         </p>
         <p>
         Minha família e amigos também fazem parte da academia artística da minha
-        vida. Minha mãe é empreendedora e foi a primeiras a me ensinar que
-        empreender vai muito além de criar uma empresa, mas sim fazer algo que
-        eu possa contar para meus filhos e netos no futuro. Aprendi com ela que
-        o sucesso vem das coisas mais loucas e triste é quem não muda, além de
-        ter comprado a maioria dos video games quando eu ainda não tinha grana.
-        Até mudar de carreira ela também já fez e quando anunciei que ia largar
-        Direito ela agiu na maior naturalidade: "você já devia ter feito isso
-        antes".
+        vida. Minha mãe é empreendedora e foi a primeira a me ensinar que
+        empreender vai muito além de criar uma empresa, mas sim __fazer algo que
+        eu possa contar para meus filhos e netos no futuro__. Aprendi com ela
+        que o sucesso vem das coisas mais loucas, triste é quem não muda, além
+        de ter comprado a maioria dos meus video games quando eu ainda não tinha
+        grana. Até mudar de carreira ela também já fez e quando anunciei que ia
+        largar Direito ela agiu na maior naturalidade: "você já devia ter feito
+        isso antes".
         </p>
         <p>
         A minha linda esposa Gabriela que esteve no meu lado nos melhores e
