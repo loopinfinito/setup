@@ -6,7 +6,11 @@ first_name: leonardo
 last_name: balter
 image: leonardo-balter.jpg
 keywords: >
-  leonardo balter, leo balter
+  leonardo balter, leo balter, javascript, web, qunit, bocoup, jquery, rio de
+  janeiro, leobalter, polimata, msx, clipper, dos, level8, mozilla, firefox,
+  iterm 2, vim, nodejs, gruntjs, homebrew, esformatter, atom, brackets,
+  duckduckgo, newsblur, github, git, browserstack, front in rio, dev in rio,
+  frontinrio, devinrio, braziljs, comunidade, small acts manisfesto
 positions:
   - do: engenheiro open web
     at: bocoup
@@ -237,15 +241,15 @@ links:
         [Small Acts Manifesto](http://smallactsmanifesto.org/) com a ideia
         básica de que simples atos podiam causar grandes revoluções. Foi nessa
         ideia que me reuni com uma galera e pensamos em criar o
-        [FrontInRio](http://leobalter.net/eventos/frontinrio-um-evento-sobre-
-        frontend-no-rio-de-janeiro/), inspirado no
-        [DevInRio](http://www.devinrio.com.br/), queria reunir e
+        [FrontInRio](http://leobalter.net/eventos/frontinrio-um-evento-sobre-frontend-no-rio-de-janeiro/),
+        inspirado no [DevInRio](http://www.devinrio.com.br/), queria reunir e
         conhecer a galera de front end, até então super fragmentada. Na mesma
-        época surgiu o [BrazilJS](http://braziljs.com.br/) e 2011 deu início à revolução onde agora temos
-        [várias comunidades](http://communityjs.org/) e FrontIn*s acontecendo em
-        dezenas de cidades no Brasil e já ouvi notícia que estão organizando até
-        um FrontInAmsterdam, quem sabe? Não organizei nem todos os FrontInRios,
-        mas tenho um orgulho imenso por me sentir um tanto culpado.
+        época surgiu o [BrazilJS](http://braziljs.com.br/) e 2011 deu início à
+        revolução onde agora temos [várias comunidades](http://communityjs.org/)
+        e FrontIn*s acontecendo em dezenas de cidades no Brasil e já ouvi
+        notícia que estão organizando até um FrontInAmsterdam, quem sabe? Não
+        organizei nem todos os FrontInRio, mas tenho um orgulho imenso por me
+        sentir um tanto culpado.
         </p>
       </div>
     </div>
