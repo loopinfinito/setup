@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '14'
-published_date: 18/08/2014
+published_date: 19/08/2014
 first_name: leonardo
 last_name: balter
 image: leonardo-balter.jpg
