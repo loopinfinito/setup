@@ -147,8 +147,8 @@ links:
         linha de comando do [git](http://git-scm.com/).
         </p>
         <p>
-        Hoje faço muita coisa de front-end então o Grunt me acompanha. Sou fã de
-        [LESS](http://lesscss.org/) e
+        Hoje faço muita coisa de front-end então o [Grunt](http://gruntjs.com/)
+        me acompanha. Sou fã de [LESS](http://lesscss.org/) e
         [Stylus](http://learnboost.github.io/stylus/) (e não de
         [SASS](http://sass-lang.com/)) e amo o browser-sync. Mas tenho um grande
         histórico de backend também. Hoje programo bastante em Java e PHP no
@@ -180,14 +180,14 @@ links:
         nossa área de TI tem esse diferencial muito bom de, rapidamente e sem
         burocracia, poder prototipar, desenvolver, lançar e observar os
         resultados. Isso me motiva muito. Gosto muito também de trabalhar em uma
-        empresa relativamente pequena, sem hierarquias e longos processos. A
-        agilidade no dia-a-dia me motiva bastante.
+        empresa relativamente pequena, sem hierarquias e longos processos.
+        __A agilidade no dia-a-dia me motiva bastante__.
         </p>
         <p>
         E, quando o foco da sua vida e do seu trabalho é educação, a motivação é
         óbvia. Todo dia converso com pessoas cujas vidas e carreiras foram
-        tocadas pelas aulas, livros, palestras e posts no blog. É gratificante e
-        muito motivante ver como nosso trabalho faz outras pessoas crescerem,
+        tocadas pelas aulas, livros, palestras e posts no blog. __É gratificante
+        e muito motivante ver como nosso trabalho faz outras pessoas crescerem__,
         evoluírem, terem carreiras de sucesso.
         </p>
       </div>
