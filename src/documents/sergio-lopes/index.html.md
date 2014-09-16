@@ -30,8 +30,9 @@ links:
         banca. Minha primeira linha de código foi em HTML e logo caí em SSI e
         depois PHP. Isso tudo no colegial. Peguei gosto pela coisa e fui fazer
         faculdade de Ciência da Computação na USP. Lá cresci bastante como
-        profissional e conheci os fundadores da Caelum, onde comecei a estagiar
-        em 2004.
+        profissional e conheci os fundadores da
+        [Caelum](http://www.google.com/url?q=http%3A%2F%2Fwww.caelum.com.br%2F&sa=D&sntz=1&usg=AFQjCNE_Y7aWohbBQEbCzI45NhFr9KUKqg),
+        onde comecei a estagiar em 2004.
         </p>
         <p>
         Abandonei a faculdade nesse meio tempo quando percebi que tinha mais
@@ -44,10 +45,16 @@ links:
         <p>
         Apesar de amar a Web, tanto a faculdade quanto a empresa acabaram me
         levando para o backend. Programei bastante em Java (até escrevi um
-        livro!). O renascimento do frontend com a evolução mais recente da Web
+        [livro](http://www.google.com/url?q=http%3A%2F%2Fwww.casadocodigo.com.br%2Fproducts%2Flivro-arquitetura-java&sa=D&sntz=1&usg=AFQjCNFnH5SPWn3nL4oWH-5vSv8Hno6isA)!).
+        O renascimento do frontend com a evolução mais recente da Web
         me fez voltar minha carreira novamente pra isso nos últimos anos.
-        Palestro bastante em eventos, blogo sempre que posso e até lancei meu
-        livro A Web Mobile (além de ter organizado a Coletânea Front-end).
+        [Palestro](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org%2Fpalestras%2F&sa=D&sntz=1&usg=AFQjCNHuqw7Pj48fJvFmHpRCSJZWgXQc7A)
+        bastante em eventos,
+        [blogo](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org&sa=D&sntz=1&usg=AFQjCNEJ41ZklZTC_sxut4DmlR1DzkE9Bw)
+        sempre que posso e até lancei meu livro
+        [A Web Mobile](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org%2Flivro-web-mobile%2F&sa=D&sntz=1&usg=AFQjCNGVEbZFA6tqRGhYb9HNgj_N0JA9zw)
+        (além de ter organizado a
+        [Coletânea Front-end](http://www.google.com/url?q=http%3A%2F%2Fwww.casadocodigo.com.br%2Fproducts%2Flivro-coletanea-front-end%2F&sa=D&sntz=1&usg=AFQjCNGSEHxNCefYWCtApFXSjFgkeq0Itg)).
         </p>
         <p>
         Na Caelum, as coisas foram crescendo rapidamente. Comecei como
@@ -94,9 +101,13 @@ links:
         </p>
         <p>
         Pra leitura, já tive de tudo - Kindle (primeiras gerações), tablet,
-        smartphone grande. Ultimamente voltei pro Kindle e tenho um Paperwhite
-        que acho fantástico. E, para diversão em casa, tenho Roku, Chromecast,
-        PS3 e um servidor de mídia rodando num MacBook velho.
+        smartphone grande. Ultimamente voltei pro Kindle e tenho um
+        [Paperwhite](http://www.google.com/url?q=http%3A%2F%2Fwww.amazon.com.br%2Fgp%2Fproduct%2FB00JG8GBDM&sa=D&sntz=1&usg=AFQjCNHAf4GO3ueqNK7J3SYmjaaySSfSUA)
+        que acho fantástico. E, para diversão em casa, tenho
+        [Roku](https://www.google.com/url?q=https%3A%2F%2Fwww.roku.com%2F&sa=D&sntz=1&usg=AFQjCNGYG8rqf0GB-AdVOqpVr5OYDdhwaQ),
+        [Chromecast](http://www.google.com/Chromecast),
+        [PS3](http://pt.wikipedia.org/wiki/PlayStation_3) e um servidor de mídia
+        rodando num MacBook velho.
         </p>
       </div>
     </div>
@@ -114,29 +125,47 @@ links:
         Sou usuário de Chrome, tanto dia-a-dia quanto desenvolvimento. Tudo que
         posso fazer na Web ao invés de instalar um aplicativo eu faço (email,
         leitor de feed, redes sociais, documentos, planilhas). Maior exceção
-        talvez seja o Keynote para apresentações que não consigo largar de tão
-        superior que é.
+        talvez seja o
+        [Keynote](https://www.google.com/url?q=https%3A%2F%2Fwww.apple.com%2Fbr%2Fmac%2Fkeynote%2F&sa=D&sntz=1&usg=AFQjCNF5GYs925aE4bqGyLWPkuTpeEXQ2Q)
+        para apresentações que não consigo largar de tão superior que é.
         </p>
         <p>
-        Meu editor de código é o Sublime pra maioria das coisas, apesar de eu
-        usar Eclipse pra projetos mais complexos (geralmente em Java). Uso
-        Pixelmator pra imagens, acompanhado dos obrigatórios ImageOptim,
-        ImageAlpha e JPEGMini para otimizações. E me zooam bastante por isso,
-        mas devo dizer que sou usuário feliz do Github for Mac - ao invés da
-        linha de comando do git.
+        Meu editor de código é o
+        [Sublime](http://www.google.com/url?q=http%3A%2F%2Fwww.sublimetext.com%2F&sa=D&sntz=1&usg=AFQjCNEE5ynzO0yuxTJ9qkqtaF5n2k2sTQ)
+        pra maioria das coisas, apesar de eu usar
+        [Eclipse](https://www.google.com/url?q=https%3A%2F%2Fwww.eclipse.org%2F&sa=D&sntz=1&usg=AFQjCNEqecVl0gE0Eqmxaw05Z47ac8eWFw)
+        pra projetos mais complexos (geralmente em Java). Uso
+        [Pixelmator](http://www.google.com/url?q=http%3A%2F%2Fwww.pixelmator.com%2F&sa=D&sntz=1&usg=AFQjCNHupnmwd1ISq722Yo4CLDGoGMWo1w)
+        pra imagens, acompanhado dos obrigatórios
+        [ImageOptim](https://www.google.com/url?q=https%3A%2F%2Fimageoptim.com%2F&sa=D&sntz=1&usg=AFQjCNF10MHwZnAQIkwmwPD7u3f9lE3E3w),
+        [ImageAlpha](http://www.google.com/url?q=http%3A%2F%2Fpngmini.com%2F&sa=D&sntz=1&usg=AFQjCNHyvtXHZL14I6oTIbnmCgO5mcQ0wg)
+        e [JPEGMini](http://www.google.com/url?q=http%3A%2F%2Fwww.jpegmini.com%2F&sa=D&sntz=1&usg=AFQjCNG-oncvfylzAUvWUFhSLvi1JmYRgg)
+        para otimizações. E me zooam bastante por isso, mas devo dizer que sou
+        usuário feliz do
+        [Github for Mac](https://www.google.com/url?q=https%3A%2F%2Fmac.github.com%2F&sa=D&sntz=1&usg=AFQjCNGiA-FBtut_Z9Ju7Vhm2KpcsIf_Vg)
+        - ao invés da linha de comando do git.
         </p>
         <p>
         Hoje faço muita coisa de frontend então o Grunt me acompanha. Sou fã de
-        LESS e Stylus (e não de SASS) e amo o browser-sync. Mas tenho um grande
+        [LESS](http://www.google.com/url?q=http%3A%2F%2Flesscss.org%2F&sa=D&sntz=1&usg=AFQjCNHyaG6OGCQoyYDFU5HHrHPcAFq0Jg)
+        e [Stylus](http://www.google.com/url?q=http%3A%2F%2Flearnboost.github.io%2Fstylus%2F&sa=D&sntz=1&usg=AFQjCNHO5NjH2Stmz2Nqf02Bv8p3wG6H1Q)
+        (e não de SASS) e amo o browser-sync. Mas tenho um grande
         histórico de backend também. Hoje programo bastante em Java e PHP no
         dia-a-dia, mas gosto de Python e Node.js também apesar de não usar muito
         agora.
         </p>
         <p>
-        Sou fã do LastPass, melhor gerenciador de senhas de todo o universo.
-        Assino o Dropbox com prazer. O Feedly é o melhor leitor de feeds (e faço
-        questão da subscription paga pra suportar os caras). E o Plex o
-        gerenciador de mídia mais completo (também assino pra apoiar os caras).
+        Sou fã do
+        [LastPass](https://www.google.com/url?q=https%3A%2F%2Flastpass.com%2F&sa=D&sntz=1&usg=AFQjCNGAtReMOyLHxD5zFc3IfB0fJg4ecg),
+        melhor gerenciador de senhas de todo o universo.
+        Assino o
+        [Dropbox](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2F&sa=D&sntz=1&usg=AFQjCNEPyYmnWXCaUnWKkLMHYdjoq_jreQ)
+        com prazer. O
+        [Feedly](https://www.google.com/url?q=https%3A%2F%2Fwww.feedly.com%2F&sa=D&sntz=1&usg=AFQjCNEn09WOZv_NlkdC7z5bHzO6YgMWXA)
+        é o melhor leitor de feeds (e faço questão da subscription paga pra
+        suportar os caras). E o
+        [Plex](https://www.google.com/url?q=https%3A%2F%2Fplex.tv%2F&sa=D&sntz=1&usg=AFQjCNEAhcfxgmfxlnFEMJG0oQgip9q5nQ)
+        o gerenciador de mídia mais completo (também assino pra apoiar os caras).
         </p>
       </div>
     </div>
@@ -192,8 +221,9 @@ links:
         Feedly e meus zilhares de feeds. Leio bastante todo dia sobre Web e
         programação, mas gosto muito de temas de negócios, marketing, economia e
         psicologia. Literatura eu acabo lendo menos por falta de tempo, mas
-        gosto também. Hoje estou relendo o melhor livro de todos os tempos, Dom
-        Quixote, de Miguel de Cervantes.
+        gosto também. Hoje estou relendo o
+        [melhor livro de todos os tempos](http://www.google.com/url?q=http%3A%2F%2Fwww1.folha.uol.com.br%2Ffolha%2Freuters%2Fult112u15532.shtml&sa=D&sntz=1&usg=AFQjCNHzj415dEiLImo5sjnG7au6lnHIyA),
+        Dom Quixote, de Miguel de Cervantes.
         </p>
       </div>
     </div>
