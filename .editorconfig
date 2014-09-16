@@ -1,0 +1,28 @@
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# indentation
+[*.styl]
+indent_style = space
+indent_size = 2
+
+[*.coffee]
+indent_style = space
+indent_size = 2
+
+[*.yaml]
+indent_style = space
+indent_size = 2
+
+[*.md]
+indent_style = space
+indent_size = 2
+
+[*.hbt]
+indent_style = space
+indent_size = 4
