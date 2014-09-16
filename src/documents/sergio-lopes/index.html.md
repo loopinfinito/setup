@@ -27,12 +27,12 @@ links:
       <div class="question-content text">
         <p>
         Comecei a programar com 14 anos comprando fascículos de revista na
-        banca. Minha primeira linha de código foi em HTML e logo caí em SSI e
-        depois PHP. Isso tudo no colegial. Peguei gosto pela coisa e fui fazer
+        banca. Minha primeira linha de código foi em HTML e logo caí em
+        [SSI](http://en.wikipedia.org/wiki/Server_Side_Includes) e
+        depois [PHP](http://php.net/). Isso tudo no colegial. Peguei gosto pela coisa e fui fazer
         faculdade de Ciência da Computação na USP. Lá cresci bastante como
         profissional e conheci os fundadores da
-        [Caelum](http://www.google.com/url?q=http%3A%2F%2Fwww.caelum.com.br%2F&sa=D&sntz=1&usg=AFQjCNE_Y7aWohbBQEbCzI45NhFr9KUKqg),
-        onde comecei a estagiar em 2004.
+        [Caelum](https://www.caelum.com.br/), onde comecei a estagiar em 2004.
         </p>
         <p>
         Abandonei a faculdade nesse meio tempo quando percebi que tinha mais
@@ -44,17 +44,17 @@ links:
         </p>
         <p>
         Apesar de amar a Web, tanto a faculdade quanto a empresa acabaram me
-        levando para o backend. Programei bastante em Java (até escrevi um
-        [livro](http://www.google.com/url?q=http%3A%2F%2Fwww.casadocodigo.com.br%2Fproducts%2Flivro-arquitetura-java&sa=D&sntz=1&usg=AFQjCNFnH5SPWn3nL4oWH-5vSv8Hno6isA)!).
-        O renascimento do frontend com a evolução mais recente da Web
+        levando para o backend. Programei bastante em
+        [Java](http://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
+        (até escrevi um
+        [livro](http://www.casadocodigo.com.br/products/livro-arquitetura-java)!).
+        O renascimento do front-end com a evolução mais recente da Web
         me fez voltar minha carreira novamente pra isso nos últimos anos.
-        [Palestro](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org%2Fpalestras%2F&sa=D&sntz=1&usg=AFQjCNHuqw7Pj48fJvFmHpRCSJZWgXQc7A)
-        bastante em eventos,
-        [blogo](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org&sa=D&sntz=1&usg=AFQjCNEJ41ZklZTC_sxut4DmlR1DzkE9Bw)
-        sempre que posso e até lancei meu livro
-        [A Web Mobile](http://www.google.com/url?q=http%3A%2F%2Fsergiolopes.org%2Flivro-web-mobile%2F&sa=D&sntz=1&usg=AFQjCNGVEbZFA6tqRGhYb9HNgj_N0JA9zw)
-        (além de ter organizado a
-        [Coletânea Front-end](http://www.google.com/url?q=http%3A%2F%2Fwww.casadocodigo.com.br%2Fproducts%2Flivro-coletanea-front-end%2F&sa=D&sntz=1&usg=AFQjCNGSEHxNCefYWCtApFXSjFgkeq0Itg)).
+        [Palestro](http://sergiolopes.org/palestras/) bastante em eventos,
+        [blogo](http://sergiolopes.org/) sempre que posso e até lancei meu livro,
+        [A Web Mobile](http://sergiolopes.org/livro-web-mobile/) (além de ter
+        organizado a
+        [Coletânea Front-end](http://www.casadocodigo.com.br/products/livro-coletanea-front-end/)).
         </p>
         <p>
         Na Caelum, as coisas foram crescendo rapidamente. Comecei como
@@ -67,7 +67,7 @@ links:
         Hoje meu foco no trabalho é em levar inovações no ensino em cursos,
         cursos online e até uma editora de livros. Passamos muito tempo pensando
         em como evoluir a educação no Brasil. Como desenvolvedor, meu foco é em
-        frontend, especialmente mobile, design responsivo e otimizações de
+        front-end, especialmente mobile, design responsivo e otimizações de
         performance.
         </p>
       </div>
@@ -83,18 +83,25 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Uso um MacBook Pro já meio velho. Tá na hora de trocar, mas a
-        expectativa pelo novo Air de 12'' me fez segurar os planos. Sou talvez o
-        único programador na Terra que não gosta de monitor externo, mouse nem
-        teclado. Vivo levando meu notebook pra lá e pra cá. Acho que trabalho em
-        muitos lugares diferentes e odiaria ter um setup mais complexo em casa
-        ou no trabalho e me sentir desamparado nos outros lugares.
+        Uso um [MacBook Pro](https://www.apple.com/br/macbook-pro/) já meio
+        velho. Tá na hora de trocar, mas a expectativa pelo novo
+        [Air](https://www.apple.com/br/macbook-air/) de 12'' me fez segurar os
+        planos. Sou talvez o único programador na Terra que não gosta de monitor
+        externo, mouse nem teclado. Vivo levando meu notebook pra lá e pra cá.
+        Acho que trabalho em muitos lugares diferentes e odiaria ter um setup
+        mais complexo em casa ou no trabalho e me sentir desamparado nos outros
+        lugares.
         </p>
         <p>
-        Meu smartphone pessoal é um Android (puro). Sou mega fã de Android.
-        Mega. Mas como meu foco é mobile e responsivo, tenho muitos outros
-        dispositivos em casa. Vários iOS, Windows Phone, Blackberry, Firefox OS,
-        Kindle, Androids de vários fabricantes e até um S40. Tenho bastante
+        Meu smartphone pessoal é um [Android](http://www.android.com/) (puro).
+        Sou mega fã de Android. Mega. Mas como meu foco é mobile e responsivo,
+        tenho muitos outros dispositivos em casa. Vários
+        [iOS](http://pt.wikipedia.org/wiki/IOS),
+        [Windows Phone](http://www.windowsphone.com/pt-BR),
+        [Blackberry](http://pt.wikipedia.org/wiki/BlackBerry),
+        [Firefox OS](https://www.mozilla.org/pt-BR/firefox/os/),
+        [Kindle](https://kindle.amazon.com/), Androids de vários fabricantes e
+        até um [S40](http://en.wikipedia.org/wiki/Series_40). Tenho bastante
         experiência prática em várias dessas plataformas, e por isso gosto do
         Android com propriedade (Windows Phone é bacana também, mas a escassez
         de Apps mata).
@@ -102,9 +109,9 @@ links:
         <p>
         Pra leitura, já tive de tudo - Kindle (primeiras gerações), tablet,
         smartphone grande. Ultimamente voltei pro Kindle e tenho um
-        [Paperwhite](http://www.google.com/url?q=http%3A%2F%2Fwww.amazon.com.br%2Fgp%2Fproduct%2FB00JG8GBDM&sa=D&sntz=1&usg=AFQjCNHAf4GO3ueqNK7J3SYmjaaySSfSUA)
-        que acho fantástico. E, para diversão em casa, tenho
-        [Roku](https://www.google.com/url?q=https%3A%2F%2Fwww.roku.com%2F&sa=D&sntz=1&usg=AFQjCNGYG8rqf0GB-AdVOqpVr5OYDdhwaQ),
+        [Paperwhite](http://www.amazon.com.br/gp/product/B00JG8GBDM) que acho
+        fantástico. E, para diversão em casa, tenho
+        [Roku](https://www.roku.com/),
         [Chromecast](http://www.google.com/Chromecast),
         [PS3](http://pt.wikipedia.org/wiki/PlayStation_3) e um servidor de mídia
         rodando num MacBook velho.
@@ -125,47 +132,36 @@ links:
         Sou usuário de Chrome, tanto dia-a-dia quanto desenvolvimento. Tudo que
         posso fazer na Web ao invés de instalar um aplicativo eu faço (email,
         leitor de feed, redes sociais, documentos, planilhas). Maior exceção
-        talvez seja o
-        [Keynote](https://www.google.com/url?q=https%3A%2F%2Fwww.apple.com%2Fbr%2Fmac%2Fkeynote%2F&sa=D&sntz=1&usg=AFQjCNF5GYs925aE4bqGyLWPkuTpeEXQ2Q)
-        para apresentações que não consigo largar de tão superior que é.
+        talvez seja o [Keynote](https://www.apple.com/br/mac/keynote/) para
+        apresentações que não consigo largar de tão superior que é.
         </p>
         <p>
-        Meu editor de código é o
-        [Sublime](http://www.google.com/url?q=http%3A%2F%2Fwww.sublimetext.com%2F&sa=D&sntz=1&usg=AFQjCNEE5ynzO0yuxTJ9qkqtaF5n2k2sTQ)
-        pra maioria das coisas, apesar de eu usar
-        [Eclipse](https://www.google.com/url?q=https%3A%2F%2Fwww.eclipse.org%2F&sa=D&sntz=1&usg=AFQjCNEqecVl0gE0Eqmxaw05Z47ac8eWFw)
+        Meu editor de código é o [Sublime](http://www.sublimetext.com/) pra
+        maioria das coisas, apesar de eu usar [Eclipse](https://www.eclipse.org/)
         pra projetos mais complexos (geralmente em Java). Uso
-        [Pixelmator](http://www.google.com/url?q=http%3A%2F%2Fwww.pixelmator.com%2F&sa=D&sntz=1&usg=AFQjCNHupnmwd1ISq722Yo4CLDGoGMWo1w)
-        pra imagens, acompanhado dos obrigatórios
-        [ImageOptim](https://www.google.com/url?q=https%3A%2F%2Fimageoptim.com%2F&sa=D&sntz=1&usg=AFQjCNF10MHwZnAQIkwmwPD7u3f9lE3E3w),
-        [ImageAlpha](http://www.google.com/url?q=http%3A%2F%2Fpngmini.com%2F&sa=D&sntz=1&usg=AFQjCNHyvtXHZL14I6oTIbnmCgO5mcQ0wg)
-        e [JPEGMini](http://www.google.com/url?q=http%3A%2F%2Fwww.jpegmini.com%2F&sa=D&sntz=1&usg=AFQjCNG-oncvfylzAUvWUFhSLvi1JmYRgg)
+        [Pixelmator](http://www.pixelmator.com/) pra imagens, acompanhado dos
+        obrigatórios [ImageOptim](https://imageoptim.com/),
+        [ImageAlpha](http://pngmini.com/) e [JPEGMini](http://www.jpegmini.com/)
         para otimizações. E me zooam bastante por isso, mas devo dizer que sou
-        usuário feliz do
-        [Github for Mac](https://www.google.com/url?q=https%3A%2F%2Fmac.github.com%2F&sa=D&sntz=1&usg=AFQjCNGiA-FBtut_Z9Ju7Vhm2KpcsIf_Vg)
-        - ao invés da linha de comando do git.
+        usuário feliz do [Github for Mac](https://mac.github.com/) - ao invés da
+        linha de comando do [git](http://git-scm.com/).
         </p>
         <p>
-        Hoje faço muita coisa de frontend então o Grunt me acompanha. Sou fã de
-        [LESS](http://www.google.com/url?q=http%3A%2F%2Flesscss.org%2F&sa=D&sntz=1&usg=AFQjCNHyaG6OGCQoyYDFU5HHrHPcAFq0Jg)
-        e [Stylus](http://www.google.com/url?q=http%3A%2F%2Flearnboost.github.io%2Fstylus%2F&sa=D&sntz=1&usg=AFQjCNHO5NjH2Stmz2Nqf02Bv8p3wG6H1Q)
-        (e não de SASS) e amo o browser-sync. Mas tenho um grande
+        Hoje faço muita coisa de front-end então o Grunt me acompanha. Sou fã de
+        [LESS](http://lesscss.org/) e
+        [Stylus](http://learnboost.github.io/stylus/) (e não de
+        [SASS](http://sass-lang.com/)) e amo o browser-sync. Mas tenho um grande
         histórico de backend também. Hoje programo bastante em Java e PHP no
-        dia-a-dia, mas gosto de Python e Node.js também apesar de não usar muito
-        agora.
+        dia-a-dia, mas gosto de [Python](https://www.python.org/) e
+        [Node.js](http://nodejs.org/) também apesar de não usar muito agora.
         </p>
         <p>
-        Sou fã do
-        [LastPass](https://www.google.com/url?q=https%3A%2F%2Flastpass.com%2F&sa=D&sntz=1&usg=AFQjCNGAtReMOyLHxD5zFc3IfB0fJg4ecg),
-        melhor gerenciador de senhas de todo o universo.
-        Assino o
-        [Dropbox](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2F&sa=D&sntz=1&usg=AFQjCNEPyYmnWXCaUnWKkLMHYdjoq_jreQ)
-        com prazer. O
-        [Feedly](https://www.google.com/url?q=https%3A%2F%2Fwww.feedly.com%2F&sa=D&sntz=1&usg=AFQjCNEn09WOZv_NlkdC7z5bHzO6YgMWXA)
-        é o melhor leitor de feeds (e faço questão da subscription paga pra
-        suportar os caras). E o
-        [Plex](https://www.google.com/url?q=https%3A%2F%2Fplex.tv%2F&sa=D&sntz=1&usg=AFQjCNEAhcfxgmfxlnFEMJG0oQgip9q5nQ)
-        o gerenciador de mídia mais completo (também assino pra apoiar os caras).
+        Sou fã do [LastPass](https://lastpass.com/), melhor gerenciador de
+        senhas de todo o universo. Assino o [Dropbox](https://www.dropbox.com)
+        com prazer. O [Feedly](https://feedly.com) é o melhor leitor de feeds
+        (e faço questão da subscription paga pra suportar os caras). E o
+        [Plex](https://plex.tv/) o gerenciador de mídia mais completo (também
+        assino pra apoiar os caras).
         </p>
       </div>
     </div>
@@ -222,7 +218,7 @@ links:
         programação, mas gosto muito de temas de negócios, marketing, economia e
         psicologia. Literatura eu acabo lendo menos por falta de tempo, mas
         gosto também. Hoje estou relendo o
-        [melhor livro de todos os tempos](http://www.google.com/url?q=http%3A%2F%2Fwww1.folha.uol.com.br%2Ffolha%2Freuters%2Fult112u15532.shtml&sa=D&sntz=1&usg=AFQjCNHzj415dEiLImo5sjnG7au6lnHIyA),
+        [melhor livro de todos os tempos](http://www1.folha.uol.com.br/folha/reuters/ult112u15532.shtml),
         Dom Quixote, de Miguel de Cervantes.
         </p>
       </div>
