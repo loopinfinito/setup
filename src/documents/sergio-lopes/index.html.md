@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '15'
-published_date: 16/09/2014
+published_date: 18/09/2014
 first_name: sérgio lopes
 last_name:
 image: sergio-lopes.jpg
