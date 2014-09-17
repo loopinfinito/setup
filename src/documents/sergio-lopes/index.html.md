@@ -6,7 +6,12 @@ first_name: sérgio lopes
 last_name:
 image: sergio-lopes.jpg
 keywords: >
-  sérgio lopes
+  sérgio lopes, setup, caelum, web design responsivo, móvel, device, dispositivo
+  móvel, dispositivo, livro, performance, mobile, a web mobile, coletânea
+  front-end, ssi, php, java, node js, html, css, macbook pro, android, ios,
+  windows phone, blackberry, firefox os, kindle, s40, paperwhite, roku, python,
+  chromecast, ps3, keynote, sublime, eclipse, pixelmator, imageoptim, ImageAlpha,
+  JPEGMini, grunt, git, less, stylus, LastPass, dropbox, feedly, plex, dom quixote
 positions:
   - do: instrutor e desenvolvedor
     at: caelum
@@ -45,8 +50,7 @@ links:
         <p>
         Apesar de amar a Web, tanto a faculdade quanto a empresa acabaram me
         levando para o backend. Programei bastante em
-        [Java](http://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
-        (até escrevi um
+        [Java](http://bit.ly/1s5PFDm) (até escrevi um
         [livro](http://www.casadocodigo.com.br/products/livro-arquitetura-java)!).
         O renascimento do front-end com a evolução mais recente da Web
         me fez voltar minha carreira novamente pra isso nos últimos anos.
