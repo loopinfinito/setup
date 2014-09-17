@@ -163,9 +163,10 @@ links:
         Hoje faço muita coisa de front-end então o [Grunt](http://gruntjs.com/)
         me acompanha. Sou fã de [LESS](http://lesscss.org/) e
         [Stylus](http://learnboost.github.io/stylus/) (e não de
-        [SASS](http://sass-lang.com/)) e amo o browser-sync. Mas tenho um grande
-        histórico de backend também. Hoje programo bastante em Java e PHP no
-        dia-a-dia, mas gosto de [Python](https://www.python.org/) e
+        [SASS](http://sass-lang.com/)) e amo o
+        [BrowserSync](http://www.browsersync.io/). Mas tenho um grande histórico
+        de backend também. Hoje programo bastante em Java e PHP no dia-a-dia,
+        mas gosto de [Python](https://www.python.org/) e
         [Node.js](http://nodejs.org/) também apesar de não usar muito agora.
         </p>
         <p>
