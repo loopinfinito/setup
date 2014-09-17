@@ -92,6 +92,15 @@ links:
         mais complexo em casa ou no trabalho e me sentir desamparado nos outros
         lugares.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/sergio-lopes-workspace.jpg"
+            alt="Setup do Sérgio Lopes: MacBook e dispositivos móveis."
+          />
+          <figcaption class="caption-bottom">
+            Setup do Sérgio Lopes: MacBook e dispositivos móveis.
+          </figcaption>
+        </figure>
         <p>
         Meu smartphone pessoal é um [Android](http://www.android.com/) (puro).
         Sou mega fã de Android. Mega. Mas como meu foco é mobile e responsivo,
@@ -204,8 +213,6 @@ links:
       <div class="question-content text">
         <p>
         No tempo livre gosto bastante de ler e de assistir séries e filmes.
-        </p>
-        <p>
         Investi num setup bacana pra gerenciar meus downloads com Roku,
         Chromecast e um servidor Mac pra baixar tudo. Não tenho TV a cabo, só
         downloads e streamming (Netflix) em casa. Aliás, é impressionante como
