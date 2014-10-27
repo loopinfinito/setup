@@ -56,7 +56,8 @@ links:
         <p>
         Comecei a faculdade estagiando nos [Correios](http://correios.com.br/)
         como programadora. Trabalhava com
-        [ColdFusion](http://pt.wikipedia.org/wiki/ColdFusion) e SQLServer, mas
+        [ColdFusion](http://pt.wikipedia.org/wiki/ColdFusion) e
+        [SQLServer](http://pt.wikipedia.org/wiki/Microsoft_SQL_Server), mas
         também comecei a me envolver muito mais com front-end, pois trabalhava
         no projeto da intranet regional. Foi lá que li meu primeiro livro de
         usabilidade:
@@ -65,7 +66,7 @@ links:
         de cabeça na área de usabilidade, que me levou à acessibilidade.
         </p>
         <p>
-        Em 2007, entrei em uma multinacional e trabalhei em projetos para
+        Em 2007, entrei em uma multinacional e trabalhei em projetos para os
         Estados Unidos, Reino Unido, Austrália, etc. Aprendi muito sobre design
         de interface, performance web e arquitetura de informação, mas também
         decidi que queria trabalhar mais com HTML/CSS/JS, sem perder o foco na
@@ -129,23 +130,32 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Meu notebook é um pouco "velhinho", já vai fazer 4 anos. É um Dell
-        Inspiron 15.6" com Core i5, 4 GB de RAM e 320 de HD. Pretendo investir
-        em outra máquina, mas ainda não decidi se comparei um MacBook.
-        Geralmente tenho dual boot para Windows/Ubuntu, mas esta minha máquina
-        está somente com Windows 7. Percebo que isso causa muita estranheza nas
-        pessoas. Não tenho problema em utilizar outros SOs, mas uso o Windows
-        por questão de compatibilidade com alguns software e jogos. Eu vejo o SO
-        como mais uma ferramenta de trabalho, procuro me manter produtiva
-        independente do SO e consigo fazer tudo o que preciso. Sempre digo que a
-        ferramenta não faz o profissional, o profissional é que usa a ferramenta
-        como extensão do potencial que ele já possui. Também uso em casa um
-        mouse wireless da Microsoft. Para emergências, tenho um modem 3G que já
-        me socorreu várias vezes.
+        Meu notebook é um pouco "velhinho", já vai fazer 4 anos. É um
+        [Dell Inspiron](http://www.dell.com/us/dfh/p/inspiron-laptops) 15.6" com
+        Core i5, 4 GB de RAM e 320 de HD. Pretendo investir em outra máquina,
+        mas ainda não decidi se comparei um MacBook. Geralmente tenho dual boot
+        para Windows/Ubuntu, mas esta minha máquina está somente com Windows 7.
+        Percebo que isso causa muita estranheza nas pessoas. Não tenho problema
+        em utilizar outros SOs, mas uso o Windows por questão de compatibilidade
+        com alguns software e jogos. Eu vejo o SO como mais uma ferramenta de
+        trabalho, procuro me manter produtiva independente do SO e consigo fazer
+        tudo o que preciso. Sempre digo que a ferramenta não faz o profissional,
+        o profissional é que usa a ferramenta como extensão do potencial que ele
+        já possui. Também uso em casa um mouse wireless da Microsoft. Para
+        emergências, tenho um modem 3G que já me socorreu várias vezes.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/talita-pagani-workspace.jpg"
+            alt="Workspace de Talita Pagani"
+          />
+          <figcaption class="caption-top">
+            Workspace de Talita Pagani.
+          </figcaption>
+        </figure>
         <p>
-        Não sou adepta de tablets. Como dispositivo móvel, tenho um Samsung
-        Galaxy S5.
+        Não sou adepta de tablets. Como dispositivo móvel, tenho um
+        [Samsung Galaxy S5](http://www.samsung.com/gr/microsite/galaxys5/).
         </p>
         <p>
         No meu trabalho, uso um notebook Lenovo, Core i3, 4 GB de RAM e 320 de
@@ -171,8 +181,8 @@ links:
         [Firefox Nightly](https://nightly.mozilla.org/). Para trabalhar com
         design responsivo e testes de acessibilidade, o Firefox tem sido o
         melhor navegador: para RWD, por conta do modo de design adaptável; para
-        acessibilidade, por ser o que mais
-        [implementa as especificações do WAI-ARIA no Windows](http://html5accessibility.com/).
+        acessibilidade, por ser o que mais implementa as
+        [especificações do WAI-ARIA no Windows](http://html5accessibility.com/).
         Uso o [Opera](http://www.opera.com/pt-br) apenas para testes, assim como
         o Internet Explorer.
         </p>
@@ -182,10 +192,11 @@ links:
         [Aptana Studio](http://www.aptana.com/) (que é uma IDE, na verdade) e
         [Notepad++](http://notepad-plus-plus.org/). Sim, os três. Eu vou
         revezando entre eles de acordo com a necessidade, gosto de experimentar
-        diferentes editores. Como uso o Less como pré-processador CSS, faço uso
-        do [WinLess](http://winless.org/) para compilação. Para comparar
-        arquivos de código fonte, se eles não estiverem no controle de versão,
-        utilizo o [CSDiff](http://www.componentsoftware.com/Products/csdiff/).
+        diferentes editores. Como uso o [Less](http://lesscss.org/) como
+        pré-processador CSS, faço uso do [WinLess](http://winless.org/) para
+        compilação. Para comparar arquivos de código fonte, se eles não
+        estiverem no controle de versão, utilizo o
+        [CSDiff](http://www.componentsoftware.com/Products/csdiff/).
         </p>
         <p>
         Para controle de versão, utilizo SVN com
@@ -200,8 +211,9 @@ links:
         [Google Drive](http://drive.google.com/). Uso mais o GDrive para
         documentos colaborativos e materiais que quero compartilhar facilmente
         (acho melhor do que o Dropbox nesse sentido), como os materiais das
-        minhas aulas. Utilizo o PowerPoint para preparar minhas palestras e
-        materiais de aula.
+        minhas aulas. Utilizo o
+        [PowerPoint](http://products.office.com/en-us/powerpoint) para preparar
+        minhas palestras e materiais de aula.
         </p>
         <p>
         Quando preciso trabalhar em algum layout nas horas vagas, utilizo o
@@ -265,16 +277,16 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Minha maior motivação é poder fazer a vida das pessoas melhores através
+        Minha maior motivação é poder fazer a vida das pessoas melhor através
         do meu trabalho, seja como desenvolvedora ou como docente. Eu sou uma
         pessoa de exatas com um pezinho em humanas, olho sempre para o lado
         social do que estou fazendo, então para mim a tecnologia não é fim, é
-        meio. Eu vejo na web a possibilidade de permitir que qualquer pessoa
-        tenha acesso à informação, ao conhecimento e a serviços. Como
+        meio. Eu vejo na web a possibilidade de __permitir que qualquer pessoa
+        tenha acesso à informação__, ao conhecimento e a serviços. Como
         desenvolvedora e profissional de UX/acessibilidade, enxergo como uma
         missão contribuir para que isso seja possível. Como professora e
-        palestrante, o que motiva é poder ajudar as pessoas a construir o
-        conhecimento delas, mais do que apenas compartilhar conhecimento.
+        palestrante, o que motiva é poder __ajudar as pessoas a construir o
+        conhecimento delas__, mais do que apenas compartilhar conhecimento.
         </p>
       </div>
     </div>
