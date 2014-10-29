@@ -6,7 +6,15 @@ first_name: talita pagani
 last_name:
 image: talita-pagani.jpg
 keywords: >
-  talita pagani
+  talita pagani, frontinterior, front-end, w3c, w3c brasil, bauru, ciencia da
+  computação, ufscar, mstech, usc, ms frontpage, dhtml, vbscript, correios,
+  coldfusion, sqlserver, tableless, damn aliens, richard Johansen, dell
+  inspirion, samsung galaxy s5, Chrome, Firefox, Firefox nightly, Opera, Sublime
+  text, Aptana studio, Notepad++, Less, WinLess, CSDiff, Tortoise SVN,
+  SourceTree, git, Dropbox, Google, PowerPoint, Photoshop, InkScape,
+  Illustrator, OpenProj, Redmine, Trello, Podio, Daltonize, NVDA, ASES, Balsamiq
+  mockups, Microsoft Visio, MS project, FreeMind, DeskTime, PomodoroApp,
+  Focus45, Priority, Maiêutica de Sócrates
 positions:
   - do: curadora
     at: FrontInterior
