@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '16'
-published_date: 21/10/2014
+published_date: 31/10/2014
 first_name: talita pagani
 last_name:
 image: talita-pagani.jpg
