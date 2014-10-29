@@ -8,9 +8,9 @@ image: talita-pagani.jpg
 keywords: >
   talita pagani
 positions:
-  - do: co-idealizadora e curadora
+  - do: curadora
     at: FrontInterior
-  - do: membro do GT de Acessibilidade
+  - do: contribuidora
     at: w3c brasil
   - do: bauru
 links:
@@ -35,6 +35,9 @@ links:
         e mestranda em Ciência da Computação na [UFSCar](http://www.ufscar.br/).
         Trabalho na [MSTECH](http://www.mstech.com.br/) e também sou professora
         de pós-graduação em Engenharia de Software na [USC](http://www.usc.br/).
+        Continuo me dedicando à área de front-end paralelamente a de gestão de
+        projetos e também às áreas de usabilidade e acessibilidade, nas quais
+        tenho me focado desde 2009.
         </p>
         <p>
         Quando tive meu primeiro computador em 2000, mal sabia que iria me
