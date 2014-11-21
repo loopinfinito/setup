@@ -36,7 +36,7 @@ links:
         De lá pra cá fiz de tudo um pouco, comecei em uma empresa bem pequena
         criada por pessoas que haviam feito algum dinheiro antes da primeira
         bolha da Internet, onde desenvolvia sites de pizzarias, salões de beleza
-        e cursos de inglês - além de cadastrar todos eles na mão nos mecanismos
+        e cursos de inglês – além de cadastrar todos eles na mão nos mecanismos
         de busca da época (Cadê?, Yahoo!, Altavista…).
         </p>
         <p>
@@ -56,10 +56,11 @@ links:
         <p>
         Finalmente, veio a vontade de casar e ter um filho e junto a isso o
         desejo de ter mais segurança profissional e acabei chegando aqui na
-        globo.com, onde atualmente sou desenvolvedor na área de Entretenimento.
-        Também escrevi regularmente para o
-        [Tableless](http://www.tableless.com.br) durante algum tempo (agora fico
-        sempre me cobrando pra escrever, mas vocês sabem como é).
+        [globo.com](http://globo.com), onde atualmente sou desenvolvedor na área
+        de [Entretenimento](http://gshow.globo.com). Também escrevi regularmente
+        para o [Tableless](http://tableless.com.br/author/davitferreira/)
+        durante algum tempo (agora fico sempre me cobrando pra escrever, mas
+        vocês sabem como é).
         </p>
         <p>
         Cheguei a cursar metade de Informática e metade de Desenho Industrial,
@@ -78,9 +79,12 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Em casa uso um Dell Inspiron com Ubuntu e na globo.com um Macbook Pro.
-        Não sou muito ligado nessa briga Apple vs. PC, acho que os dois têm os
-        seus prós e contras, como tudo na vida.
+        Em casa uso um
+        [Dell Inspiron](http://www.dell.com/br/p/laptops#inspiron-laptops) com
+        Ubuntu e na globo.com um
+        [Macbook Pro](https://www.apple.com/br/macbook-pro/). Não sou muito
+        ligado nessa briga Apple vs. PC, acho que os dois têm os seus prós e
+        contras, como tudo na vida.
         </p>
         <p>
         Desenvolvedores devem investir bastante em hardwares que não atrapalhem
@@ -106,18 +110,23 @@ links:
         [emmet](https://github.com/mattn/emmet-vim) e
         [NERDTree](https://github.com/scrooloose/nerdtree). No Ubuntu uso o
         [Terminator](http://gnometerminator.blogspot.com.br/p/introduction.html)
-        e no Mac o [iTerm2](http://iterm2.com/). Browser principal é o Chrome.
+        e no Mac o [iTerm2](http://iterm2.com/). Browser principal é o
+        [Chrome](https://www.google.com/intl/pt-BR/chrome/browser/).
         </p>
         <p>
         Para me organizar, uso bastante o [Evernote](http://www.evernote.com) e
-        o [Wunderlist](https://www.wunderlist.com/) e para me comunicar
-        Adium/Pidgin e [Slack](https://slack.com/).
+        o [Wunderlist](https://www.wunderlist.com/) e para me comunicar,
+        [Adium](https://adium.im/)/[Pidgin](https://www.pidgin.im/) e
+        [Slack](https://slack.com/).
         </p>
         <p>
-        Linguagens? HTML/(S)CSS/JS de um lado, Python (Django, Flask) e Ruby
-        (Rails, Sinatra) do outro. Frameworks front-end dependem muito do
-        projeto, mas virei fã do [React](http://facebook.github.io/react/) e da
-        arquitetura
+        Linguagens? HTML, (S)CSS e JavaScript de um lado, Python
+        ([Django](https://www.djangoproject.com/),
+        [Flask](http://flask.pocoo.org/)) e Ruby
+        ([Rails](http://www.rubyonrails.com.br/),
+        [Sinatra](http://www.sinatrarb.com/)) do outro. Frameworks front-end
+        dependem muito do projeto, mas virei fã do
+        [React](http://facebook.github.io/react/) e da arquitetura
         [Flux](http://facebook.github.io/react/docs/flux-overview.html).
         </p>
       </div>
@@ -158,13 +167,21 @@ links:
       <div class="question-content text">
         <p>
         Ler. Procuro estar sempre lendo alguma coisa que não tenha nada a ver
-        com programação. Sou fã de autores como Ian McEwan, Paul Auster, Philip
-        Roth, J. M. Coetzee e Orhan Pamuk (Museu da Inocência é um dos meus
-        livros favoritos). Também gosto muito dos clássicos de ficção científica
-        como Isaac Asimov e Arthur C. Clarke e livros de fantasia,
-        principalmente Neil Gaiman. Leitura é uma ótima forma de exercitar a
-        criatividade e em um mundo onde estamos sempre recebendo informações
-        repletas de imagens a imaginação está ficando para trás.
+        com programação. Sou fã de autores como
+        [Ian McEwan](http://pt.wikipedia.org/wiki/Ian_McEwan),
+        [Paul Auster](http://pt.wikipedia.org/wiki/Paul_Auster),
+        [Philip Roth](http://pt.wikipedia.org/wiki/Philip_Roth),
+        [J. M. Coetzee](http://pt.wikipedia.org/wiki/J._M._Coetzee) e
+        [Orhan Pamuk](http://pt.wikipedia.org/wiki/Orhan_Pamuk) (Museu da
+        Inocência é um dos meus livros favoritos). Também gosto muito dos
+        clássicos de ficção científica como
+        [Isaac Asimov](http://pt.wikipedia.org/wiki/Isaac_Asimov) e
+        [Arthur C. Clarke](http://pt.wikipedia.org/wiki/Arthur_C._Clarke) e
+        livros de fantasia, principalmente
+        [Neil Gaiman](http://pt.wikipedia.org/wiki/Neil_Gaiman). Leitura é uma
+        ótima forma de exercitar a criatividade e em um mundo onde estamos
+        sempre recebendo informações repletas de imagens a imaginação está
+        ficando para trás.
         </p>
       </div>
     </div>
