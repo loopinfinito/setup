@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '17'
-published_date: 25/11/2014
+published_date: 26/11/2014
 first_name: davi ferreira
 last_name:
 image: davi-ferreira.jpg
