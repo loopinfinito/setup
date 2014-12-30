@@ -102,7 +102,19 @@ links:
         desktop, mas meu [iPad Mini](http://en.wikipedia.org/wiki/IPad_Mini_2)
         resolve para ir em reuniões. Em casa e outros lugares que
         preciso, levo meu [MacBook Pro](http://www.apple.com/macbook-pro/) 13"
-        Core i7, com 8GB de RAM e 256GB de SSD. Em casa também tenho um
+        Core i7, com 8GB de RAM e 256GB de SSD.
+        </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/ariadne-gomes-workspace.jpg"
+            alt="Workspace de Ariadne Gomes."
+          />
+          <figcaption class="caption-bottom">
+            Workspace de Ariadne Gomes.
+          </figcaption>
+        </figure>
+        <p>
+        Em casa também tenho um
         [Apple Keyboard](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa),
         [Magic Trackpad](http://www.apple.com/magictrackpad/) e um
         [monitor Samsung](http://www.samsung.com/br/consumer/it-products/monitores-displays/tv-monitor-led/LT22C310LBMZD)
