@@ -6,7 +6,16 @@ first_name: ariadne
 last_name: gomes
 image: ariadne-gomes.jpg
 keywords: >
-  ariadne gomes
+  ariadne gomes, dine, f nazca, f/nazca, sao paulo, web, desenvolvimento web,
+  Chrome, Dev Tools, PageSpeed, Window Resizer, ColorZilla, Sublime Text, Emmet,
+  SublimeLinter, GutterCollor, HTML5, PHPStorm, GitHub, Git, GitBlit, SVN,
+  Basecamp, iTerm, Yeoman, Grunt, Bower, Sass, Less, Compass, VirtualBox,
+  Vagrant, PHP, MySQL, phpMyAdmin, Wordpress, Bootstrap, Font Awesome, Angular,
+  Laravel, Raphael, Analytics, Dropbox, Google Drive, Google Docs, Feedly,
+  Diigo, Google Calendar, Spotify, Netflix, Kodi, Hotbit, HotDog, Photoshop,
+  Geocities, CVS, Homesite, TopStyle, TortoiseSVN, Notepad++, OS X, TextMate,
+  Mac Pro, Urbanears, iPad Mini, MacBook Pro, Apple Keyboard, Magic Trackpad,
+  Samsung, UE Mini, iPhone 5C, Power Bank
 positions:
   - do: web developer
     at: f/nazca
