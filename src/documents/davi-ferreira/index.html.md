@@ -6,7 +6,10 @@ first_name: davi ferreira
 last_name:
 image: davi-ferreira.jpg
 keywords: >
-  davi ferreira
+  davi ferreira, globo.com, tableless, UOL, punknet, m2brnet, Entretenimento,
+  Vim, pathogen, emmet, NERDTree, Terminator, iTerm2, Chrome, Evernote, Adium,
+  Wunderlist, Pidgin, Slack, web, front-end, HTML, CSS, SCSS, JavaScript,
+  Python, Django, Flask, Rails, Sinatra, React, Flux, Dell Inspiron, Macbook pro
 positions:
   - do: web developer
     at: globo.com
@@ -86,6 +89,15 @@ links:
         ligado nessa briga Apple vs. PC, acho que os dois têm os seus prós e
         contras, como tudo na vida.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/davi-ferreira-workspace.jpg"
+            alt="Workspace favorito de Davi Ferreira: sua casa."
+          />
+          <figcaption class="caption-bottom">
+            Workspace favorito de Davi Ferreira: sua casa.
+          </figcaption>
+        </figure>
         <p>
         Desenvolvedores devem investir bastante em hardwares que não atrapalhem
         seu fluxo de trabalho, qualquer coisa que responda (muito) rápido, sem
