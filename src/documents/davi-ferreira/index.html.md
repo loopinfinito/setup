@@ -89,6 +89,15 @@ links:
         ligado nessa briga Apple vs. PC, acho que os dois têm os seus prós e
         contras, como tudo na vida.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/davi-ferreira-workspace.jpg"
+            alt="Workspace favorito de Davi Ferreira: sua casa."
+          />
+          <figcaption class="caption-bottom">
+            Workspace favorito de Davi Ferreira: sua casa.
+          </figcaption>
+        </figure>
         <p>
         Desenvolvedores devem investir bastante em hardwares que não atrapalhem
         seu fluxo de trabalho, qualquer coisa que responda (muito) rápido, sem
