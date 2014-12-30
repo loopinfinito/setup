@@ -6,7 +6,10 @@ first_name: davi ferreira
 last_name:
 image: davi-ferreira.jpg
 keywords: >
-  davi ferreira
+  davi ferreira, globo.com, tableless, UOL, punknet, m2brnet, Entretenimento,
+  Vim, pathogen, emmet, NERDTree, Terminator, iTerm2, Chrome, Evernote, Adium,
+  Wunderlist, Pidgin, Slack, web, front-end, HTML, CSS, SCSS, JavaScript,
+  Python, Django, Flask, Rails, Sinatra, React, Flux, Dell Inspiron, Macbook pro
 positions:
   - do: web developer
     at: globo.com
