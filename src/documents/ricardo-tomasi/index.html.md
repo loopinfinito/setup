@@ -10,12 +10,12 @@ keywords: >
 positions:
   - do: client-side developer
     at: booking.com
-  - do: amsterdam
+  - do: amsterdã
 links:
+  - text: ricardo.cc
+    url: "http://ricardo.cc"
   - text: @ricardobeat
     url: "https://twitter.com/ricardobeat"
-  - text: about.me/ricardotomasi
-    url: "http://about.me/ricardotomasi"
 ---
 
 <section class="question">
@@ -217,10 +217,10 @@ links:
       <div class="question-content text">
         <p>
         A mágica de tranformar idéias em algo concreto em pouquíssimo tempo já é
-        algo muito divertido. Profissionalmente, meu objetivo é sempre criar um
-        produto que proporcione a melhor experiência possível. Fazer isso ao
-        mesmo tempo em que entrego algo com uma utilidade real na vida de
-        algumas pessoas é a minha maior motivação.
+        algo muito divertido. Profissionalmente, meu objetivo é sempre __criar
+        um produto que proporcione a melhor experiência possível__. Fazer isso
+        ao mesmo tempo em que entrego algo com uma __utilidade real na vida de
+        algumas pessoas__ é a minha maior motivação.
         </p>
         <p>
         Também acredito muito na filosofia open-source, na criação de
