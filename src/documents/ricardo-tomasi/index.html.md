@@ -8,10 +8,12 @@ image: ricardo-tomasi.jpg
 keywords: >
   ricardo tomasi
 positions:
-  - do: front-end developer
-    at: booking
+  - do: client-side developer
+    at: booking.com
   - do: amsterdam
 links:
+  - text: @ricardobeat
+    url: "https://twitter.com/ricardobeat"
   - text: about.me/ricardotomasi
     url: "http://about.me/ricardotomasi"
 ---
@@ -25,7 +27,9 @@ links:
       <div class="question-content text">
         <p>
         Eu trabalho com a web desde 2004, quando ainda cursava Publicidade &
-        Propaganda. Tive contato com **DOS, Clipper, BASIC** e outras linguagens
+        Propaganda. Tive contato com [DOS](http://pt.wikipedia.org/wiki/DOS),
+        [Clipper](http://bit.ly/1BcqyCK),
+        [BASIC](http://pt.wikipedia.org/wiki/BASIC) e outras linguagens
         de programação na adolescência, e mais tarde aprendi HTML pra publicar
         minha página na [Geocities](http://en.wikipedia.org/wiki/GeoCities).
         Quando comecei a trabalhar em pequenas agências, fazendo um pouco de
@@ -40,8 +44,8 @@ links:
         </p>
         <p>
         De 2010 a 2012 fiz parte de uma equipe fantástica na
-        [Grifo](http://gri.fo), obecada por acessibilidade, usabilidade,
-        performance e qualidade de código - por uma feliz coincidência,
+        [Grifo](http://gri.fo), obcecada por acessibilidade, usabilidade,
+        performance e qualidade de código – por uma feliz coincidência,
         [Marcelo](http://twitter.com/askoth) e
         [Vitor](http://twitter.com/vitor42) ainda trabalham comigo hoje. Aprendi
         muito nessa época, foi onde desenvolvi meus primeiros projetos com
@@ -51,7 +55,8 @@ links:
         </p>
         <p>
         Neste meio tempo trabalhei como freelancer por alguns anos, primeiro com
-        PHP, mais tarde criando produtos para startups com nodejs e backbone.
+        [PHP](http://php.net/), mais tarde criando produtos para startups com
+        nodejs e backbone.
         </p>
         <p>
         Atualmente sou client-side developer na
@@ -71,50 +76,51 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        No trabalho uso um [Macbook Pro Retina 13"](http://www.apple.com
-        /macbook-pro/), conectado a dois monitores IPS [Dell P2214H](http://acce
-        ssories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=320-9791)
-        : um monitor para o browser/email/chat, e outro para o terminal + código
-        (na vertical). Meu teclado é o [Apple Wireless
-        Keyboard](https://www.apple.com/keyboard/), e uso o [Magic
-        Trackpad](https://www.apple.com/magictrackpad/) no lugar do mouse.
+        No trabalho uso um
+        [Macbook Pro Retina 13"](http://www.apple.com/macbook-pro/), conectado a
+        dois monitores IPS
+        [Dell P2214H](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=320-9791):
+        um monitor para o browser/email/chat, e outro para o terminal + código
+        (na vertical). Meu teclado é o
+        [Apple Wireless Keyboard](https://www.apple.com/keyboard/), e uso o
+        [Magic Trackpad](https://www.apple.com/magictrackpad/) no lugar do mouse.
         Ocasionalmente uso o teclado com fio, mas prefiro o wireless por ter o
         layout de teclas exatamente igual ao laptop.
         </p>
         <p>
-        Tenho na minha mesa um fone de ouvido [Roland DH-
-        200S](http://www.roland.com/products/en/RH-200S/) que comprei para meu
-        home studio há muito anos; o clássico [Porta
-        Pro](http://www.koss.com/en/products/headphones/on-ear-
-        headphones/PortaPro__Porta_Pro_On_Ear_Headphone), que também serve como
-        protetor de ouvido quando estou pedalando; um [Etymotic
-        MC5](http://www.etymotic.com/consumer/earphones/mc5.html) in-ear, ótimo
-        para viagens; e [Apple
-        EarPods](http://store.apple.com/us/product/MD827LL/A/apple-earpods-with-
-        remote-and-mic), surpreendemente bons para o tamanho/preço, e o par mais
-        confortável de todos.
+        Tenho na minha mesa um fone de ouvido
+        [Roland DH-200S](http://www.roland.com/products/en/RH-200S/) que comprei
+        para meu home studio há muito anos; o clássico
+        [Porta Pro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone),
+        que também serve como protetor de ouvido quando estou pedalando; um
+        [Etymotic MC5](http://www.etymotic.com/consumer/earphones/mc5.html)
+        in-ear, ótimo para viagens; e
+        [Apple EarPods](http://store.apple.com/us/product/MD827LL/A/apple-earpods-with-remote-and-mic),
+        surpreendemente bons para o tamanho/preço, e o par mais confortável de
+        todos.
         </p>
         <p>
-        No ano passado ganhei dos amigos uma [Jawbone
-        Jambox](https://jawbone.com/speakers/jambox) que acho ótima. Em casa
-        tenho um [Razer Deathadder](http://www.razerzone.com/gb-en/gaming-mice
-        /razer-deathadder-chroma) e um mousepad [Roccat
-        Taito](http://www.roccat.org/Products/Gaming-Mousepads/ROCCAT-Taito-
-        Series/), que uso pra ler posts no Facebook.
+        No ano passado ganhei dos amigos uma
+        [Jawbone Jambox](https://jawbone.com/speakers/jambox) que acho ótima. Em
+        casa tenho um
+        [Razer Deathadder](http://www.razerzone.com/gb-en/gaming-mice/razer-deathadder-chroma)
+        e um mousepad
+        [Roccat Taito](http://www.roccat.org/Products/Gaming-Mousepads/ROCCAT-Taito-Series/),
+        que uso pra ler posts no Facebook.
         </p>
         <p>
-        O iPhone 5s está permanentemente no meu bolso, com um plano 4G de 6gb.
-        Dificilmente chego perto do limite, mas gosto de ter a liberdade de usar
-        o quanto quiser. Também tenho um [iPad](https://web.archive.org/web/2010
-        0218183213/http://www.apple.com/ipad/features/) de 2010 que atualmente é
-        player de vídeo da minha filha.
+        O [iPhone 5S](http://www.gsmarena.com/apple_iphone_5s-5685.php) está
+        permanentemente no meu bolso, com um plano 4G de 6gb. Dificilmente chego
+        perto do limite, mas gosto de ter a liberdade de usar o quanto quiser.
+        Também tenho um
+        [iPad](https://web.archive.org/web/20100218183213/http://www.apple.com/ipad/features/)
+        de 2010 que atualmente é player de vídeo da minha filha.
         </p>
         <p>
-        Levo o laptop numa mochila [Victorinox
-        Altmont](http://www.victorinox.com/ch/product/Travel-
-        Gear/Category/Collections/Altmont-3-0/SLIMLINE-LAPTOP-
-        BACKPACK/32389001), que continua inteira depois de dois anos de uso
-        diário e ser carregada pelo zíper.
+        Levo o laptop numa mochila
+        [Victorinox Altmont](http://www.victorinox.com/ch/product/Travel-Gear/Category/Collections/Altmont-3-0/SLIMLINE-LAPTOP-BACKPACK/32389001),
+        que continua inteira depois de dois anos de uso diário e ser carregada
+        pelo zíper.
         </p>
         <p>
         Salvo meus projetos e arquivos mais importantes no
@@ -147,15 +153,15 @@ links:
         Escrevo Javascript a maior parte do tempo, além de templates, HTML, CSS,
         shell/bash e mais recentemente um pouco de Perl. Uso
         [CoffeeScript](http://coffeescript.org/) em projetos pessoais ou
-        scripts/ferramentas pequenos. Meu editor de texto é o [Sublime Text
-        3](http://www.sublimetext.com/3), com plugins como
+        scripts/ferramentas pequenos. Meu editor de texto é o
+        [Sublime Text 3](http://www.sublimetext.com/3), com plugins como
         [GitGutter](https://github.com/jisaacks/GitGutter),
         [Hayaku](http://hayakubundle.com/),
         [LiveStyle](http://livestyle.emmet.io/),
         [rsub](https://github.com/henrikpersson/rsub) e
         [SublimeLinter](http://www.sublimelinter.com/). Meu tema atual é o
-        [SpaceGray](http://kkga.github.io/spacegray/) com [base16 ocean
-        dark](http://chriskempson.github.io/base16/#ocean).
+        [SpaceGray](http://kkga.github.io/spacegray/) com
+        [base16 ocean dark](http://chriskempson.github.io/base16/#ocean).
         </p>
         <p>
         Para o terminal uso o [iTerm2](http://iterm2.com) (com o mesmo tema
