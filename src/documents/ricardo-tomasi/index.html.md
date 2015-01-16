@@ -1,12 +1,22 @@
 ---
 layout: guest
 number: '19'
-published_date: 16/01/2015
+published_date: 19/01/2015
 first_name: ricardo
 last_name: tomasi
 image: ricardo-tomasi.jpg
 keywords: >
-  ricardo tomasi
+  ricardo tomasi, front-end, client-side, developer, desenvolvedor, amsterda,
+  javascript, html, css, web, node.js, OSX Yosemite, Flashlight, Slate,
+  CoffeeScript, Sublime text 3, GitGutter, Hayaku, LiveStyle, rsub,
+  SublimeLinter, SpaceGray, base16, iTerm2, Sparrow, Chrome, Safari, Firefox,
+  Fireworks, Sketch, Pixelmator, ImageOptim, RescueTime, Emmy, Underscore,
+  component, browserify, Backbone, Ractive, Makefile, flour, Gulp, git, dos,
+  clipper, basic, geocities, terra, grifo, booking.com,  Macbook Pro Retina,
+  Dell P2214H, Apple Wireless Keyboard, Magic Trackpad, Roland DH-200S, Porta
+  Pro, Etymotic MC5, Apple EarPods, Jawbone Jambox, Razer Deathadder, Roccat
+  Taito, iPhone 5S, iPad, Victorinox Altmont, Dropbox, BitCasa, iTunes Match,
+  ShinyGroove, Rdio
 positions:
   - do: client-side developer
     at: booking.com
