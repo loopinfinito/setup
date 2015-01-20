@@ -36,40 +36,42 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Eu trabalho com a web desde 2004, quando ainda cursava Publicidade &
-        Propaganda. Tive contato com [DOS](http://pt.wikipedia.org/wiki/DOS),
+        Meu nome é Ricardo Tomasi, trabalho com a web desde 2004, quando ainda cursava
+        Publicidade & Propaganda. Tive contato com [DOS](http://pt.wikipedia.org/wiki/DOS),
         [Clipper](http://bit.ly/1BcqyCK),
         [BASIC](http://pt.wikipedia.org/wiki/BASIC) e outras linguagens
         de programação na adolescência, e mais tarde aprendi HTML pra publicar
         minha página na [Geocities](http://en.wikipedia.org/wiki/GeoCities).
         Quando comecei a trabalhar em pequenas agências, fazendo um pouco de
-        tudo, o poder mágico de criar sites era muito desejado e se tornou meu
+        tudo, a skill de *webdesigner* estava em alta e se tornou meu
         foco.
         </p>
         <p>
-        Passei pelo [Terra](http://terra.com.br) em 2008, lá tive a oportunidade
+        Passei pelo [Terra](http://terra.com.br) em 2008,
+        lá tive a oportunidade
         de aprender javascript a fundo, além de tempo livre o suficiente pra ler
         o source do jQuery inteiro, escrever meu próprio micro-framework, e
         enviar uma quantidade excessiva de emails ao grupo jquery-dev.
         </p>
         <p>
-        De 2010 a 2012 fiz parte de uma equipe fantástica na
-        [Grifo](http://gri.fo), obcecada por acessibilidade, usabilidade,
+        A partir de 2010 trabalhei na [Grifo](http://gri.fo), parte de uma 
+        equipe obcecada por acessibilidade, usabilidade,
         performance e qualidade de código – por uma feliz coincidência,
         [Marcelo](http://twitter.com/askoth) e
-        [Vitor](http://twitter.com/vitor42) ainda trabalham comigo hoje. Aprendi
-        muito nessa época, foi onde desenvolvi meus primeiros projetos com
-        [nodejs](http://nodejs.org), comecei a colaborar com open-source e
+        [Vitor](http://twitter.com/vitor42) ainda trabalham comigo hoje.
+        Foi onde desenvolvi meus primeiros projetos em 
+        [node](http://nodejs.org), comecei a colaborar com open-source e
         [participar](http://braziljs.com.br) [de](http://rsjs.org)
         [conferências](http://lxjs.org) na [área](http://jsconfbr.org).
         </p>
         <p>
-        Neste meio tempo trabalhei como freelancer por alguns anos, primeiro com
-        [PHP](http://php.net/), mais tarde criando produtos para startups com
-        nodejs e backbone.
+        Também fui freelancer por alguns anos, primeiro trabalhando com
+        [PHP](http://php.net/) e [Wordpress](http://wordpress.org), mais tarde
+        criando produtos para startups com
+        [nodejs](http://nodejs.org) e [backbone](http://backbonejs.org).
         </p>
         <p>
-        Atualmente sou client-side developer na
+        Hoje sou client-side developer na
         [Booking.com](http://booking.com) em Amsterdam, onde trabalho com uma
         quantidade absurda de pessoas geniais.
         </p>
@@ -86,21 +88,28 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        No trabalho uso um
+        No escritório tenho uma standing desk com um 
         [Macbook Pro Retina 13"](http://www.apple.com/macbook-pro/), conectado a
-        dois monitores IPS
-        [Dell P2214H](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=320-9791):
-        um monitor para o browser/email/chat, e outro para o terminal + código
-        (na vertical). Meu teclado é o
-        [Apple Wireless Keyboard](https://www.apple.com/keyboard/), e uso o
+        dois monitores 
+        [Dell P2214H](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=320-9791)
+        IPS: um monitor para o browser/email/chat, e outro na vertical para o terminal e
+        editor de texto. Uso o
+        [Apple Wireless Keyboard](https://www.apple.com/keyboard/) e um 
         [Magic Trackpad](https://www.apple.com/magictrackpad/) no lugar do mouse.
-        Ocasionalmente uso o teclado com fio, mas prefiro o wireless por ter o
-        layout de teclas exatamente igual ao laptop.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/ricardo-tomasi-workspace.jpg"
+            alt="Workspace do escritório"
+          />
+          <figcaption class="caption-bottom">
+            Workspace do escritório
+          </figcaption>
+        </figure>
         <p>
-        Tenho na minha mesa um fone de ouvido
-        [Roland DH-200S](http://www.roland.com/products/en/RH-200S/) que comprei
-        para meu home studio há muito anos; o clássico
+        Tenho na mesa um fone de ouvido
+        [Roland DH-200S](http://www.roland.com/products/en/RH-200S/) que usava
+        no meu home studio em tempos passados; o clássico
         [Porta Pro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone),
         que também serve como protetor de ouvido quando estou pedalando; um
         [Etymotic MC5](http://www.etymotic.com/consumer/earphones/mc5.html)
@@ -110,36 +119,34 @@ links:
         todos.
         </p>
         <p>
-        No ano passado ganhei dos amigos uma
-        [Jawbone Jambox](https://jawbone.com/speakers/jambox) que acho ótima. Em
-        casa tenho um
+        No ano passado ganhei de amigos uma
+        [Jawbone Jambox](https://jawbone.com/speakers/jambox) que tem um aúdio muito bom.
+        Em casa também tenho um mouse 
         [Razer Deathadder](http://www.razerzone.com/gb-en/gaming-mice/razer-deathadder-chroma)
         e um mousepad
         [Roccat Taito](http://www.roccat.org/Products/Gaming-Mousepads/ROCCAT-Taito-Series/),
         que uso pra ler posts no Facebook.
         </p>
         <p>
-        O [iPhone 5S](http://www.gsmarena.com/apple_iphone_5s-5685.php) está
-        permanentemente no meu bolso, com um plano 4G de 6gb. Dificilmente chego
-        perto do limite, mas gosto de ter a liberdade de usar o quanto quiser.
-        Também tenho um
-        [iPad](https://web.archive.org/web/20100218183213/http://www.apple.com/ipad/features/)
-        de 2010 que atualmente é player de vídeo da minha filha.
+        Meu celular é um [iPhone 5S](http://www.gsmarena.com/apple_iphone_5s-5685.php) com um plano 4G de 6GB.
+        Também sou dono de um
+        [iPad modelo 2010](https://web.archive.org/web/20100218183213/http://www.apple.com/ipad/features/) 
+        que serve como player de vídeo pra minha filha de 2 anos.
         </p>
         <p>
         Levo o laptop numa mochila
         [Victorinox Altmont](http://www.victorinox.com/ch/product/Travel-Gear/Category/Collections/Altmont-3-0/SLIMLINE-LAPTOP-BACKPACK/32389001),
-        que continua inteira depois de dois anos de uso diário e ser carregada
+        que continua inteira depois de dois anos de uso diário e muitos puxões 
         pelo zíper.
         </p>
         <p>
-        Salvo meus projetos e arquivos mais importantes no
+        Mantenho backups de projetos e arquivos importantes no
         [Dropbox](http://getdropbox.com), e assino o
         [BitCasa](http://bitcasa.com) para backup de fotos e arquivos mais
-        pesados, apesar de não estar totalmente satisfeito. Ouço música com o
+        pesados, mas ainda estou em busca de uma alternativa melhor. Ouço música no
         [iTunes Match](https://www.apple.com/itunes/itunes-match/),
-        [ShinyGroove](http://www.shinygroove.com) e [Rdio](http://rdio.com) no
-        celular.
+        [ShinyGroove](http://www.shinygroove.com), e [Rdio](http://rdio.com) 
+        quando estou na rua.
         </p>
       </div>
     </div>
@@ -156,59 +163,71 @@ links:
         <p>
         Meu laptop roda [OSX Yosemite](http://www.apple.com/osx/), com
         [Flashlight](http://flashlight.nateparrott.com/) para plugins do
-        spotlight e [Slate](https://github.com/jigish/slate) para organizar
-        janelas.
+        spotlight e o [Slate](https://github.com/jigish/slate) window manager.
         </p>
         <p>
         Escrevo Javascript a maior parte do tempo, além de templates, HTML, CSS,
-        shell/bash e mais recentemente um pouco de Perl. Uso
-        [CoffeeScript](http://coffeescript.org/) em projetos pessoais ou
-        scripts/ferramentas pequenos. Meu editor de texto é o
+        shell/bash/perl. Uso [CoffeeScript](http://coffeescript.org/) em projetos pessoais ou
+        scripts/ferramentas pequenos, aos poucos migrando para ES6. Meu editor de texto é o
         [Sublime Text 3](http://www.sublimetext.com/3), com plugins como
         [GitGutter](https://github.com/jisaacks/GitGutter),
         [Hayaku](http://hayakubundle.com/),
         [LiveStyle](http://livestyle.emmet.io/),
         [rsub](https://github.com/henrikpersson/rsub) e
         [SublimeLinter](http://www.sublimelinter.com/). Meu tema atual é o
-        [SpaceGray](http://kkga.github.io/spacegray/) com
+        [SpaceGray](http://kkga.github.io/spacegray/) + 
         [base16 ocean dark](http://chriskempson.github.io/base16/#ocean).
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/ricardo-tomasi-terminal.png"
+            alt=""
+          />
+        </figure>
         <p>
-        Para o terminal uso o [iTerm2](http://iterm2.com) (com o mesmo tema
-        base16), basicamente para poder usar split windows sem ter que recorrer
-        ao tmux. Leio email no falecido [Sparrow](http://sparrowmailapp.com),
-        que apesar de alguns bugs ainda tem performance melhor que Mail.app ou
-        AirMail. Tenho sempre dois browsers abertos,
+        Substituí o Terminal.app pelo [iTerm2](http://iterm2.com), também com um tema base16. Poder usar
+        __cmd+click__ para abrir arquivos é muito prático. Meu cliente de
+        IM é o [Adium](https://adium.im/), que me deixa
+        constantemente surpreso com a falta de um client XMPP decente, junto com o
+        [Messages.app](https://www.apple.com/osx/better-apps/) para iMessage e SMS.
+        </p>
+        <p>
+        Leio email no falecido [Sparrow](http://sparrowmailapp.com), apesar de já ter
+        comprado também o [Airmail](http://airmailapp.com), que não dá conta do volume de emails
+        do trabalho. Tenho sempre dois browsers abertos,
         [Chrome](http://www.google.com/chrome/) para desenvolvimento e o
         [Safari](http://apple.com/safari/) para uso pessoal. Ocasionalmente uso
-        [Firefox Aurora](https://www.mozilla.org/en-US/firefox/channel/#aurora)
-        (agora "Developer Edition").
+        [Firefox Aurora](https://www.mozilla.org/en-US/firefox/channel/#aurora).
         </p>
         <p>
         Sempre fui fã do
         [Fireworks](https://creative.adobe.com/products/fireworks), que ainda
-        uso em alguns casos, mas atualmente meus editores gráficos no dia-a-dia
-        são o [Sketch](http://sketchapp.com) e
-        [Pixelmator](http://www.pixelmator.com/). Uso
-        [ImageOptim](https://imageoptim.com/) para otimizar imagens (quando não
-        volto ao Fireworks pra otimizar manualmente).
+        uso em alguns casos, mas atualmente meus editores preferidos são o
+        [Sketch](http://sketchapp.com) e
+        [Pixelmator](http://www.pixelmator.com/). Utilizo 
+        [ImageOptim](https://imageoptim.com/), quando não
+        volto ao Fireworks pra otimizar manualmente. Crio slides para apresentações no
+        [Keynote](https://www.apple.com/mac/keynote/) ou em HTML/texto. 
         [RescueTime](https://www.rescuetime.com/) está sempre rodando no
         background, e me dá uma idéia de como estou usando meu tempo.
         </p>
         <p>
         As primeiras libs que adiciono em qualquer projeto são um event emitter
-        (atualmente [Emmy](https://github.com/ricardobeat/emmy)), e
-        [Underscore](underscorejs.org). Há pouco tempo achava que
+        como [Emmy](https://github.com/ricardobeat/emmy), e
+        [Underscore](underscorejs.org). Uso [Rye](http://github.com/ryejs/rye)
+        no lugar da [jQuery](http://jquery.com) sempre que possível. Há pouco tempo achava que
         [component](https://github.com/componentjs/component) seria o package
         manager do futuro para front-end, mas tenho preferido o
         [browserify](http://browserify.org/). Sou adepto do
-        [Backbone](backbonejs.org) e [Ractive](http://www.ractivejs.org/).
+        [Backbone](backbonejs.org), [Ractive](http://www.ractivejs.org/) e 
+        [Vannila JS](http://vanilla-js.com).
         Costumo automatizar tarefas com um shell script, um
-        [Makefile](https://algorithms.rdio.com/post/make/), ou então usando
-        [flour](http://ricardo.cc/cake-flour/) ou [Gulp](http://gulpjs.com/).
+        [Makefile](https://algorithms.rdio.com/post/make/),
+        [flour](http://ricardo.cc/cake-flour/) ou [Gulp](http://gulpjs.com/), 
+        dependendo da audiência.
         </p>
         <p>
-        O [git](http://git-scm.com) toma conta do meu código, com a adição de
+        Uso o [git](http://git-scm.com) para versionamento de código, com a adição de
         alguns
         [aliases](https://gist.github.com/ricardobeat/403725cf3562f86e0d15) e
         [comandos](https://github.com/ricardobeat/git-commands).
@@ -226,17 +245,23 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        A mágica de tranformar idéias em algo concreto em pouquíssimo tempo já é
-        algo muito divertido. Profissionalmente, meu objetivo é sempre __criar
-        um produto que proporcione a melhor experiência possível__. Fazer isso
-        ao mesmo tempo em que entrego algo com uma __utilidade real na vida de
-        algumas pessoas__ é a minha maior motivação.
+        Poder transformar idéias em algo concreto em pouquíssimo tempo é
+        algo que eu ainda considero mágico. Profissionalmente, meu objetivo é sempre
+        __criar a melhor experiência de uso possível__. Fazer isso ao mesmo tempo
+        em que entrego algo com uma __utilidade real para as pessoas__ é a minha
+        maior motivação.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/ricardo-tomasi-janela.jpg"
+            alt=""
+          />
+        </figure>
         <p>
         Também acredito muito na filosofia open-source, na criação de
         comunidades e na  troca de experiências, seja no trabalho, via
-        conferências, blog posts ou no bar, e que compartilhar código e
-        conhecimento é *net positive* para a humanidade.
+        conferências, blog posts ou no bar, e que __compartilhar código e
+        conhecimento é *net positive* para a humanidade__.
         </p>
       </div>
     </div>
@@ -251,9 +276,10 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Um dos meus sonhos é morar numa cabana na floresta, com banda larga
-        infinita, montanhas e lagos ao alcance, e dedicar todo o meu tempo a
-        projetos open-source :)
+        Um dos meus sonhos é morar numa cabana no interior, em uma área com
+        florestas, montanhas e lagos - e que tenha banda larga. Dedicaria
+        meu tempo a projetos open-source, desenvolvimento de jogos e projetos
+        experimentais, quando não estivesse passando o tempo com a família :)
         </p>
       </div>
     </div>
