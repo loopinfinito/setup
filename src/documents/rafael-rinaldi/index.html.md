@@ -133,7 +133,13 @@ links:
         [mStand](http://www.raindesigninc.com/mstand.html) que serve como apoio para o
         notebook.
         </p>
-        <%- @partial('content-image.html.eco', {src: 'rafael-rinaldi-workspace.jpg', position: 'top', desc: 'Workspace da casa de Rafael Rinaldi.'}) %>
+        <figure class="image-fit">
+          <img src="/images/content/rafael-rinaldi-workspace.jpg"
+               alt="Workspace da casa de Rafael Rinaldi." />
+          <figcaption class="caption-top">
+            Workspace da casa de Rafael Rinaldi.
+          </figcaption>
+        </figure>
         <p>
         Utilizo o sistema [Bullet Journal](http://www.bulletjournal.com) para planejar
         meu dia, então tenho sempre em cima da minha mesa de trabalho um
@@ -153,7 +159,13 @@ links:
         [Battlefield 4](http://www.battlefield.com/battlefield-4) no
         [modo Commander](http://www.battlefield.com/battlefield-4/features/commander-mode).
         </p>
-        <%- @partial('content-image.html.eco', {src: 'rafael-rinaldi-carranca.jpg', position: 'top', desc: 'Carranca de Rafael Rinaldi.'}) %>
+        <figure class="image-fit">
+          <img src="/images/content/rafael-rinaldi-carranca.jpg"
+               alt="Carranca de Rafael Rinaldi." />
+          <figcaption class="caption-top">
+            Carranca de Rafael Rinaldi.
+          </figcaption>
+        </figure>
         <p>
         Gosto muito de ouvir música e meu fone
         [Sennheiser HD 202](http://en-us.sennheiser.com/over-ear-headphones-hd-202), que
