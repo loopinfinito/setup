@@ -6,7 +6,16 @@ first_name: rafael rinaldi
 last_name:
 image: rafael-rinaldi.jpg
 keywords: >
-  Rafael Rinaldi
+  Rafael Rinaldi, Netshoes, São Paulo, Magnetis, FEMUG, ZOFE, FITO, IED,
+  Fireworks, Macromedia, Flash, Xiao Xiao, Ninjai, Happy Tree Friends,
+  tokyoplastic, ActionScript, Ginga, Grafikonstruct, Grïngo, Firstborn, MacBook
+  Pro, teclado wireless da Apple, Magic Mouse, mStand, Bullet Journal, Moleskine
+  Squared, carranca, rubber duck, iPhone 6, iPad Mini, Eastpak, Kindle,
+  Battlefield 4, modo Commander, Sennheiser HD 202, Fitbit Charge, Sublime Text,
+  Vim, MacVim, Safari, FastMail, Airmail 2, bash, git, hub, xargs, make,
+  Homebrew, Cask, grep, find, Simplenote, 1Password, Fantastical, MyFitnessPal,
+  Fitbit, YNAB, Dropbox, CrashPlan, RescueTime, iDoneThis, Tiempo, Pomodoro, iA
+  Writer Pro, DayOne, Degrees, Caffeine, Divvy
 positions:
   - do: front-end engineer
     at: netshoes
