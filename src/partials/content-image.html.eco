@@ -1,0 +1,4 @@
+<figure class="image-fit">
+  <img src="/images/content/<%= @src %>" alt="<%= @desc %>" />
+  <figcaption class="caption-<%= @position %>"><%= @desc %></figcaption>
+</figure>
