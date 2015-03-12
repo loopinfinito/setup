@@ -102,6 +102,8 @@ e um [Magic Mouse](http://en.wikipedia.org/wiki/Magic_Mouse). Tenho também um
 [mStand](http://www.raindesigninc.com/mstand.html) que serve como apoio para o
 notebook.
 
+<%- @partial('content-image.html.eco', {src: 'rafael-rinaldi-workspace.jpg', position: 'top', desc: 'Workspace da casa de Rafael Rinaldi.'}) %>
+
 Utilizo o sistema [Bullet Journal](http://www.bulletjournal.com) para planejar
 meu dia, então tenho sempre em cima da minha mesa de trabalho um
 [Moleskine Squared clássico](http://www.moleskine.com/en/collections/model/product/plain-soft-notebook-large)
@@ -117,6 +119,8 @@ Nas minhas viagens carrego sempre meu
 ficam no meu [Kindle](http://www.amazon.com/kindle)), assistir a vídeos e jogar
 [Battlefield 4](http://www.battlefield.com/battlefield-4) no
 [modo Commander](http://www.battlefield.com/battlefield-4/features/commander-mode).
+
+<%- @partial('content-image.html.eco', {src: 'rafael-rinaldi-carranca.jpg', position: 'top', desc: 'Carranca de Rafael Rinaldi.'}) %>
 
 Gosto muito de ouvir música e meu fone
 [Sennheiser HD 202](http://en-us.sennheiser.com/over-ear-headphones-hd-202), que
