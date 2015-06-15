@@ -6,7 +6,16 @@ first_name: felipe moura
 last_name:
 image: felipe-moura.jpg
 keywords: >
-  Felipe Moura
+  Felipe Moura, felipenmoura, viamao, poa, certificado, gerencia, entrevistas,
+  postgis, terra, js, javascript, es6, ecmascript, c, pascal, jaydson gomes,
+  christiano milfont, braziljs, braziljs foudation, imac, photoshop, sheldon
+  cooper, teclado, macbook, blender, lg g3, firefox os, chrome, firefox, google
+  docs, gmail, tweetdeck, google calendar, calendar, googlekeep, sromobile,
+  novalaucher, ticket, facebook app, messenger, hangouts, google plus, twitter,
+  whatsapp, linkedin, slack,  skype, swarm, windows 7, ubuntu, virtualbox, ie,
+  iterm, git, putty, github, bitbucket, sublime, brackets, atom, notepad,
+  mercurial, node, vanillajs, postgres, mysql, sqlite, mongodb, grunt, gulp,
+  transpilers, sass, stylus, thelastofus, tombraider, silenthill, splintercell
 positions:
   - do: front-end engineer
     at: terra
