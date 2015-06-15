@@ -135,6 +135,15 @@ links:
         condicionado, escute bem as musicas, possa assistir tv sem parar de
         programar, utilizar a televisão também como "telão", etc.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/felipe-moura-workspace.jpg"
+            alt="Workspace da casa de Felipe Moura"
+          />
+          <figcaption class="caption-bottom">
+            Workspace da casa de Felipe Moura
+          </figcaption>
+        </figure>
         <p>
         Acho que posso dizer que uns 90% do meu tempo é usando o teclado! Em
         ambos os ambientes utilizo teclado e mouse sem fio, mas em casa, eu
