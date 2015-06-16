@@ -170,7 +170,7 @@ links:
         </p>
         <p>
         Tenho um monitor de 22 polegadas e uma televisão de 42' que uso, ambos,
-        como monitores tanto para o PC quando para o MacBook. Acho que monitor,
+        como monitores tanto para o PC quanto para o MacBook. Acho que monitor,
         nunca é de mais! Se eu tivesse 4 monitores, iria precisar de 5!
         </p>
         <p>
@@ -243,7 +243,7 @@ links:
         </p>
         <p>
         Desenvolvendo: O [Github][github] é a plataforma que utilizo tanto na
-        empresa quando para open source, porém, quando quero ter algum projeto
+        empresa quanto para open source, porém, quando quero ter algum projeto
         privado com Git, utilizo o [BitBucket][bitbucket], que é bem bom também.
         </p>
         <p>
