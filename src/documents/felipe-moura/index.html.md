@@ -69,7 +69,7 @@ links:
         Depois disso fui para outra empresa do setor financeiro, onde fui por 4
         anos o responsável pelo ambiente e desenvolvimento web de toda sua
         plataforma e sites. Me tornei líder técnico de uma equipe, me aprimorei
-        e adiquiri muito mais maturidade profissional.
+        e adquiri muito mais maturidade profissional.
         </p>
         <p>
         Fui para uma empresa trabalhar com um time remoto norte americano, e
