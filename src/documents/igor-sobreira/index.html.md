@@ -133,7 +133,16 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
-
+        <p>
+        Atualmente uso um MacBook Pro 15 core i7 com 16GB de RAM. No escritório
+        tenho um monitor extra e um teclado Apple sem fio. Mas confesso que as
+        vezes nem uso o monitor porque a qualidade do retina display do MacBook
+        é bem melhor!
+        </p>
+        <p>
+        Também tenho um iPhone 5, que já está precisando ser atualizado, mas o
+        tamanho do iPhone 6 não me atrai muito.
+        </p>
       </div>
     </div>
   </div>
@@ -148,13 +157,62 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
-
+        <p>
+        Estou sempre no Mac. Algumas máquinas virtuais usando [Vagrant][vagrant]
+        e [VirtualBox][virtualbox] rodando Linux ([CentOS][centos] ou
+        [Ubuntu Server][ubuntu-server]). Alguns serviços usando
+        [Docker][docker].
+        </p>
+        <p>
+        Programo no [Vim][vim], nunca me acostumei com nenhuma IDE, prefiro
+        editor e linha de comando. Minha [configuração no Vim][configfiles] é
+        bem simples, o principal plugin que uso agora é para formatação de
+        código Go com [gofmt][gofmt], realmente útil.
+        </p>
+        <p>
+        Uso [iTerm2][iterm] como terminal e [bash][bash]. Chrome é meu browser
+        principal. Só uso Firefox e Internet Explorer para testes, mas tenho
+        feito pouca coisa de front-end. [HipChat][hipchat] para o chat da
+        empresa, [Limechat][limechat] para IRC, [Spotify][spotify] para músicas.
+        </p>
+        <p>
+        Principais linguagens são [Python][python] e [Go][go] por opção e
+        [Javascript][javascript] quando necessário. Uso [Git][git] o tempo
+        inteiro e [Github][github] como repositório e issue tracker. No trabalho
+        nossos dados estão em [MariaDB][mariadb] ou [MongoDB][mongodb], também
+        uso [Memcache][memcache], [Redis][redis], [RabbitMQ][rabbitmq] e
+        [Beanstalkd][beanstalkd]. [Varnish][varnish] ou [Nginx][nginx] como
+        servidor de proxy e/ou caching. A maior parte da nossa infra-estrutura é
+        automatizada com [Puppet][puppet], mas novos projetos estão usando
+        [Ansible][ansible] e as aplicações rodando em [Docker][docker].
+        </p>
       </div>
     </div>
   </div>
 </section>
 
-
+[vagrant]: https://www.vagrantup.com/
+[virtualbox]: https://www.virtualbox.org/
+[centos]: https://www.centos.org/
+[ubuntu-server]: http://www.ubuntu.com/server
+[docker]: https://www.docker.com/
+[vim]: http://www.vim.org/
+[configfiles]: https://github.com/igorsobreira/configfiles/blob/master/.vimrc
+[gofmt]: https://golang.org/cmd/gofmt/
+[iterm]: http://iterm2.com/
+[bash]: https://pt.wikipedia.org/wiki/Bash
+[hipchat]: https://www.hipchat.com/
+[limechat]: http://limechat.net/mac/
+[spotify]: https://www.spotify.com/br/
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[git]: http://git-scm.com/
+[github]: https://github.com/
+[mariadb]: https://mariadb.org/
+[memcache]: http://memcached.org/
+[rabbitmq]: https://www.rabbitmq.com/
+[beanstalkd]: http://kr.github.io/beanstalkd/
+[varnish]: https://www.varnish-cache.org/
+[ansible]: http://www.ansible.com/home
 
 <section class="question">
   <div class="wrapper">
@@ -163,7 +221,16 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
-
+        <p>
+        Eu costumo dizer que gosto de resolver problemas de pessoas normais, por
+        acaso usando software. Eu gosto muito da sensação de conversar com uma
+        pessoa, entender um problema que ela tem (ou nem sabe que tem) e
+        resolver usando software.
+        </p>
+        <p>
+        Além disso os constantes desafios técnicos me mantém interessado a
+        sempre aprender algo novo.
+        </p>
       </div>
     </div>
   </div>
@@ -176,10 +243,24 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
-
+        <p>
+        [Windsurf][windsurf] é meu principal hobby desde criança. Agora morando
+        no Hawaii comecei a fazer [canoagem havaiana][canoagem], é um esporte
+        muito tradicional e popular aqui. Kailua, a cidade onde moro, tem
+        condições perfeitas todos os dias. Por causa disso existem muitas
+        competições aqui e em outras ilhas. A mais tradicional é a
+        [Moloka’i Hoe][molokai-hoe], uma prova de 62km saindo da ilha de
+        [Moloka’i][molokai] e chegando em Oahu. Participei ano passado e não
+        vejo a hora de ir esse ano de novo. Sempre gostei de competir de
+        Windsurf e agora estou bastante envolvido com as competições de
+        canoagem.
+        </p>
       </div>
     </div>
   </div>
 </section>
 
-
+[windsurf]: https://en.wikipedia.org/wiki/Windsurfing
+[canoagem]: https://pt.wikipedia.org/wiki/Canoa_Havaiana
+[molokai-hoe]: http://www.molokaihoe.com/index.html
+[molokai]: https://en.wikipedia.org/wiki/Molokai
