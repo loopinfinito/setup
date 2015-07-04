@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '22'
-published_date: 02/07/2015
+published_date: 07/07/2015
 first_name: igor sobreira
 last_name:
 image: igor-sobreira.jpg
@@ -67,7 +67,7 @@ links:
         [Ruby][ruby], [Lua][lua], [C][c], [Puppet][puppet], [MongoDB][mongodb],
         [Redis][redis], entre outros). Participei de projetos como o
         [PremiereFC][premierefc] e o [Big Brother Brasil][bbb]. Como a Globo.com
-        desenvolve tudo desde o player até o datacenter tive a oportunidade de
+        desenvolve tudo desde o player até o datacenter, tive a oportunidade de
         trabalhar em todos os níveis do processo, desde configuração de encoder
         de vídeo, passando pelos servidores até a implementação do player no
         browser.
@@ -77,7 +77,7 @@ links:
         programadores Python. Quase não acreditei que poderia trabalhar com TI,
         na plataforma que mais tenho experiência, no lugar que sempre sonhei em
         conhecer desde criança. Acabei conseguindo a vaga e me mudei para o
-        Hawaii em Outubro de 2012.
+        Havaí em Outubro de 2012.
         </p>
         <p>
         Hoje moro em [Kailua][kailua], na ilha de [Oahu][oahu]. Trabalho na
@@ -85,7 +85,7 @@ links:
         americano e sistemas de gerenciamento de clientes para corretores de
         imóveis. Ainda uso principalmente Python, Django e outros frameworks
         como [Tornado][tornado] e [Flask][flask] em servidores Linux. Nos
-        ultimos meses também tenho usando [Go][go] para fazer serviços de
+        ultimos meses também tenho usado [Go][go] para fazer serviços de
         backend, APIs, etc.
         </p>
       </div>
@@ -134,21 +134,22 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Atualmente uso um MacBook Pro 15 core i7 com 16GB de RAM. No escritório
-        tenho um monitor extra e um teclado Apple sem fio. Mas confesso que as
-        vezes nem uso o monitor porque a qualidade do retina display do MacBook
-        é bem melhor!
+        Atualmente uso um [MacBook Pro][macbook] 15" core i7 com 16GB de RAM. No
+        escritório tenho um monitor extra e um [teclado Apple sem fio][teclado].
+        Mas confesso que as vezes nem uso o monitor porque a qualidade do retina
+        display do MacBook é bem melhor!
         </p>
         <p>
-        Também tenho um iPhone 5, que já está precisando ser atualizado, mas o
-        tamanho do iPhone 6 não me atrai muito.
+        Também tenho um [iPhone 5][iphone5], que já está precisando ser
+        atualizado, mas o tamanho do iPhone 6 não me atrai muito.
         </p>
       </div>
     </div>
   </div>
 </section>
 
-
+[macbook]: #
+[teclado]: #
 
 <section class="question">
   <div class="wrapper">
@@ -222,9 +223,9 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Eu costumo dizer que gosto de resolver problemas de pessoas normais, por
-        acaso usando software. Eu gosto muito da sensação de conversar com uma
-        pessoa, entender um problema que ela tem (ou nem sabe que tem) e
+        Eu costumo dizer que gosto de __resolver problemas de pessoas normais__,
+        por acaso usando software. Eu gosto muito da sensação de conversar com
+        uma pessoa, entender um problema que ela tem (ou nem sabe que tem) e
         resolver usando software.
         </p>
         <p>
@@ -245,7 +246,7 @@ links:
       <div class="question-content text">
         <p>
         [Windsurf][windsurf] é meu principal hobby desde criança. Agora morando
-        no Hawaii comecei a fazer [canoagem havaiana][canoagem], é um esporte
+        no Havaí, comecei a fazer [canoagem havaiana][canoagem], é um esporte
         muito tradicional e popular aqui. Kailua, a cidade onde moro, tem
         condições perfeitas todos os dias. Por causa disso existem muitas
         competições aqui e em outras ilhas. A mais tradicional é a
