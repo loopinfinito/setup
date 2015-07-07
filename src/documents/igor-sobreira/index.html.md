@@ -36,7 +36,7 @@ links:
         CEFET-PB, hoje [IFPB][ifpb], para cursar Telecomunicações, ainda sem
         saber o que queria da vida. Lá, durante as aulas de introdução a
         algoritmos com Pascal, nada animador, [um amigo][flavio] me apresentou
-        Python e Linux, a partir daí surgiu o por programação.
+        Python e Linux, a partir daí surgiu o interesse por programação.
         </p>
         <p>
         Comecei brincando com [Python][python] e Linux, passei por várias
@@ -135,21 +135,44 @@ links:
       <div class="question-content text">
         <p>
         Atualmente uso um [MacBook Pro][macbook] 15" core i7 com 16GB de RAM. No
-        escritório tenho um monitor extra e um [teclado Apple sem fio][teclado].
-        Mas confesso que as vezes nem uso o monitor porque a qualidade do retina
-        display do MacBook é bem melhor!
+        escritório tenho um monitor extra, mas confesso que às vezes nem uso o
+        monitor porque a qualidade do retina display do MacBook é bem melhor!
+        Também tenho um segundo monitor, que não tenho usado muito por ser
+        antigo e a qualidade não é muito boa. Para conectá-lo no MacBook tenho
+        um [adaptador USB/DVI da DisplayLink][displaylink], funciona bem mas é
+        um pouco lento, inviável para assistir vídeos mas bom o suficiente para
+        trabalhar na linha de comando.
         </p>
         <p>
-        Também tenho um [iPhone 5][iphone5], que já está precisando ser
-        atualizado, mas o tamanho do iPhone 6 não me atrai muito.
+        Eu sempre gostei de teclados de notebook, com teclas bem baixas, por
+        isso gosto bastante do [teclado Apple sem fio][teclado]. Costumo usar o
+        teclado do MacBook também, mesmo com o monitor externo. Gosto de mudar a
+        posição das mãos e braços um pouco de vez em quando. Recentemente
+        comecei a usar o [Magic Mouse][magicmouse] da Apple também e tenho
+        gostado. Como smartphone tenho um [iPhone 6][iphone6], mas nunca fiz
+        aplicativos para iOS.
+        </p>
+        <p>
+        Hardware não relacionado a tecnologia mas que também uso frequentemente
+        são minha canoa, uma [Pueo II Ultralight][canoa]. E meu equipamento de
+        windsurf, atualmente estou com uma vela [Naish Force 5.0 2012][vela] e
+        uma prancha [JP Freestyle Wave 85L 2011][prancha]. Pratico windsurf
+        desde criança, e comecei na canoagem havaiana depois que mudei para o
+        Havaí.
         </p>
       </div>
     </div>
   </div>
 </section>
 
-[macbook]: #
-[teclado]: #
+[macbook]: http://www.laptopmag.com/reviews/laptops/apple-macbook-pro-retina-15-inch-2015
+[teclado]: https://en.wikipedia.org/wiki/Apple_Wireless_Keyboard
+[displaylink]: http://www.amazon.com/StarTech-com-USB-DVI-Adapter-USB2DVIPRO2/dp/B009L14FBE
+[magicmouse]: https://en.wikipedia.org/wiki/Magic_Mouse
+[iphone6]: http://www.techtudo.com.br/tudo-sobre/iphone-6.html
+[canoa]: http://www.kamanucomposites.com/pueo
+[vela]: http://www.naishsails.com/product/force-three-50/
+[prancha]: http://jp-australia.com/2014/products/boards/freestyle-wave/
 
 <section class="question">
   <div class="wrapper">
