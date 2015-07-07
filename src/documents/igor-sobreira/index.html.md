@@ -143,6 +143,15 @@ links:
         um pouco lento, inviável para assistir vídeos mas bom o suficiente para
         trabalhar na linha de comando.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/igor-sobreira-workspace.jpg"
+            alt="Workspace de Igor Sobreira na Real Geeks"
+          />
+          <figcaption class="caption-bottom">
+            Workspace de Igor Sobreira na Real Geeks
+          </figcaption>
+        </figure>
         <p>
         Eu sempre gostei de teclados de notebook, com teclas bem baixas, por
         isso gosto bastante do [teclado Apple sem fio][teclado]. Costumo usar o
