@@ -6,7 +6,15 @@ first_name: igor sobreira
 last_name:
 image: igor-sobreira.jpg
 keywords: >
-  Igor Sobreira
+  igor sobreira, real geeks, havai, paraiba, joao pessoa, web,  ifpb, flavio,
+  python, ubuntu, fedora, opensuse, gentoo, gnome, gtk, django, python brasil,
+  django brasil, globo.com, flash media, nginx, entretenimento, actionscript,
+  ruby, lua, c, puppet, mongodb, redis, premierefc, bbb, kailua, oahu, tornado,
+  flask, go, macbook pro, apple keyboard, displaylink, apple magic mouse, iphone
+  6, canoa, vela, prancha, vagrant, virtualbox, centos, ubuntu server, docker,
+  vim, config files, configfiles, gofmt, iterm, bash, hipchat, limechat,
+  spotify, javascript, git, github, mariadb, memcache, rabbitmq, beanstalkd,
+  varnish, ansible, windsurf, canoagem, molokai-hoe, molokai
 positions:
   - do: desenvolvedor
     at: Real Geeks
