@@ -4,9 +4,6 @@
   "description": "",
   "dependencies": {
     "docpad": "~6.78.1",
-    "docpad-plugin-livereload": "~2.6.1",
-    "docpad-plugin-stylus": "~2.9.0",
-    "docpad-plugin-coffeescript": "~2.5.0",
     "docpad-plugin-marked": "~2.3.0",
     "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-partials": "~2.9.2"
