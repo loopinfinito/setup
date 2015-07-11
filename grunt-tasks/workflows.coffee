@@ -4,8 +4,13 @@ module.exports = (grunt) ->
 
   # workflows
   grunt.registerTask 'build', [
-    'docpad',
-    'clean'
+    'docpad'
+  ]
+
+  grunt.registerTask 'build:optimize', [
+    'build',
+    'clean',
+    'htmlmin'
   ]
 
   grunt.registerTask 'run', [
