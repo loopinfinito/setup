@@ -1,5 +1,11 @@
 module.exports = (grunt) ->
+  # tasks
   grunt.registerTask 'docpad', 'shell:docpad'
-  grunt.registerTask 'build', 'docpad'
-  grunt.registerTask 'run', 'watch'
+
+  # workflows
   grunt.registerTask 'default', 'run'
+  grunt.registerTask 'build', 'docpad'
+  grunt.registerTask 'run', [
+    'build',
+    'concurrent'
+  ]
