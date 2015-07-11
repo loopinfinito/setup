@@ -1,18 +1,18 @@
-screenState = 'normal'
-mediaQuerySmall  = window.matchMedia "(max-width: 701px), (max-device-width: 701px)"
+# screenState = 'normal'
+# mediaQuerySmall  = window.matchMedia "(max-width: 701px), (max-device-width: 701px)"
 
-firstGuest = document.querySelectorAll('.guest:first-of-type')[0]
-allGuests = document.querySelectorAll '.guest'
-infos = document.querySelectorAll '.guest-info'
-totalGuests = allGuests.length
-totalInfos = infos.length
+# firstGuest = document.querySelectorAll('.guest:first-of-type')[0]
+# allGuests = document.querySelectorAll '.guest'
+# infos = document.querySelectorAll '.guest-info'
+# totalGuests = allGuests.length
+# totalInfos = infos.length
 
-firstGuestOriginalDimension = null
-guestsOriginalDimension = null
+# firstGuestOriginalDimension = null
+# guestsOriginalDimension = null
 
 # apagar depois
-guestPlaceholders = document.querySelectorAll '.guest-placeholder'
-totalGuestPlaceholders = guestPlaceholders.length
+# guestPlaceholders = document.querySelectorAll '.guest-placeholder'
+# totalGuestPlaceholders = guestPlaceholders.length
 # apagar depois
 
 init = ->
@@ -32,12 +32,12 @@ init = ->
   )
 
   #
-  if totalGuests > 0
-    firstGuestOriginalDimension = getWidth(firstGuest)
-    guestsOriginalDimension = getWidth(allGuests[1])
-    setSmallLayout() if mediaQuerySmall.matches
-    window.onresize = ->
-      if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
+  # if totalGuests > 0
+  #   firstGuestOriginalDimension = getWidth(firstGuest)
+  #   guestsOriginalDimension = getWidth(allGuests[1])
+  #   setSmallLayout() if mediaQuerySmall.matches
+  #   window.onresize = ->
+  #     if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
 
 # Returns `true` if `child` is a children element of `parent`,
 # no matter how deep
@@ -80,43 +80,43 @@ addClass = (event, el, state) ->
 
   el.classList.add('move-' + state + '-from-' + class_suffix)
 
-setSmallLayout = ->
-  screenState = 'small'
-  firstGuest.style.height = getWidth firstGuest
-  newDimesion = getWidth allGuests[1]
+# setSmallLayout = ->
+#   screenState = 'small'
+#   firstGuest.style.height = getWidth firstGuest
+#   newDimesion = getWidth allGuests[1]
 
-  for i in [1...totalGuests]
-    allGuests[i].style.height = newDimesion
+#   for i in [1...totalGuests]
+#     allGuests[i].style.height = newDimesion
 
-  for i in [1...totalInfos]
-    infos[i].style.height = newDimesion
+#   for i in [1...totalInfos]
+#     infos[i].style.height = newDimesion
 
-  # apagar depois
-  for i in [0...totalGuestPlaceholders]
-    guestPlaceholders[i].style.lineHeight = newDimesion
-  # apagar depois
+#   # apagar depois
+#   for i in [0...totalGuestPlaceholders]
+#     guestPlaceholders[i].style.lineHeight = newDimesion
+#   # apagar depois
 
-  return
+#   return
 
-setNormalLayout = ->
-  unless screenState is 'normal'
-    screenState = 'normal'
-    firstGuest.style.height = firstGuestOriginalDimension
+# setNormalLayout = ->
+#   unless screenState is 'normal'
+#     screenState = 'normal'
+#     firstGuest.style.height = firstGuestOriginalDimension
 
-    for i in [1...totalGuests]
-      allGuests[i].style.height = guestsOriginalDimension
+#     for i in [1...totalGuests]
+#       allGuests[i].style.height = guestsOriginalDimension
 
-    for i in [1...totalInfos]
-      infos[i].style.height = guestsOriginalDimension
+#     for i in [1...totalInfos]
+#       infos[i].style.height = guestsOriginalDimension
 
-    # apagar depois
-    for i in [0...totalGuestPlaceholders]
-      guestPlaceholders[i].style.lineHeight = guestsOriginalDimension
-    # apagar depois
+#     # apagar depois
+#     for i in [0...totalGuestPlaceholders]
+#       guestPlaceholders[i].style.lineHeight = guestsOriginalDimension
+#     # apagar depois
 
-  return
+#   return
 
-getWidth = (element) ->
-  window.getComputedStyle(element).getPropertyValue 'width'
+# getWidth = (element) ->
+#   window.getComputedStyle(element).getPropertyValue 'width'
 
 init()
