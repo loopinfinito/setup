@@ -38,6 +38,18 @@ module.exports = (grunt) ->
     'script:prod'
   ]
 
+  # deploy
+  grunt.registerTask 'deploy', [
+    'build:prod',
+    'rsync:prod'
+  ]
+
+  grunt.registerTask 'deploy:staging', [
+    'build:prod',
+    'rsync:staging'
+  ]
+
+  # development
   grunt.registerTask 'run', [
     'build:dev',
     'concurrent'
