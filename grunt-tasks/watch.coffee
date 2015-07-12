@@ -3,3 +3,11 @@ module.exports = (grunt) ->
     content:
       files: './src/**/*.{eco,md}'
       tasks: 'content:dev'
+
+    style:
+      files: './src/**/*.styl'
+      tasks: 'style:dev'
+
+    script:
+      files: './src/**/*.coffee'
+      tasks: 'script:dev'
