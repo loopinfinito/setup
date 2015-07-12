@@ -3,7 +3,6 @@ module.exports = (grunt) ->
   grunt.registerTask 'content:dev', 'shell:docpad'
   grunt.registerTask 'content:prod', [
     'shell:docpad',
-    'clean',
     'htmlmin'
   ]
 
