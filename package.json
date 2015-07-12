@@ -2,13 +2,11 @@
   "name": "setup",
   "version": "0.0.1",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "docpad": "~6.78.1",
     "docpad-plugin-marked": "~2.3.0",
     "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-partials": "~2.9.2"
-  },
-  "devDependencies": {
+    "docpad-plugin-partials": "~2.9.2",
     "autoprefixer-core": "^5.2.1",
     "coffee-script": "~1.9.3",
     "grunt": "~0.4.5",
