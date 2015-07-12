@@ -7,6 +7,17 @@ module.exports = (grunt) ->
     'htmlmin'
   ]
 
+  # style
+  grunt.registerTask 'style:dev', [
+    'stylus:dev',
+    'postcss'
+  ]
+
+  grunt.registerTask 'style:prod', [
+    'stylus:prod',
+    'postcss'
+  ]
+
   # build
   grunt.registerTask 'build:dev', [
     'content:dev',
