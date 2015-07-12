@@ -1,5 +1,5 @@
 module.exports = (grunt) ->
-  src   = './src/documents/styles/main.styl'
+  src   = './src/styles/main.styl'
   build = './out/styles/main.css'
 
   grunt.config 'stylus',

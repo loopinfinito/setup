@@ -1,13 +1,13 @@
 module.exports = (grunt) ->
   grunt.config 'watch',
     content:
-      files: './src/**/*.{eco,md}'
+      files: './src/documents/**/*.{eco,md}'
       tasks: 'content:dev'
 
     style:
-      files: './src/**/*.styl'
+      files: './src/styles/**/*.styl'
       tasks: 'style:dev'
 
     script:
-      files: './src/**/*.coffee'
+      files: './src/scripts/**/*.coffee'
       tasks: 'script:dev'
