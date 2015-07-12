@@ -18,6 +18,13 @@ module.exports = (grunt) ->
     'postcss'
   ]
 
+  # script
+  grunt.registerTask 'script:dev', 'coffee'
+  grunt.registerTask 'script:prod', [
+    'coffee',
+    'uglify'
+  ]
+
   # build
   grunt.registerTask 'build:dev', [
     'content:dev',
