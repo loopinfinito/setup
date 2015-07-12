@@ -1,46 +1,3 @@
-# screenState = 'normal'
-# mediaQuerySmall  = window.matchMedia "(max-width: 701px), (max-device-width: 701px)"
-
-# firstGuest = document.querySelectorAll('.guest:first-of-type')[0]
-# allGuests = document.querySelectorAll '.guest'
-# infos = document.querySelectorAll '.guest-info'
-# totalGuests = allGuests.length
-# totalInfos = infos.length
-
-# firstGuestOriginalDimension = null
-# guestsOriginalDimension = null
-
-# apagar depois
-# guestPlaceholders = document.querySelectorAll '.guest-placeholder'
-# totalGuestPlaceholders = guestPlaceholders.length
-# apagar depois
-
-init = ->
-  #
-  guests = document.querySelectorAll('.guest:not(:first-child)')
-  isMouseOverGuest = false
-  [].forEach.call(guests, (element, i) ->
-    element.addEventListener 'mouseover', (event) ->
-      if not isMouseOverGuest
-        isMouseOverGuest = true
-        addClass(event, this, 'in')
-
-    element.addEventListener 'mouseout', (event) ->
-      if event.relatedTarget is null or not _isDescendant element, event.relatedTarget
-        isMouseOverGuest = false
-        addClass(event, this, 'out')
-  )
-
-  #
-  # if totalGuests > 0
-  #   firstGuestOriginalDimension = getWidth(firstGuest)
-  #   guestsOriginalDimension = getWidth(allGuests[1])
-  #   setSmallLayout() if mediaQuerySmall.matches
-  #   window.onresize = ->
-  #     if mediaQuerySmall.matches then setSmallLayout() else setNormalLayout()
-
-# Returns `true` if `child` is a children element of `parent`,
-# no matter how deep
 _isDescendant = (parent, child) ->
   node = child.parentNode
 
@@ -80,43 +37,16 @@ addClass = (event, el, state) ->
 
   el.classList.add('move-' + state + '-from-' + class_suffix)
 
-# setSmallLayout = ->
-#   screenState = 'small'
-#   firstGuest.style.height = getWidth firstGuest
-#   newDimesion = getWidth allGuests[1]
+guests = document.querySelectorAll('.guest:not(:first-child)')
+isMouseOverGuest = false
+[].forEach.call(guests, (element, i) ->
+  element.addEventListener 'mouseover', (event) ->
+    if not isMouseOverGuest
+      isMouseOverGuest = true
+      addClass(event, this, 'in')
 
-#   for i in [1...totalGuests]
-#     allGuests[i].style.height = newDimesion
-
-#   for i in [1...totalInfos]
-#     infos[i].style.height = newDimesion
-
-#   # apagar depois
-#   for i in [0...totalGuestPlaceholders]
-#     guestPlaceholders[i].style.lineHeight = newDimesion
-#   # apagar depois
-
-#   return
-
-# setNormalLayout = ->
-#   unless screenState is 'normal'
-#     screenState = 'normal'
-#     firstGuest.style.height = firstGuestOriginalDimension
-
-#     for i in [1...totalGuests]
-#       allGuests[i].style.height = guestsOriginalDimension
-
-#     for i in [1...totalInfos]
-#       infos[i].style.height = guestsOriginalDimension
-
-#     # apagar depois
-#     for i in [0...totalGuestPlaceholders]
-#       guestPlaceholders[i].style.lineHeight = guestsOriginalDimension
-#     # apagar depois
-
-#   return
-
-# getWidth = (element) ->
-#   window.getComputedStyle(element).getPropertyValue 'width'
-
-init()
+  element.addEventListener 'mouseout', (event) ->
+    if event.relatedTarget is null or not _isDescendant element, event.relatedTarget
+      isMouseOverGuest = false
+      addClass(event, this, 'out')
+)
