@@ -9,6 +9,7 @@
     "docpad-plugin-partials": "~2.9.2"
   },
   "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
     "coffee-script": "~1.9.3",
     "grunt": "~0.4.5",
     "grunt-concurrent": "^2.0.0",
