@@ -1,20 +1,27 @@
 module.exports = (grunt) ->
-  # task aliases
-  grunt.registerTask 'docpad', 'shell:docpad'
-
-  # workflows
-  grunt.registerTask 'build', [
-    'docpad'
-  ]
-
-  grunt.registerTask 'build:optimize', [
-    'build',
+  # content
+  grunt.registerTask 'content:dev', 'shell:docpad'
+  grunt.registerTask 'content:prod', [
+    'shell:docpad',
     'clean',
     'htmlmin'
   ]
 
+  # build
+  grunt.registerTask 'build:dev', [
+    'content:dev',
+    'style:dev',
+    'script:dev'
+  ]
+
+  grunt.registerTask 'build:prod', [
+    'content:prod',
+    'style:prod',
+    'script:prod'
+  ]
+
   grunt.registerTask 'run', [
-    'build',
+    'build:dev',
     'concurrent'
   ]
 
