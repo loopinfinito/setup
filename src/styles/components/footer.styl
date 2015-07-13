@@ -1,38 +1,67 @@
-footer-padding = 50px
-footer-line-height = 20px
+.tile
+  position relative
+
+  &::before
+    content ''
+    display block
+    padding-top 100%
+
+  > :first-child
+    position absolute
+    top 0
+    left 0
+    width 100%
+    height 100%
+    overflow hidden
+
+// footer-padding = 50px
+// footer-line-height = 20px
 
 .footer
-  clear both
+  display flex
 
-.menu
-  width guest-dimension
-  float left
-  border-right layout-border
-  padding footer-padding 0
+.footer-menu
+  flex 2
 
-  ul
-    list-style none
-    text-align center
+.footer-menu-items
+  display flex
+  list-style none
 
-.menu-item
-  display inline-block
+.footer-menu-item
+  flex 1
+  background color-faded
 
-  a
-    font-size 20px
-    line-height footer-line-height
-    margin: 0 15px
+.footer-menu-item-link
+  display flex
+  padding 0
+  box-sizing border-box
+  border-left 1px solid color-background
+
+  .footer-menu-item:first-child &
+    border-left none
+
+.footer-menu-item-title
+  margin auto
+  font-size 20px
 
 .loop-infinito
-  padding footer-padding
-  float left
+  flex 1
   color color-blue
-  line-height footer-line-height
+  background color-highlight
 
-  a
-    color color-orange
-    opacity 0.8
-    padding 0 3px
+.loop-infinito-link
+  display flex
+  border-bottom none
+  color white
+  box-sizing border-box
+  border-left 1px solid color-background
 
-    &:hover
-      background @color
-      color color-blue-dark
+  p
+    margin auto
+    margin-right 10px
+    font-size 14px
+    text-align right
+    line-height 150%
+
+.loop-infinito-name
+  display block
