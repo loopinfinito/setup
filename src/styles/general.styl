@@ -52,3 +52,19 @@ h2
 
 .wrapper
   margin auto
+
+.tile
+  position relative
+
+  &::before
+    content ''
+    display block
+    padding-top 100%
+
+  > :first-child
+    position absolute
+    top 0
+    left 0
+    width 100%
+    height 100%
+    overflow hidden
