@@ -1,6 +1,12 @@
 .header
   text-align center
 
+  @media ({medium})
+    position absolute
+    left 66.66%
+    top 40px
+    margin-left 40px
+
 .header-title
   font-size 120px
 
@@ -8,11 +14,19 @@
   display block
   color color-highlight
 
+  @media ({medium})
+    line-height 120%
+
   &.shape
     padding 0 0 20px 0
 
     &:hover
       background color-highlight
+
+    @media ({medium})
+      padding-right 30px
+      padding-left @padding-right
+      padding-bottom 10px
 
   &::selection
     background transparent
