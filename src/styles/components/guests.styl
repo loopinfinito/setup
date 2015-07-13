@@ -1,17 +1,8 @@
-guest-dimension = 233px
-guest-highlight-dimension = (guest-dimension * 2) + grid-spacing
-
-// Mixins ----------------------------------------------------------------------
-transition-move(po)
-  transition(po 0.2s ease)
-
-transition-fade()
-  transition(opacity 0.2s ease)
-
 // Animations ------------------------------------------------------------------
+
 @keyframes moveinfromleft
   0%
-    transform translateX(-233px)
+    transform translateX(-100%)
   100%
     transform translateX(0)
 
@@ -19,11 +10,11 @@ transition-fade()
   0%
     transform translateX(0)
   100%
-    transform translateX(-233px)
+    transform translateX(-100%)
 
 @keyframes moveinfromright
   0%
-    transform translateX(+233px)
+    transform translateX(+100%)
   100%
     transform translateX(0)
 
@@ -31,11 +22,11 @@ transition-fade()
   0%
     transform translateX(0)
   100%
-    transform translateX(+233px)
+    transform translateX(+100%)
 
 @keyframes moveinfromtop
   0%
-    transform translateY(-233px)
+    transform translateY(-100%)
   100%
     transform translateY(0)
 
@@ -43,11 +34,11 @@ transition-fade()
   0%
     transform translateY(0)
   100%
-    transform translateY(-233px)
+    transform translateY(-100%)
 
 @keyframes moveinfrombottom
   0%
-    transform translateY(+233px)
+    transform translateY(+100%)
   100%
     transform translateY(0)
 
@@ -55,89 +46,136 @@ transition-fade()
   0%
     transform translateY(0)
   100%
-    transform translateY(+233px)
+    transform translateY(+100%)
+
+// --
+
+guest-dimension           = 50%
+guest-highlight-dimension = 100%
 
 // Styles ----------------------------------------------------------------------
+
+.guests
+  display flex
+  flex-wrap wrap
+  list-style none
+
 .guest
-  width guest-dimension
-  height guest-dimension
-  display block
-  float left
-  background darken(color-blue-dark, 60%)
+  position relative
+  width 50%
+  box-sizing border-box
+  border-left 1px solid color-background
+  border-bottom @border-left
+  background darken(color-background, 60%)
 
-  .guest-overlay
-    transform translateY(+233px)
+  &::before
+    content ''
+    display block
+    padding-top 100%
 
-  &:hover
-    top 0
-    left 0
+  &:first-of-type
+    width 100%
 
-  &.move-in-from-left
-    .guest-overlay
-      -webkit-animation moveinfromleft 0.2s ease-in-out forwards
-      -moz-animation moveinfromleft 0.2s ease-in-out forwards
-      -ms-animation moveinfromleft 0.2s ease-in-out forwards
-      animation moveinfromleft 0.2s ease-in-out forwards
-  &.move-out-from-left
-    .guest-overlay
-      -webkit-animation moveoutfromleft 0.2s ease-in-out forwards
-      -moz-animation moveoutfromleft 0.2s ease-in-out forwards
-      -ms-animation moveoutfromleft 0.2s ease-in-out forwards
-      animation moveoutfromleft 0.2s ease-in-out forwards
+    @media ({medium})
+      &:hover
+        .guest-image
+          filter brightness(115%)
 
-  &.move-in-from-right
-    .guest-overlay
-      -webkit-animation moveinfromright 0.2s ease-in-out forwards
-      -moz-animation moveinfromright 0.2s ease-in-out forwards
-      -ms-animation moveinfromright 0.2s ease-in-out forwards
-      animation moveinfromright 0.2s ease-in-out forwards
-  &.move-out-from-right
-    .guest-overlay
-      -webkit-animation moveoutfromright 0.2s ease-in-out forwards
-      -moz-animation moveoutfromright 0.2s ease-in-out forwards
-      -ms-animation moveoutfromright 0.2s ease-in-out forwards
-      animation moveoutfromright 0.2s ease-in-out forwards
+      .guest-image
+        transition filter 0.2s ease
 
-  &.move-in-from-top
     .guest-overlay
-      -webkit-animation moveinfromtop 0.2s ease-in-out forwards
-      -moz-animation moveinfromtop 0.2s ease-in-out forwards
-      -ms-animation moveinfromtop 0.2s ease-in-out forwards
-      animation moveinfromtop 0.2s ease-in-out forwards
-  &.move-out-from-top
-    .guest-overlay
-      -webkit-animation moveoutfromtop 0.2s ease-in-out forwards
-      -moz-animation moveoutfromtop 0.2s ease-in-out forwards
-      -ms-animation moveoutfromtop 0.2s ease-in-out forwards
-      animation moveoutfromtop 0.2s ease-in-out forwards
+      transform translateY(0)
 
-  &.move-in-from-bottom
-    .guest-overlay
-      -webkit-animation moveinfrombottom 0.2s ease-in-out forwards
-      -moz-animation moveinfrombottom 0.2s ease-in-out forwards
-      -ms-animation moveinfrombottom 0.2s ease-in-out forwards
-      animation moveinfrombottom 0.2s ease-in-out forwards
-  &.move-out-from-bottom
-    .guest-overlay
-      -webkit-animation moveoutfrombottom 0.2s ease-in-out forwards
-      -moz-animation moveoutfrombottom 0.2s ease-in-out forwards
-      -ms-animation moveoutfrombottom 0.2s ease-in-out forwards
-      animation moveoutfrombottom 0.2s ease-in-out forwards
+    .guest-info
+      right 30px
+      bottom @right
+      padding 0
+      background none
 
-  &.fade
-    .guest-overlay
-      top 0
-      left 0
-      opacity: 0
-      transition-fade()
-    &:hover .guest-overlay
-      opacity 1
+    // span
+    //   display inline-block
+    //   padding 12px 15px 10px 15px
+
+    .guest-name
+      display inline-block
+      padding 6px 10px
+      font-size 38px
+      font-family fonts-heading
+      background color-orange
+
+    .guest-professional-info
+      display inline-block
+      padding 0 10px
+      font-size 15px
+      line-height 200%
+      font-family fonts-main
+      background color-blue
+      color color-yellow-light
+
+    // .guest-last-name
+    //   padding-top 0
+
+    .guest-company
+      font-family fonts-heading-italic
+
+  @media ({small})
+    &:first-child,
+    &:nth-child(2n)
+      border-left none
+
+  // &:hover
+  //   top 0
+  //   left 0
+
+  // &.move-in-from-left
+  //   .guest-overlay
+  //     animation moveinfromleft 0.2s ease-in-out forwards
+
+  // &.move-out-from-left
+  //   .guest-overlay
+  //     animation moveoutfromleft 0.2s ease-in-out forwards
+
+  // &.move-in-from-right
+  //   .guest-overlay
+  //     animation moveinfromright 0.2s ease-in-out forwards
+
+  // &.move-out-from-right
+  //   .guest-overlay
+  //     animation moveoutfromright 0.2s ease-in-out forwards
+
+  // &.move-in-from-top
+  //   .guest-overlay
+  //     animation moveinfromtop 0.2s ease-in-out forwards
+
+  // &.move-out-from-top
+  //   .guest-overlay
+  //     animation moveoutfromtop 0.2s ease-in-out forwards
+
+  // &.move-in-from-bottom
+  //   .guest-overlay
+  //     animation moveinfrombottom 0.2s ease-in-out forwards
+
+  // &.move-out-from-bottom
+  //   .guest-overlay
+  //     animation moveoutfrombottom 0.2s ease-in-out forwards
+
+  // &.fade
+  //   .guest-overlay
+  //     top 0
+  //     left 0
+  //     opacity: 0
+  //     transition(opacity 0.2s ease)
+  //   &:hover .guest-overlay
+  //     opacity 1
 
 .guest-link
-  position relative
+  position absolute
+  display block
+  top 0
+  left 0
   width 100%
   height 100%
-  display block
   overflow hidden
   border-bottom none
 
@@ -150,85 +188,27 @@ transition-fade()
 
 .guest-overlay
   position absolute
-  width 100%
-  height 100%
-  background black
   left 0
   top 0
+  width 100%
+  height 100%
 
 .guest-info
-  display table-cell
-  width guest-dimension
-  height guest-dimension
-  vertical-align middle
-  text-align right
-  padding 20px
-  -moz-box-sizing border-box
+  position absolute
+  right 0
+  bottom 0
   box-sizing border-box
-  font-size 42px
-  line-height 46px
+  padding 6px 10px
+  text-align right
   color white
-  background color-yellow
+  background color-link
+
+.guest-name
+  display block
+  font-size 20px
+  font-family fonts-main
+  line-height 110%
+  letter-spacing -0.06em
 
 .guest-professional-info
   display none
-
-.guest:first-of-type
-  width guest-highlight-dimension
-  height @width
-  border-left none !important
-
-  .guest-image
-    transition(-webkit-filter 0.2s ease)
-
-  &:hover .guest-image
-    filter(brightness(115%))
-
-  .guest-overlay
-    background none
-    transform translateY(0)
-
-  .guest-info
-    // resetando estilos
-    position absolute
-    display block
-    width auto
-    height auto
-    padding 0
-    box-sizing content-box
-    background none
-    // setando estilos
-    right 35px
-    bottom @right
-
-  span
-    display inline-block
-    padding 12px 15px 10px 15px
-
-  .guest-professional-info
-    font-size 15px
-    line-height @font-size
-    font-family fonts-main
-    background color-blue
-    color color-yellow-light
-
-  .guest-name
-    background color-orange
-    font-size 66px
-    font-family fonts-heading
-    line-height @font-size
-    letter-spacing -0.06em
-
-  .guest-last-name
-    padding-top 0
-
-  .guest-company
-    font-family fonts-heading-italic
-    padding 0
-
-.guest-placeholder
-  line-height guest-dimension
-  text-align center
-  font-size 100px
-  color color-blue-dark
-  background darken(color-blue-dark, 45%)
