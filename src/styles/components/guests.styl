@@ -60,6 +60,9 @@ guest-highlight-dimension = 100%
   flex-wrap wrap
   list-style none
 
+  @media ({medium})
+    align-items flex-end
+
 .guest
   position relative
   width 50%
@@ -77,6 +80,8 @@ guest-highlight-dimension = 100%
     width 100%
 
     @media ({medium})
+      width 66.66%
+
       &:hover
         .guest-image
           filter brightness(115%)
@@ -123,6 +128,9 @@ guest-highlight-dimension = 100%
     &:first-child,
     &:nth-child(2n)
       border-left none
+
+  @media ({medium})
+    width 33.33%
 
   // &:hover
   //   top 0
