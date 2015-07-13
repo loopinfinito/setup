@@ -1,4 +1,4 @@
-<<%= if @list then 'li' else 'div' %> class="guest">
+<<%= if @list then 'li' else 'div' %> class="guest tile">
   <a class="guest-link" href="<%= @guest.url.replace('index.html', '') %>">
     <img class="guest-image" src="/images/guests/<%= @guest.image %>">
     <div class="guest-overlay">

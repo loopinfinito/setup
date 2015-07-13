@@ -71,11 +71,6 @@ guest-highlight-dimension = 100%
   border-bottom @border-left
   background darken(color-background, 60%)
 
-  &::before
-    content ''
-    display block
-    padding-top 100%
-
   &:first-of-type
     width 100%
 
@@ -98,10 +93,6 @@ guest-highlight-dimension = 100%
       padding 0
       background none
 
-    // span
-    //   display inline-block
-    //   padding 12px 15px 10px 15px
-
     .guest-name
       display inline-block
       padding 6px 10px
@@ -117,9 +108,6 @@ guest-highlight-dimension = 100%
       font-family fonts-main
       background color-blue
       color color-yellow-light
-
-    // .guest-last-name
-    //   padding-top 0
 
     .guest-company
       font-family fonts-heading-italic
@@ -178,13 +166,7 @@ guest-highlight-dimension = 100%
   //     opacity 1
 
 .guest-link
-  position absolute
   display block
-  top 0
-  left 0
-  width 100%
-  height 100%
-  overflow hidden
   border-bottom none
 
   &:hover
