@@ -1,37 +1,40 @@
 // Grid ------------------------------------------------------------------------
+
 grid-spacing = 1px
 grid-border = grid-spacing solid color-blue-dark
 layout-border = grid-spacing solid color-blue
 
 // General styles --------------------------------------------------------------
+
 *
   padding 0
   margin 0
-  -webkit-font-smoothing antialiased
+  -webkit-font-smoothing antialiased // autoprefixer does not adds this
   font-smoothing antialiased
 
 body
-  background color-blue-dark
-  color color-yellow-light
+  background color-background
+  color color-text
   font-family fonts-main
   font-size 15px
   font-weight 100
 
 a
-  color color-yellow
+  color color-link
   text-decoration none
-  border-bottom 1px dashed rgba(color-yellow, 0.5)
+  border-bottom 1px dashed rgba(color-link, 0.5)
 
   &:hover
-    border-bottom 1px solid color-yellow
+    border-bottom-style solid
+    border-bottom-color color-link
 
   &.shape
     padding 0 0.5ex
     border-bottom none
 
     &:hover
-      background @color
-      color color-blue-dark
+      color color-background
+      background color-link
       border-bottom none
 
 img,
