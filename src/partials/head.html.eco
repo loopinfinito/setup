@@ -14,6 +14,7 @@
   <meta name="robots" content="all" />
   <meta name="distribution" content="Local" />
   <meta name="resource-type" content="document" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 
   <%- @getBlock('meta').toHTML() %>
   <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
