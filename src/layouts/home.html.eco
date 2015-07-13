@@ -4,7 +4,9 @@
 <body class="page-home">
   <div class="wrapper">
     <header class="header">
-      <h1><a class="link-home shape" href="/">setup</a></h1>
+      <h1 class="header-title">
+        <a class="header-link shape" href="/">setup</a>
+      </h1>
     </header>
     <%- @content %>
     <%- @partial('footer.html') %>

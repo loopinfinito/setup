@@ -1,17 +1,10 @@
-home-width = (guest-dimension * 3) + (grid-spacing * 2)
-
 .page-home
 
   .wrapper
-    width home-width
+    width 100%
 
-  .header
-    width guest-dimension * 1.5
-    float right
-    margin-right -(@width/3)
-
-  .guests
-    list-style: none
+    @media ({medium})
+      width 701px
 
   .guest
     border-bottom grid-border
@@ -23,103 +16,84 @@ home-width = (guest-dimension * 3) + (grid-spacing * 2)
       border-left grid-border
       border-right grid-border
 
-// Infelizmente nao da pra usar variaveis com media queries no stylus.
-// O jeito eh apelar
 
-mediaq = "screen and (max-device-width: " + home-width + "), screen and (max-width: " + home-width + ")"
-@media mediaq
+// mediaq = "screen and (max-device-width: " + home-width + "), screen and (max-width: " + home-width + ")"
+// @media mediaq
 
-  .page-home
+//   .page-home
 
-    .header
-      margin-right 0
-      float none
-      width auto
-      text-align center
-      height 250px
 
-      h1
-        font-size 200px
-        height 100%
-        width 100%
 
-    .link-home
-      margin-left 0
-      height 100%
-      width 100%
-      display block
-      padding 0
 
-    .wrapper
-      width 100%
 
-    .guest
-      width 50%
-      box-sizing border-box
 
-      &:first-of-type
-        width 100%
-        border-right none
+//     .guest
+//       width 50%
+//       box-sizing border-box
 
-      &:nth-of-type(3n+1)
-        border-left none
-        border-right none
+//       &:first-of-type
+//         width 100%
+//         border-right none
 
-      &:nth-of-type(2n)
-        border-right grid-border
+//       &:nth-of-type(3n+1)
+//         border-left none
+//         border-right none
 
-    .guest-info
-      width 50%
+//       &:nth-of-type(2n)
+//         border-right grid-border
 
-    .footer .menu
-      width 50%
-      box-sizing border-box
+//     .guest-info
+//       width 50%
 
-mediaq = "screen and (max-device-width: " + home-width + ")"
-@media mediaq
+//     .footer .menu
+//       width 50%
+//       box-sizing border-box
 
-  .page-home
+// mediaq = "screen and (max-device-width: " + home-width + ")"
+// @media mediaq
 
-    .header
-      height 450px
+//   .page-home
 
-      h1
-        font-size 360px
+//     .header
+//       height 450px
 
-    .link-home
-      line-height 410px
+//       h1
+//         font-size 360px
 
-  .guest:first-of-type
+//     .link-home
+//       line-height 410px
 
-    .guest-professional-info
-      font-size 40px
-      line-height 40px
-      padding 22px 30px 22px 30px
+//   .guest:first-of-type
 
-    .guest-name
-      font-size 140px
-      line-height 140px
-      padding 26px 32px
+//     .guest-professional-info
+//       font-size 40px
+//       line-height 40px
+//       padding 22px 30px 22px 30px
 
-    .guest-last-name
-      padding-top 0
+//     .guest-name
+//       font-size 140px
+//       line-height 140px
+//       padding 26px 32px
 
-  .guest-placeholder
-    font-size 240px
+//     .guest-last-name
+//       padding-top 0
 
-  .menu
-    padding 120px 0
-    width 50%
+//   .guest-placeholder
+//     font-size 240px
 
-  .menu-item a
-    font-size 60px
+//   .menu
+//     padding 120px 0
+//     width 50%
 
-  .loop-infinito
-    width 50%
-    font-size 50px
-    line-height 100px
-    padding 30px 0 0 50px
-    box-sizing border-box
+//   .menu-item a
+//     font-size 60px
 
-    a
-      display block
+//   .loop-infinito
+//     width 50%
+//     font-size 50px
+//     line-height 100px
+//     padding 30px 0 0 50px
+//     box-sizing border-box
+
+//     a
+//       display block

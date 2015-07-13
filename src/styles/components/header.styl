@@ -1,14 +1,18 @@
 .header
-  height guest-dimension + grid-spacing
+  text-align center
 
-  .link-home
-    color color-orange
-    margin-left 40px
-    line-height @height
+.header-title
+  font-size 120px
+
+.header-link
+  display block
+  color color-highlight
+
+  &.shape
+    padding 0 0 20px 0
 
     &:hover
-      background color-orange
-      color color-blue-dark
+      background color-highlight
 
-    &::selection
-        background transparent
+  &::selection
+    background transparent
