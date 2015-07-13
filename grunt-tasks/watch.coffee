@@ -1,7 +1,7 @@
 module.exports = (grunt) ->
   grunt.config 'watch',
     content:
-      files: './src/**/*.{eco,md}'
+      files: './src/**/*.{html,eco,md}'
       tasks: 'content:dev'
 
     style:
