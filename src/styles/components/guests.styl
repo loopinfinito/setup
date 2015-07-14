@@ -1,53 +1,3 @@
-// Animations ------------------------------------------------------------------
-
-@keyframes moveinfromleft
-  0%
-    transform translateX(-100%)
-  100%
-    transform translateX(0)
-
-@keyframes moveoutfromleft
-  0%
-    transform translateX(0)
-  100%
-    transform translateX(-100%)
-
-@keyframes moveinfromright
-  0%
-    transform translateX(+100%)
-  100%
-    transform translateX(0)
-
-@keyframes moveoutfromright
-  0%
-    transform translateX(0)
-  100%
-    transform translateX(+100%)
-
-@keyframes moveinfromtop
-  0%
-    transform translateY(-100%)
-  100%
-    transform translateY(0)
-
-@keyframes moveoutfromtop
-  0%
-    transform translateY(0)
-  100%
-    transform translateY(-100%)
-
-@keyframes moveinfrombottom
-  0%
-    transform translateY(+100%)
-  100%
-    transform translateY(0)
-
-@keyframes moveoutfrombottom
-  0%
-    transform translateY(0)
-  100%
-    transform translateY(+100%)
-
 // --
 
 guest-dimension           = 50%
@@ -120,51 +70,6 @@ guest-highlight-dimension = 100%
   @media ({medium})
     width 33.33%
 
-  // &:hover
-  //   top 0
-  //   left 0
-
-  // &.move-in-from-left
-  //   .guest-overlay
-  //     animation moveinfromleft 0.2s ease-in-out forwards
-
-  // &.move-out-from-left
-  //   .guest-overlay
-  //     animation moveoutfromleft 0.2s ease-in-out forwards
-
-  // &.move-in-from-right
-  //   .guest-overlay
-  //     animation moveinfromright 0.2s ease-in-out forwards
-
-  // &.move-out-from-right
-  //   .guest-overlay
-  //     animation moveoutfromright 0.2s ease-in-out forwards
-
-  // &.move-in-from-top
-  //   .guest-overlay
-  //     animation moveinfromtop 0.2s ease-in-out forwards
-
-  // &.move-out-from-top
-  //   .guest-overlay
-  //     animation moveoutfromtop 0.2s ease-in-out forwards
-
-  // &.move-in-from-bottom
-  //   .guest-overlay
-  //     animation moveinfrombottom 0.2s ease-in-out forwards
-
-  // &.move-out-from-bottom
-  //   .guest-overlay
-  //     animation moveoutfrombottom 0.2s ease-in-out forwards
-
-  // &.fade
-  //   .guest-overlay
-  //     top 0
-  //     left 0
-  //     opacity: 0
-  //     transition(opacity 0.2s ease)
-  //   &:hover .guest-overlay
-  //     opacity 1
-
 .guest-link
   display block
   border-bottom none
@@ -202,3 +107,85 @@ guest-highlight-dimension = 100%
 
 .guest-professional-info
   display none
+
+// Animations ------------------------------------------------------------------
+
+@keyframes moveinfromleft
+  0%
+    transform translateX(-100%)
+  100%
+    transform translateX(0)
+
+@keyframes moveoutfromleft
+  0%
+    transform translateX(0)
+  100%
+    transform translateX(-100%)
+
+@keyframes moveinfromright
+  0%
+    transform translateX(+100%)
+  100%
+    transform translateX(0)
+
+@keyframes moveoutfromright
+  0%
+    transform translateX(0)
+  100%
+    transform translateX(+100%)
+
+@keyframes moveinfromtop
+  0%
+    transform translateY(-100%)
+  100%
+    transform translateY(0)
+
+@keyframes moveoutfromtop
+  0%
+    transform translateY(0)
+  100%
+    transform translateY(-100%)
+
+@keyframes moveinfrombottom
+  0%
+    transform translateY(+100%)
+  100%
+    transform translateY(0)
+
+@keyframes moveoutfrombottom
+  0%
+    transform translateY(0)
+  100%
+    transform translateY(+100%)
+
+// &.move-in-from-left
+//   .guest-overlay
+//     animation moveinfromleft 0.2s ease-in-out forwards
+
+// &.move-out-from-left
+//   .guest-overlay
+//     animation moveoutfromleft 0.2s ease-in-out forwards
+
+// &.move-in-from-right
+//   .guest-overlay
+//     animation moveinfromright 0.2s ease-in-out forwards
+
+// &.move-out-from-right
+//   .guest-overlay
+//     animation moveoutfromright 0.2s ease-in-out forwards
+
+// &.move-in-from-top
+//   .guest-overlay
+//     animation moveinfromtop 0.2s ease-in-out forwards
+
+// &.move-out-from-top
+//   .guest-overlay
+//     animation moveoutfromtop 0.2s ease-in-out forwards
+
+// &.move-in-from-bottom
+//   .guest-overlay
+//     animation moveinfrombottom 0.2s ease-in-out forwards
+
+// &.move-out-from-bottom
+//   .guest-overlay
+//     animation moveoutfrombottom 0.2s ease-in-out forwards
