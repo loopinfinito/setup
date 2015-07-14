@@ -106,12 +106,30 @@ guest-highlight-dimension = 100%
   color white
   background color-link
 
+  @media ({medium})
+    .guest:nth-child(n+2) & // all but not first guest
+      display flex
+      align-items center
+      justify-items flex-end
+      right auto
+      bottom auto
+      width 100%
+      height 100%
+      padding 0
+      // transform
+
 .guest-name
-  display block
+  // display block
   font-size 20px
   font-family fonts-main
   line-height 110%
   letter-spacing -0.06em
+
+  @media ({medium})
+    .guest:nth-child(n+2) & // all but not first guest
+      margin 0 30px 0 20px
+      font-size 42px
+
 
 .guest-professional-info
   display none

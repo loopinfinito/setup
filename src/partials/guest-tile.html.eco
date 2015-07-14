@@ -13,14 +13,12 @@
             </span>
           </div>
         <% end %>
-        <div>
-          <span class="guest-name guest-first-name"><%= @guest.first_name %></span>
-        </div>
-        <% if @guest.last_name: %>
-          <div>
-            <span class="guest-name guest-last-name"><%= @guest.last_name %></span>
-          </div>
-        <% end %>
+        <p class="guest-name">
+          <span class="guest-name-first"><%= @guest.first_name %></span>
+          <% if @guest.last_name: %>
+            <span class="guest-name-last"><%= @guest.last_name %></span>
+          <% end %>
+        </p>
       </div>
     </div>
   </a>
