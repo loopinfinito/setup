@@ -1,23 +1,21 @@
 <<%= if @list then 'li' else 'div' %> class="guest tile">
   <a class="guest-link" href="<%= @guest.url.replace('index.html', '') %>">
     <img class="guest-image" src="/images/guests/<%= @guest.image %>">
-    <div class="guest-overlay">
-      <div class="guest-info">
-        <% if @guest.positions and @highlight and @list: %>
-          <span class="guest-professional-info">
-            <%= @guest.positions[0].do %>
-            <% if @guest.positions[0].at: %>
-              @ <span class="guest-company"><%= @guest.positions[0].at %></span>
-            <% end %>
-          </span>
-        <% end %>
-        <p class="guest-name">
-          <span class="guest-name-first"><%= @guest.first_name %></span>
-          <% if @guest.last_name: %>
-            <span class="guest-name-last"><%= @guest.last_name %></span>
+    <div class="guest-info">
+      <% if @guest.positions and @highlight and @list: %>
+        <span class="guest-professional-info">
+          <%= @guest.positions[0].do %>
+          <% if @guest.positions[0].at: %>
+            @ <span class="guest-company"><%= @guest.positions[0].at %></span>
           <% end %>
-        </p>
-      </div>
+        </span>
+      <% end %>
+      <p class="guest-name">
+        <span class="guest-name-first"><%= @guest.first_name %></span>
+        <% if @guest.last_name: %>
+          <span class="guest-name-last"><%= @guest.last_name %></span>
+        <% end %>
+      </p>
     </div>
   </a>
 </<%= if @list then 'li' else 'div' %>>
