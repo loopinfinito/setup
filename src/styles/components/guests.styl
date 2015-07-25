@@ -59,13 +59,6 @@ guest-highlight-dimension = 100%
   width 100%
   height 100%
 
-  .guest:first-of-type & // first guest
-    transform translateY(0)
-
-  .guest:nth-child(n+2) & // all but not first guest
-    @media ({medium})
-      transform translateX(100%)
-
 .guest-info
   position absolute
   right 0
@@ -81,17 +74,6 @@ guest-highlight-dimension = 100%
       right 30px
       bottom @right
 
-  .guest:nth-child(n+2) & // all but not first guest
-    @media ({medium})
-      display flex
-      align-items center
-      justify-content flex-end
-      right auto
-      bottom auto
-      width 100%
-      height 100%
-      padding 0
-
 .guest-name
   padding 6px 10px
   font-size 18px
@@ -99,6 +81,9 @@ guest-highlight-dimension = 100%
   line-height 110%
   letter-spacing -0.06em
   background color-link
+
+  @media ({medium})
+    font-size 26px
 
   .guest:first-of-type & // first guest
     display inline-block
@@ -110,11 +95,6 @@ guest-highlight-dimension = 100%
     @media ({medium})
       padding 10px 15px
       font-size 50px
-
-  .guest:nth-child(n+2) & // all but not first guest
-    @media ({medium})
-      margin 0 30px 0 20px
-      font-size 42px
 
 .guest-professional-info
   display none
