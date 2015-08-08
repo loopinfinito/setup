@@ -31,14 +31,14 @@ links:
         deixava o dia inteiro sozinho em casa. Meu pai certamente notou, depois
         de um tempo, que eu ficava brincando com aquilo e resolveu fazer um
         caderno de comandos para que eu não me perdesse enquanto usava o finado
-        DOS.
+        [DOS][dos].
         </p>
         <p>
         Tenho graduação em Sistemas de Informação e mestrado em Ciência da
         Computação, ambos com enfoque em Interação Humano-Computador. Entretanto
         transitei bastante entre outras sub-áreas, mas minhas maiores paixões
         ficaram em Processamento de Linguagem Natural, Linguagens de Programação
-        e Linguagens Formais. Eu, com certeza, tenho ~alguma coisa~ com
+        e Linguagens Formais. Eu, com certeza, tenho *alguma coisa* com
         linguagens. Também cursei Cinema e Audiovisual por mais de 2 anos, mas
         acabei desistindo.
         </p>
@@ -47,13 +47,18 @@ links:
         [Codeminer42][cm42] e a [Eventick][eventick]. As minhas experiências
         durante esses anos foram diversas: aplicativo para Xbox One, vários
         Rails apps, software para banco, visualização de dados estatísticos.
-        Coisas que as vezes eu me lembro e penso: - olha, eu já trabalhei com
+        Coisas que às vezes eu me lembro e penso: – olha, eu já trabalhei com
         isso mesmo.
         </p>
       </div>
     </div>
   </div>
 </section>
+
+[286]: http://vignette4.wikia.nocookie.net/uncyclopedia/images/3/31/286.jpg
+[dos]: https://en.wikipedia.org/wiki/DOS
+[cm42]: http://www.codeminer42.com/
+[eventick]: http://www.codeminer42.com/
 
 <section class="question">
   <div class="wrapper">
@@ -62,72 +67,81 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
+        <p>
+        Estou em um momento de transição e dúvida. Estou com um
+        [Sony Vaio 6GB RAM (2010)][vaio] e um
+        [MacBook Pro 4gb RAM (late 2011)][macbook]. Alterno entre os 2 durante o
+        dia, mas o MacBook é mais ergonômico para mim, devo confessar (mais
+        leve, mais silencioso, mais frio). Também tenho um [iPhone 5][iphone5],
+        que comprei logo quando saiu para aposentar meu velho
+        [iPhone 3gs][iphone3gs]. Também tenho um
+        [Keon Firefox OS Developer Preview][fxos], da Geeksphone, que não uso
+        com tanta frequência.
+        </p>
+        <p>
+        Tenho, também, um fone [Beats by Dr Dre Solo HD][beats] branco, que,
+        apesar de todos os reviews negativos por ai, acho muito bom e gosto da
+        definição do audio. Minha mochila foi escolhida mais por estética do que
+        qualquer outro critério, [uma azul da Nike][mochila] (se você já me viu
+        por ai, ela provavelmente estava junto).
+        </p>
         <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-workspace.jpg"
-            alt="Workspace fofuxo de "
-          />
-          <figcaption class="caption-bottom">
-            Workspace fofuxo de .
+          <img src="/images/content/ju-goncalves-workspace.jpg"
+               alt="Workspace de Ju Gonçalves" />
+          <figcaption class="caption-top">
+            Workspace de Ju Gonçalves.
           </figcaption>
         </figure>
         <p>
-        Estou em um momento de transição e dúvida. Estou com um [Sony Vaio 6gb
-        RAM (2010)][vaio] e um MacBook Pro 4gb RAM (late 2011). Alterno entre os
-        2 durante o dia, mas o MacBook é mais ergonômico para mim, devo
-        confessar (mais leve, mais silencioso, mais ~frio~). Também tenho um
-        iPhone 5, que comprei logo quando saiu para aposentar meu velho iPhone
-        3gs. Também tenho um [Keon Firefox OS Developer Preview][fxos], da
-        Geeksphone, que não uso com tanta frequência.
-        </p>
-        <p>
-        Tenho, também, um fone Beats by Dr Dre Solo HD branco, que, apesar de
-        todos os reviews negativos por ai, acho muito bom e gosto da definição
-        de audio. Minha mochila foi escolhida mais por estética do que qualquer
-        outro critério, [uma azul da Nike][mochila] (se você já me viu por ai,
-        ela provavelmente estava junto).
-        </p>
-        <p>
-        Não tenho nenhum monitor extra, mas geralmente uso algum em
-        *coworkings*, casas de amigos, etc. Também não tenho nenhum tablet, já
-        tive no passado um [Samsumg Galaxy Tab][tab], mas sempre achei a
-        experiência de uso do Android muito ruim.
+        Não tenho nenhum monitor extra, mas geralmente uso algum em coworkings,
+        casas de amigos, etc. Também não tenho nenhum tablet, já tive no passado
+        um [Samsumg Galaxy Tab][tab], mas sempre achei a experiência de uso do
+        Android muito ruim.
         </p>
         <p>
         Além desses, tenho mais 2 amigos inseparáveis que vão comigo para onde
-        eu for: meu Nintendo 3DS e meu Kindle. São companhias essenciais para
-        viagens longas ou momentos de tédio, como esperar em filas.
-        Especialmente porque a bateria deles dura bastante.
+        eu for: meu [Nintendo 3DS][3ds] e meu [Kindle][kindle]. São companhias
+        essenciais para viagens longas ou momentos de tédio, como esperar em
+        filas. Especialmente porque a bateria deles dura bastante.
         </p>
         <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-3ds.jpg"
-            alt="Nintendo 3DS + Pokémon Art Academy"
-          />
+          <img src="/images/content/ju-goncalves-3ds.jpg"
+               alt="Nintendo 3DS + Pokémon Art Academy" />
           <figcaption class="caption-bottom">
             Nintendo 3DS + Pokémon Art Academy
           </figcaption>
         </figure>
         <p>
         Desisti do curso de Cinema, mas a paixão por fotografia ficou: tenho um
-        Canon 7D (digital) e uma [Nikon F90][f90] (analógica). Infelizmente, a
-        Nikon ficou no Brasil, mas a Canon veio pra Dinamarca. Pretendo revivê-
-        la em breve, embora o uso dela no dia-a-dia seja complexo: muito grande
-        e muito pesada para levar por ai.
+        [Canon 7D][canon] (digital) e uma [Nikon F90][nikon] (analógica).
+        Infelizmente, a Nikon ficou no Brasil, mas a Canon veio pra Dinamarca.
+        Pretendo revivê-la em breve, embora o uso dela no dia-a-dia seja
+        complexo: muito grande e muito pesada para levar por ai.
         </p>
         <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-canon7d.jpg"
-            alt="Eu + Canon 7D"
-          />
-          <figcaption class="caption-bottom">
-            Eu + Canon 7D
+          <img src="/images/content/ju-goncalves-canon7d.jpg"
+               alt="Com a Canon 7D" />
+          <figcaption class="caption-top">
+            Com a Canon 7D
           </figcaption>
         </figure>
       </div>
     </div>
   </div>
 </section>
+
+[vaio]: http://cdn.instructables.com/FN8/HCS7/GVA8VEGE/FN8HCS7GVA8VEGE.MEDIUM.jpg
+[macbook]: http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.4-13-late-2011-unibody-thunderbolt-specs.html
+[iphone5]: http://www.techtudo.com.br/tudo-sobre/iphone-5.html
+[iphone3gs]: http://www.techtudo.com.br/tudo-sobre/iphone-3gs.html
+[fxos]: http://gadgetynews.com/wp-content/uploads/2013/01/Firefox-phone-keon-peak.jpg
+[beats]: http://www.digitaltrends.com/headphone-reviews/beats-by-dr-dre-solo-review/
+[mochila]: https://standupskateshop.com/wp-content/uploads/2013/04/NIKE-PIEDMONT-BACKPACK-BLUE-RED.jpg
+[tab]: http://cdn2.gsmarena.com/vv/pics/samsung/samsung-p1010-galaxy-tab-wi-fi-1.jpg
+[3ds]: http://www.techtudo.com.br/tudo-sobre/nintendo-3ds.html
+[kindle]: http://www.techtudo.com.br/tudo-sobre/kindle.html
+[canon]: http://www.techtudo.com.br/tudo-sobre/canon-eos-7d.html
+[nikon]: https://upload.wikimedia.org/wikipedia/commons/b/b9/Nikon_n90s.JPG
 
 <section class="question">
   <div class="wrapper">
@@ -136,17 +150,8 @@ links:
     </div>
     <div class="question-content-area">
       <div class="question-content text">
-        <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-elementary.jpg"
-            alt="Sony Vaio rodando Elementary OS"
-          />
-          <figcaption class="caption-bottom">
-            Sony Vaio rodando Elementary OS
-          </figcaption>
-        </figure>
         <p>
-        Tenho usado Mac OS X, [Elementary OS][elementary] e uma VM com
+        Tenho usado [Mac OS X][macosx], [Elementary OS][elementary] e uma VM com
         [NixOS][nix]. Gosto muito do Mac OS X, é provavelmente meu favorito e
         aquele que estou mais integrada. Elementary OS foi uma surpresa muito
         agradável, gosto bastante do **look'n'feel**, assim como da estabilidade
@@ -159,14 +164,23 @@ links:
         [KDE][kde], acho feia e confusa e não consegui usar [Gnome][gnome] no
         NixOS por questões de incompatibilidade. Foi muito frustrante.
         </p>
+        <figure class="image-fit">
+          <img
+            src="/images/content/ju-goncalves-elementary.jpg"
+            alt="Sony Vaio rodando Elementary OS"
+          />
+          <figcaption class="caption-bottom">
+            Sony Vaio rodando Elementary OS
+          </figcaption>
+        </figure>
         <p>
-        Meu navegador principal é o [Firefox][ff] e uso o [Firefox Developer
-        Edition][ffdev] para desenvolvimento. Migrei para o Firefox em 2013 por
-        questões ideológicas, o que ao longo dos anos mostrou seus benefícios:
-        consegui me manter com computadores de pouca memória RAM por mais tempo
-        do que a maioria das pessoas. Ainda hoje com 2 *Firefox*es consigo ter
-        uma performance boa em 4gb de RAM. Uso outros navegadores somente para
-        testes.
+        Meu navegador principal é o [Firefox][firefox] e uso o
+        [Firefox Developer Edition][firefox-dev] para desenvolvimento. Migrei
+        para o Firefox em 2013 por questões ideológicas, o que ao longo dos anos
+        mostrou seus benefícios: consegui me manter com computadores de pouca
+        memória RAM por mais tempo do que a maioria das pessoas. Ainda hoje com
+        2 *Firefox*es consigo ter uma performance boa em 4GB de RAM. Uso outros
+        navegadores somente para testes.
         </p>
         <p>
         Ao contrário da maioria das pessoas, sou *appless*: uso a menor
@@ -174,7 +188,7 @@ links:
         web-based ou por linha de comando. Em versão desktop, uso somente
         [Rdio][rdio] e [Slack][slack]. As vezes uso [Evernote][evernote], mas
         sempre em casos especiais. Para gerenciamento de tarefas, uso
-        [Trello][trello] e [Podio][podio]. No Trello, deixo mais tarefas não-
+        [Trello][trello] e [Podio][podio]. No Trello, deixo mais tarefas não
         estruturadas e, no Podio, projetos de software que serão lançados como
         [open source software][oss] ou qualquer projeto de software que pretendo
         fazer. Um app de console que eu usava bastante e recomendo é o
@@ -186,47 +200,92 @@ links:
         Depois de idas e vindas, meu editor de texto atual é o [emacs][emacs],
         juntamente com [spacemacs][spacemacs]. Nele, uso basicamente os
         keybindings do emacs com alguns do [VIM][vim] que eu gosto muito, como
-        `i` e `:q`. Ainda mantenho o [Sublime Text 3][st3] instalado, assim como
+        `i` e `:q`. Ainda mantenho o [Sublime Text 3][sublime] instalado, assim como
         o [Brackets][brackets], que geralmente uso quando preciso editar texto
         com alguém. Já usei muito [WebStorm][webstorm] no meu emprego passado,
         mas sempre odeiei e gastava memória demais. Eu definitivamente não
         combino com IDEs.
         </p>
         <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-emacs-iterm-fish.png"
-            alt="iTerm2 rodando emacs, fish e npm scripts"
-          />
+          <img src="/images/content/ju-goncalves-emacs-iterm-fish.png"
+               alt="iTerm2 rodando emacs, fish e npm scripts" />
           <figcaption class="caption-bottom">
             iTerm2 rodando emacs, fish e npm scripts
           </figcaption>
         </figure>
         <p>
-        Quanto à ferramentas de desenvolvimento, uso [iTerm2][iTerm2] no Mac OS
+        Quanto à ferramentas de desenvolvimento, uso [iTerm2][iterm] no Mac OS
         X e [Sakura][sakura] no Elementary OS, ambos usando [Fish][fish]. Para
-        versionamento de código, uso git alternando entre [GitHub][gh] e
-        [BitBucket][bb]. Já o automatizador de tarefas depende do ambiente que
-        eu estou usando, mas geralmente escolho [npm scripts][npm-script] para
-        JavaScript e [make][make] para o resto.
+        versionamento de código, uso [git][git] alternando entre
+        [GitHub][github] e [BitBucket][bitbucket]. Já o automatizador de tarefas
+        depende do ambiente que eu estou usando, mas geralmente escolho
+        [npm scripts][npm-script] para JavaScript e [make][make] para o resto.
         </p>
         <p>
-        Linguagens? Minha linguagem principal é a JavaScript. Logo, tenho sempre
-        [Node.js][node] e [npm][npm] instalados e geralmente descarto os demais
-        gerenciadores de pacotes ([Bower][bower], [Component][component],
+        Linguagens? Minha linguagem principal é a [JavaScript][js]. Logo, tenho
+        sempre [Node.js][node] e [npm][npm] instalados e geralmente descarto os
+        demais gerenciadores de pacotes ([Bower][bower], [Component][component],
         [Duo][duo] etc), por não ver ganho em usá-los no dia-a-dia. Obviamente,
-        mantenho instaladas diversas linguagens funcionais, como [Haskell][hs],
-        [Scala][scala], [Clojure][clj] e [Racket][rkt]. E algumas que compilam
-        para JavaScript como [Elm][elm], [PureScript][prs] e [LiveScript][ls].
-        Sou bem nerd de linguagens de programação e estou sempre brincando com
-        uma ou outra. Dentre os frameworks, sempre mantenho uma abordagem
+        mantenho instaladas diversas linguagens funcionais, como
+        [Haskell][haskell], [Scala][scala], [Clojure][clojure] e
+        [Racket][racket]. E algumas que compilam para JavaScript como
+        [Elm][elm], [PureScript][purescript] e [LiveScript][livescript]. Sou bem
+        nerd de linguagens de programação e estou sempre brincando com uma ou
+        outra. Dentre os frameworks, sempre mantenho uma abordagem
         *frameworkless*, usando sempre módulos/pacotes que fazem uma coisa bem
-        feita. Único framework que me considero emocionalmente apegada é o
+        feita. O único framework que me considero emocionalmente apegada é o
         [React][react] ([mas por motivos racionais][react-is-awesome]).
         </p>
       </div>
     </div>
   </div>
 </section>
+
+[macosx]: https://pt.wikipedia.org/wiki/OS_X
+[elementary]: https://elementary.io/
+[nix]: http://nixos.org/
+[kde]: https://www.kde.org/
+[gnome]: https://www.gnome.org/
+[firefox]: https://www.mozilla.org/en-US/firefox/new/
+[firefox-dev]: https://www.mozilla.org/en-US/firefox/developer/
+[emacs]: https://www.gnu.org/software/emacs/
+[vim]: http://www.vim.org/
+[rdio]: http://www.rdio.com/home
+[slack]: https://slack.com/
+[evernote]: https://evernote.com/
+[profanity]: http://www.profanity.im/
+[xmpp]: http://xmpp.org/
+[fb-deprecates-xmpp]: https://developers.facebook.com/docs/chat
+[trello]: http://trello.com/
+[podio]: https://podio.com/
+[oss]: https://en.wikipedia.org/wiki/Open-source_software
+[spacemacs]: https://github.com/syl20bnr/spacemacs
+[sublime]: http://www.sublimetext.com/3
+[brackets]: http://brackets.io/
+[webstorm]: https://www.jetbrains.com/webstorm/
+[iterm]: https://www.iterm2.com/
+[sakura]: https://launchpad.net/sakura
+[fish]: http://fishshell.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/jugoncalves
+[bitbucket]: https://bitbucket.org/jugoncalves
+[npm-script]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+[make]: http://www.gnu.org/software/make/
+[js]: https://www.javascript.com/
+[node]: https://nodejs.org/
+[npm]: http://npmjs.com/
+[bower]: http://bower.io/
+[component]: https://github.com/componentjs/component
+[duo]: http://duojs.org/
+[hs]: https://www.haskell.org/
+[scala]: http://www.scala-lang.org/
+[clojure]: http://clojure.org/
+[racket]: http://racket-lang.org/
+[elm]: http://elm-lang.org/
+[purescript]: http://www.purescript.org/
+[livescript]: http://livescript.net/
+[react]: http://facebook.github.io/react/
+[react-is-awesome]: http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome
 
 <section class="question">
   <div class="wrapper">
@@ -236,7 +295,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        O que me motiva, sem sombra de dúvidas, é a curiosidade. Quando eu
+        O que me motiva, sem sombra de dúvidas, é a __curiosidade__. Quando eu
         estava na 3ª ou 4ª série, os livros do governo eram entregues para que
         fossem encapados com 1 ou 2 meses de antecedência do começo das aulas.
         Eu lia os livros e fazia os exercícios durante esses ~2 meses por pura
@@ -244,14 +303,14 @@ links:
         meus favoritos, assim como assuntos relacionados à Geografia. Meu pai
         gostava de manter uma coleção de livros de "Conhecimentos Gerais", que
         eu li antes de terminar a 4ª série (mais ou menos nessa época eu comecei
-        a ~hackear~ uns códigos em [Visual Basic][vb]).
+        a hackear uns códigos em [Visual Basic][vb]).
         </p>
         <p>
-        Quanto a tecnologia, ver algo funcionando e construir algo sempre encheu
-        meus olhos. Entretanto, o conhecimento teórico me intriga profundamente
-        mais do que a prática. Prefiro passar horas entendendo a relação de
-        conceitos abstratos do que hackear um dispositivo, por exemplo. Mas isso
-        é só sobre aumento de dopamina, não um juízo de valor.
+        Quanto a tecnologia, __ver algo funcionando e construir algo sempre
+        encheu meus olhos__. Entretanto, o conhecimento teórico me intriga
+        profundamente mais do que a prática. Prefiro passar horas entendendo a
+        relação de conceitos abstratos do que hackear um dispositivo, por
+        exemplo. Mas isso é só sobre aumento de dopamina, não um juízo de valor.
         </p>
         <p>
         Além disso, uma parte substancial da minha motivação vem da
@@ -265,37 +324,27 @@ links:
   </div>
 </section>
 
+[vb]: https://en.wikipedia.org/wiki/Visual_Basic
+
 <section class="question">
   <div class="wrapper">
     <div class="question-title-area">
-      <h2 class="question-title">Um herói?</h2>
+      <h2 class="question-title">Um hobby?</h2>
     </div>
     <div class="question-content-area">
       <div class="question-content text">
+        <p>
+        Para as horas vagas ficaram as atividades artísticas que gosto muito:
+        fotografia e desenho. Eu fui treinada em Fotografia por mais de 2 anos,
+        mas não tenho nenhuma técnica para desenhar (o que me incomoda bastante).
+        </p>
         <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-hotdog.jpg"
-            alt="Hot Dog Princess d'A Hora da Aventura"
-          />
-          <figcaption class="caption-bottom">
-            Hot Dog Princess d'A Hora da Aventura
-          </figcaption>
-        </figure>
-        <figure class="image-fit">
-          <img
-            src="/images/content/ju-goncalves-holte.jpg"
-            alt="Ebberødvej, Dinamarca"
-          />
+          <img src="/images/content/ju-goncalves-holte.jpg"
+               alt="Ebberødvej, Dinamarca" />
           <figcaption class="caption-bottom">
             Ebberødvej, Dinamarca
           </figcaption>
         </figure>
-        <p>
-        Para as horas vagas ficaram as atividades artísticas que gosto muito:
-        fotografia e desenho. Eu fui treinada em Fotografia por mais de 2 anos,
-        mas não tenho nenhuma técnica para desenhar (o que me incomoda
-        bastante).
-        </p>
         <p>
         Além disso, sou bastante ligada em seriados, embora não veja mais
         filmes. Recentemente vi alguns amigos comentando sobre o seriado
@@ -309,56 +358,4 @@ links:
   </div>
 </section>
 
-[286]: http://vignette4.wikia.nocookie.net/uncyclopedia/images/3/31/286.jpg
-[dos]: https://en.wikipedia.org/wiki/DOS
-[mochila]: https://standupskateshop.com/wp-content/uploads/2013/04/NIKE-PIEDMONT-BACKPACK-BLUE-RED.jpg
-[cm42]: http://www.codeminer42.com/
-[eventick]: http://www.codeminer42.com/
-[vaio]: http://cdn.instructables.com/FN8/HCS7/GVA8VEGE/FN8HCS7GVA8VEGE.MEDIUM.jpg
-[fxos]: http://gadgetynews.com/wp-content/uploads/2013/01/Firefox-phone-keon-peak.jpg
-[tab]: http://cdn2.gsmarena.com/vv/pics/samsung/samsung-p1010-galaxy-tab-wi-fi-1.jpg
-[f90]: https://upload.wikimedia.org/wikipedia/commons/b/b9/Nikon_n90s.JPG
-[elementary]: https://elementary.io/
-[nix]: http://nixos.org/
-[kde]: https://www.kde.org/
-[gnome]: https://www.gnome.org/
-[ff]: https://www.mozilla.org/en-US/firefox/new/
-[ffdev]: https://www.mozilla.org/en-US/firefox/developer/
-[emacs]: https://www.gnu.org/software/emacs/
-[vim]: http://www.vim.org/
-[rdio]: http://www.rdio.com/home
-[slack]: https://slack.com/
-[evernote]: https://evernote.com/
-[profanity]: http://www.profanity.im/
-[xmpp]: http://xmpp.org/
-[fb-deprecates-xmpp]: https://developers.facebook.com/docs/chat
-[trello]: http://trello.com/
-[podio]: https://podio.com/
-[oss]: https://en.wikipedia.org/wiki/Open-source_software
-[spacemacs]: https://github.com/syl20bnr/spacemacs
-[st3]: http://www.sublimetext.com/3
-[webstorm]: https://www.jetbrains.com/webstorm/
-[brackets]: http://brackets.io/
-[npm-script]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
-[make]: http://www.gnu.org/software/make/
-[node]: https://nodejs.org/
-[npm]: http://npmjs.com/
-[bower]: http://bower.io/
-[component]: https://github.com/componentjs/component
-[duo]: http://duojs.org/
-[hs]: https://www.haskell.org/
-[scala]: http://www.scala-lang.org/
-[clj]: http://clojure.org/
-[rkt]: http://racket-lang.org/
-[elm]: http://elm-lang.org/
-[prs]: http://www.purescript.org/
-[ls]: http://livescript.net/
-[iTerm2]: https://www.iterm2.com/
-[sakura]: https://launchpad.net/sakura
-[fish]: http://fishshell.com/
-[gh]: https://github.com/jugoncalves
-[bb]: https://bitbucket.org/jugoncalves
-[react]: http://facebook.github.io/react/
-[react-is-awesome]: http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome
-[vb]: https://en.wikipedia.org/wiki/Visual_Basic
 [sense8]: http://www.imdb.com/title/tt2431438/
