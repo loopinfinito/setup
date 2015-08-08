@@ -1,12 +1,19 @@
 ---
 layout: guest
 number: '23'
-published_date: 07/08/2015
+published_date: 11/08/2015
 first_name: ju gonçalves
 last_name:
 image: ju-goncalves.jpg
 keywords: >
-  ju gonçalves, web, javascript,
+  ju gonçalves, web, javascript, 286, dos, codeminer42, eventick, vaio, macbook
+  pro, iphone 5, iphone 3gs, fxos, beats by dr dre, mochila, nintendo 3ds,
+  kindle, canon 7d, nikon f90, mac os x, elementary os, nix os, kde, gnome,
+  firefox, firefox developer, emacs, vim, rdio, slack, evernote, profanity,
+  xmpp, trello, podio, open source, spacemacs, sublime text, brackets, webstorm,
+  iterm 2, sakura, fish, git, github, bitbucket, npm- script, make, js, node,
+  npm, bower, component, duo, haskell, scala, clojure, racket, elm, purescript,
+  livescript, react, visual basic
 positions:
   - do: desenvolvedora javascript
     at:
@@ -277,7 +284,7 @@ links:
 [bower]: http://bower.io/
 [component]: https://github.com/componentjs/component
 [duo]: http://duojs.org/
-[hs]: https://www.haskell.org/
+[haskell]: https://www.haskell.org/
 [scala]: http://www.scala-lang.org/
 [clojure]: http://clojure.org/
 [racket]: http://racket-lang.org/
