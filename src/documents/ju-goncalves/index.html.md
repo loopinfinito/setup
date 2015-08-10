@@ -9,19 +9,20 @@ keywords: >
   ju gonçalves, web, javascript, 286, dos, codeminer42, eventick, vaio, macbook
   pro, iphone 5, iphone 3gs, fxos, beats by dr dre, mochila, nintendo 3ds,
   kindle, canon 7d, nikon f90, mac os x, elementary os, nix os, kde, gnome,
-  firefox, firefox developer, emacs, vim, rdio, slack, evernote, profanity,
-  xmpp, trello, podio, open source, spacemacs, sublime text, brackets, webstorm,
-  iterm 2, sakura, fish, git, github, bitbucket, npm- script, make, js, node,
-  npm, bower, component, duo, haskell, scala, clojure, racket, elm, purescript,
-  livescript, react, visual basic
+  firefox, firefox developer, emacs, vim, spotify, slack, evernote, profanity,
+  xmpp, trello, podio, open source, spacemacs, brackets, webstorm, terminal,
+  sakura, fish, git, github, bitbucket, npm- script, make, js, node, npm, bower,
+  component, duo, haskell, scala, clojure, racket, elm, purescript, livescript,
+  react, visual basic
 positions:
-  - do: desenvolvedora javascript
-    at:
+  - do: front-end engineer
+    at: Podio
+  - do: Copenhagen
 links:
   - text: jugoncalv.es
     url: "http://jugoncalv.es"
-  - text: @junspector
-    url: "https://twitter.com/junspector"
+  - text: @cyberglot
+    url: "https://twitter.com/cyberglot"
 ---
 
 <section class="question">
@@ -57,6 +58,12 @@ links:
         Coisas que às vezes eu me lembro e penso: – olha, eu já trabalhei com
         isso mesmo.
         </p>
+        <p>
+        Agora, eu moro em Copenhagen, na Dinamarca. Trabalho como Front-end
+        Enginner na [Podio][podio], que era uma startup de um produto de
+        gerenciamento de projetos, parecido com o [Trello][trello], porém mais
+        customizado e bastante usado no mundo inteiro.
+        </p>
       </div>
     </div>
   </div>
@@ -66,6 +73,8 @@ links:
 [dos]: https://en.wikipedia.org/wiki/DOS
 [cm42]: http://www.codeminer42.com/
 [eventick]: http://www.codeminer42.com/
+[podio]: https://podio.com/
+[trello]: http://trello.com/
 
 <section class="question">
   <div class="wrapper">
@@ -75,20 +84,18 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        Estou em um momento de transição e dúvida. Estou com um
-        [Sony Vaio 6GB RAM (2010)][vaio] e um
-        [MacBook Pro 4gb RAM (late 2011)][macbook]. Alterno entre os 2 durante o
-        dia, mas o MacBook é mais ergonômico para mim, devo confessar (mais
-        leve, mais silencioso, mais frio). Também tenho um [iPhone 5][iphone5],
-        que comprei logo quando saiu para aposentar meu velho
-        [iPhone 3gs][iphone3gs]. Também tenho um
+        Tenho um [Sony Vaio 6gb RAM (2010)][vaio] e um recém-comprado
+        [MacBook spacegrey][macbook]. Alterno entre os 2 durante o dia, mas o MacBook é
+        mais ergonômico para mim, devo confessar (mais leve, mais silencioso,
+        mais frio). Também tenho um [iPhone 5][iphone5], que comprei logo quando
+        saiu para aposentar meu velho [iPhone 3gs][iphone3gs]. Também tenho um
         [Keon Firefox OS Developer Preview][fxos], da Geeksphone, que não uso
         com tanta frequência.
         </p>
         <p>
-        Tenho, também, um fone [Beats by Dr Dre Solo HD][beats] branco, que,
-        apesar de todos os reviews negativos por ai, acho muito bom e gosto da
-        definição do audio. Minha mochila foi escolhida mais por estética do que
+        Tenho, também, um fone [Beats by Dre Solo HD branco][beats], que, apesar
+        de todos os reviews negativos por ai, acho muito bom e gosto da
+        definição de audio. Minha mochila foi escolhida mais por estética do que
         qualquer outro critério, [uma azul da Nike][mochila] (se você já me viu
         por ai, ela provavelmente estava junto).
         </p>
@@ -132,13 +139,20 @@ links:
             Com a Canon 7D
           </figcaption>
         </figure>
+        <p>
+        Agora que estou me estabilizando em Copenhagen, irei adicionar um bom e
+        grande monitor, assim como uma cadeira, que seja confortável e
+        ergonômica, ao meu workspace. Cadeira é muito importante, deve ser sua
+        prioridade depois de uma boa máquina. Um Playstation 4 e um iPhone 6
+        também estão na lista de futuras aquisições.
+        </p>
       </div>
     </div>
   </div>
 </section>
 
 [vaio]: http://cdn.instructables.com/FN8/HCS7/GVA8VEGE/FN8HCS7GVA8VEGE.MEDIUM.jpg
-[macbook]: http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.4-13-late-2011-unibody-thunderbolt-specs.html
+[macbook]: http://www.trustedreviews.com/12-inch-macbook-2015-review
 [iphone5]: http://www.techtudo.com.br/tudo-sobre/iphone-5.html
 [iphone3gs]: http://www.techtudo.com.br/tudo-sobre/iphone-3gs.html
 [fxos]: http://gadgetynews.com/wp-content/uploads/2013/01/Firefox-phone-keon-peak.jpg
@@ -161,7 +175,7 @@ links:
         Tenho usado [Mac OS X][macosx], [Elementary OS][elementary] e uma VM com
         [NixOS][nix]. Gosto muito do Mac OS X, é provavelmente meu favorito e
         aquele que estou mais integrada. Elementary OS foi uma surpresa muito
-        agradável, gosto bastante do **look'n'feel**, assim como da estabilidade
+        agradável, gosto bastante do *look'n'feel*, assim como da estabilidade
         e dos aplicativos. Não sinto falta de muita coisa do Mac OS X quando
         estou usando-o. Certamente poderia usá-lo como primeiro OS sem nenhum
         problema. Já o NixOs é um caso de amor e ódio. Com certeza, NixOS
@@ -185,19 +199,18 @@ links:
         [Firefox Developer Edition][firefox-dev] para desenvolvimento. Migrei
         para o Firefox em 2013 por questões ideológicas, o que ao longo dos anos
         mostrou seus benefícios: consegui me manter com computadores de pouca
-        memória RAM por mais tempo do que a maioria das pessoas. Ainda hoje com
-        2 *Firefox*es consigo ter uma performance boa em 4GB de RAM. Uso outros
+        memória RAM por mais tempo do que a maioria das pessoas. Uso outros
         navegadores somente para testes.
         </p>
         <p>
         Ao contrário da maioria das pessoas, sou *appless*: uso a menor
         quantidade de apps possível e sempre dou preferência àqueles que são
         web-based ou por linha de comando. Em versão desktop, uso somente
-        [Rdio][rdio] e [Slack][slack]. As vezes uso [Evernote][evernote], mas
-        sempre em casos especiais. Para gerenciamento de tarefas, uso
+        [Spotify][spotify] e [Slack][slack]. As vezes uso [Evernote][evernote],
+        mas sempre em casos especiais. Para gerenciamento de tarefas, uso
         [Trello][trello] e [Podio][podio]. No Trello, deixo mais tarefas não
         estruturadas e, no Podio, projetos de software que serão lançados como
-        [open source software][oss] ou qualquer projeto de software que pretendo
+        [open source software][opensource] ou qualquer projeto de software que pretendo
         fazer. Um app de console que eu usava bastante e recomendo é o
         [Profanity][profanity], que é um cliente [XMPP][xmpp]. Usava para
         conectar ao Facebook chat e ao Gtalk, mas o
@@ -207,11 +220,10 @@ links:
         Depois de idas e vindas, meu editor de texto atual é o [emacs][emacs],
         juntamente com [spacemacs][spacemacs]. Nele, uso basicamente os
         keybindings do emacs com alguns do [VIM][vim] que eu gosto muito, como
-        `i` e `:q`. Ainda mantenho o [Sublime Text 3][sublime] instalado, assim como
-        o [Brackets][brackets], que geralmente uso quando preciso editar texto
-        com alguém. Já usei muito [WebStorm][webstorm] no meu emprego passado,
-        mas sempre odeiei e gastava memória demais. Eu definitivamente não
-        combino com IDEs.
+        `i` e `:q`. Ainda mantenho o [Brackets][brackets] instalado, que
+        geralmente uso quando preciso editar texto com alguém. Já usei muito
+        [WebStorm][webstorm] no meu emprego passado, mas sempre odeiei e gastava
+        memória demais. Eu definitivamente não combino com IDEs.
         </p>
         <figure class="image-fit">
           <img src="/images/content/ju-goncalves-emacs-iterm-fish.png"
@@ -221,8 +233,9 @@ links:
           </figcaption>
         </figure>
         <p>
-        Quanto à ferramentas de desenvolvimento, uso [iTerm2][iterm] no Mac OS
-        X e [Sakura][sakura] no Elementary OS, ambos usando [Fish][fish]. Para
+        Quanto à ferramentas de desenvolvimento, uso [Terminal.app][terminal] no
+        Mac OS X e [Sakura][sakura] no Elementary OS, ambos usando shell
+        [Fish][fish] e [Oh-my-fish][ohmyfish] para personalização. Para
         versionamento de código, uso [git][git] alternando entre
         [GitHub][github] e [BitBucket][bitbucket]. Já o automatizador de tarefas
         depende do ambiente que eu estou usando, mas geralmente escolho
@@ -257,22 +270,21 @@ links:
 [firefox-dev]: https://www.mozilla.org/en-US/firefox/developer/
 [emacs]: https://www.gnu.org/software/emacs/
 [vim]: http://www.vim.org/
-[rdio]: http://www.rdio.com/home
+[spotify]: https://www.spotify.com/
 [slack]: https://slack.com/
 [evernote]: https://evernote.com/
 [profanity]: http://www.profanity.im/
 [xmpp]: http://xmpp.org/
 [fb-deprecates-xmpp]: https://developers.facebook.com/docs/chat
-[trello]: http://trello.com/
-[podio]: https://podio.com/
-[oss]: https://en.wikipedia.org/wiki/Open-source_software
+[opensource]: https://en.wikipedia.org/wiki/Open-source_software
 [spacemacs]: https://github.com/syl20bnr/spacemacs
 [sublime]: http://www.sublimetext.com/3
 [brackets]: http://brackets.io/
 [webstorm]: https://www.jetbrains.com/webstorm/
-[iterm]: https://www.iterm2.com/
+[terminal]: https://en.wikipedia.org/wiki/Terminal_%28OS_X%29
 [sakura]: https://launchpad.net/sakura
 [fish]: http://fishshell.com/
+[ohmyfish]: http://bpinto.github.io/oh-my-fish/
 [git]: https://git-scm.com/
 [github]: https://github.com/jugoncalves
 [bitbucket]: https://bitbucket.org/jugoncalves
@@ -305,9 +317,9 @@ links:
         O que me motiva, sem sombra de dúvidas, é a __curiosidade__. Quando eu
         estava na 3ª ou 4ª série, os livros do governo eram entregues para que
         fossem encapados com 1 ou 2 meses de antecedência do começo das aulas.
-        Eu lia os livros e fazia os exercícios durante esses ~2 meses por pura
-        curiosidade em entender os assuntos. Lembro que os de Biologia eram os
-        meus favoritos, assim como assuntos relacionados à Geografia. Meu pai
+        Eu lia os livros e fazia os exercícios durante esses quase 2 meses por
+        pura curiosidade em entender os assuntos. Lembro que os de Biologia eram
+        os meus favoritos, assim como assuntos relacionados à Geografia. Meu pai
         gostava de manter uma coleção de livros de "Conhecimentos Gerais", que
         eu li antes de terminar a 4ª série (mais ou menos nessa época eu comecei
         a hackear uns códigos em [Visual Basic][vb]).
