@@ -226,10 +226,10 @@ links:
         memória demais. Eu definitivamente não combino com IDEs.
         </p>
         <figure class="image-fit">
-          <img src="/images/content/ju-goncalves-emacs-iterm-fish.png"
-               alt="iTerm2 rodando emacs, fish e npm scripts" />
+          <img src="/images/content/ju-goncalves-emacs-terminal-fish.jpg"
+               alt="Terminal.app rodando emacs, fish e npm scripts" />
           <figcaption class="caption-bottom">
-            iTerm2 rodando emacs, fish e npm scripts
+            Terminal.app rodando emacs, fish e npm scripts
           </figcaption>
         </figure>
         <p>
