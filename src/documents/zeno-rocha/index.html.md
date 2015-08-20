@@ -20,9 +20,7 @@ positions:
     at: liferay, inc.
   - do: co-fundador
     at: braziljs
-  - do: apresentador
-    at: z.o.f-e
-  - do: recife
+  - do: los angeles
 links:
   - text: zenorocha.com
     url: "http://zenorocha.com/"
@@ -38,7 +36,7 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-          Meu nome é Zeno Rocha, tenho 22 anos e sou de Curitiba, Paraná.
+          Meu nome é Zeno Rocha, tenho 24 anos e sou de Curitiba, Paraná.
           Todo mundo tem uma história romântica de como começou na web, já eu
           nem lembro qual ano ou qual foi meu primeiro site exatamente.
         </p>
