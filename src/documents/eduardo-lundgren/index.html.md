@@ -161,9 +161,9 @@ links:
         pessoais, se tiver interesse em usar estão [disponíveis aqui][snippets].
         </p>
         <p>
-        No terminal uso zsh como shell com uma série de adicionais providos pelo
-        [Pretzo][prezto]. Uso o [iTerm 2][iterm] como cliente para terminal.
-        Para produtividade utilizo o [Alfred][alfred] como launcher,
+        No terminal uso [zsh][zsh] como shell com uma série de adicionais
+        providos pelo [Pretzo][prezto]. Uso o [iTerm 2][iterm] como cliente para
+        terminal. Para produtividade utilizo o [Alfred][alfred] como launcher,
         [Divvy][divvy] para gerenciamento de janelas, [Kuvva][kuvva] para
         wallpapers, [1Password][1password] para gerenciamento de credenciais,
         [f.lux][f-lux] para produzir mais [Melatonina][melatonina] e perceber
@@ -174,7 +174,7 @@ links:
         [Workflowy][workflowy] tem me ajudado a manter tudo em ordem. Para
         gerenciar minhas viagens uso o [Kayak][kayak] e [Google Now][googlenow].
         Mantenho minhas fotos, desde a época que a camera digital tinha 2 mega
-        pixels, no [Google Photo][googlephoto].
+        pixels, no [Google Photo][googlephotos].
         </p>
         <p>
         Como linguagens de programação, utilizo [JavaScript][javascript] e
@@ -213,6 +213,7 @@ links:
 [esformatter]: https://packagecontrol.io/packages/EsFormatter
 [material-theme]: https://packagecontrol.io/packages/Material%20Theme
 [snippets]: https://github.com/eduardolundgren/snippets
+[zsh]: https://en.wikipedia.org/wiki/Z_shell
 [prezto]: https://github.com/sorin-ionescu/prezto
 [iterm]: http://www.iterm2.com/
 [alfred]: http://alfredapp.com/
@@ -254,11 +255,11 @@ links:
     <div class="question-content-area">
       <div class="question-content text">
         <p>
-        O motivo principal porque programo é desafiar a mim mesmo. É importante
-        aprender coisas novas e descobrir que tem muito mais por ai que ainda
-        tenho que aprender. É a melhor terapia. Acredito que um dia alguma das
-        idéias que tenho vai ajudar a mudar o mundo e atingir várias pessoas e
-        empresas.
+        O motivo principal porque programo é __desafiar a mim mesmo__. É
+        importante aprender coisas novas e descobrir que tem muito mais por ai
+        que ainda tenho que aprender. É a melhor terapia. Acredito que um dia
+        alguma das idéias que tenho vai ajudar a mudar o mundo e atingir várias
+        pessoas e empresas.
         </p>
       </div>
     </div>
