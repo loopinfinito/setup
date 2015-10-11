@@ -28,7 +28,7 @@ a
     border-bottom-style solid
     border-bottom-color color-link
 
-.shape
+shape()
   padding 0 0.5ex
   border-bottom none
 
@@ -36,6 +36,9 @@ a
     color color-background
     background color-link
     border-bottom none
+
+.shape
+  shape()
 
 img,
 a img
@@ -53,7 +56,7 @@ h2
 .wrapper
   margin auto
 
-.tile
+tile()
   position relative
 
   &::before
@@ -68,3 +71,10 @@ h2
     width 100%
     height 100%
     overflow hidden
+
+.tile
+  tile()
+
+.tile-only-mobile
+  @media ({small})
+    tile()

@@ -1,22 +1,48 @@
 .footer
   display flex
 
+  @media ({medium})
+    line-height 130px
+
 .footer-menu
   flex 2
+
+  @media ({medium})
+    flex 1
 
 .footer-menu-items
   display flex
   list-style none
 
+  @media ({medium})
+    display block
+    text-align center
+
 .footer-menu-item
   flex 1
   background color-faded
 
+  @media ({medium})
+    display inline-block
+    text-align center
+    background none
+
+    & + &
+      margin-left 30px
+
 .footer-menu-item-link
   display flex
-  padding 0
   box-sizing border-box
   border-left 1px solid color-background
+
+  @media ({small})
+    padding 0
+
+  @media ({medium})
+    display inline
+    padding-top .5ex
+    padding-bottom .1ex
+    border none
 
   .footer-menu-item:first-child &
     border-left none
@@ -30,12 +56,22 @@
   color color-blue
   background color-highlight
 
+  @media ({medium})
+    flex 2
+    background none
+    border-left layout-border
+
 .loop-infinito-link
   display flex
   border-bottom none
   color white
   box-sizing border-box
   border-left 1px solid color-background
+
+  @media ({medium})
+    display inline
+    margin-left 40px
+    color inherit
 
   &:hover
     border-bottom none
@@ -47,5 +83,17 @@
     text-align right
     line-height 150%
 
+    @media ({medium})
+      display inline
+      text-align left
+
 .loop-infinito-name
   display block
+
+  @media ({medium})
+    display inline
+    shape()
+    color color-highlight
+
+    &:hover
+      background @color
