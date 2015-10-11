@@ -4,4 +4,4 @@ module.exports = (grunt) ->
   grunt.initConfig
     pkg: grunt.file.readJSON 'package.json'
 
-  grunt.loadTasks 'grunt-tasks'
+  grunt.loadTasks 'grunt'
