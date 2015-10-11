@@ -89,6 +89,13 @@ links:
         seguida [Debian][debian], onde fiquei por alguns anos, até que no final
         migrei para o [Mac OS X][osx] onde estou até hoje.
         </p>
+        <figure class="image-fit">
+          <img src="/images/content/eduardo-lundgren-workspace.jpg"
+               alt="Workspace de Eduardo Lundgren na Liferay." />
+          <figcaption class="caption-bottom">
+            Workspace de Eduardo Lundgren na Liferay.
+          </figcaption>
+        </figure>
         <p>
         Compartilho a mesma máquina para uso doméstico e profissional, um
         [Macbook Pro 15”][macbookpro], com 512GB de HD SSD e 16GB de RAM. Até
@@ -117,8 +124,6 @@ links:
         maior trabalho para ajustar, dai em diante comecei a utilizar uma
         carteira com proteção [Secrid Wallet][wallet-secrid].
         </p>
-
-        [FOTO DESK]
       </div>
     </div>
   </div>
