@@ -3,19 +3,15 @@
 <%- @partial('head.html.eco', @) %>
 <body class="page-about">
   <header class="header">
-    <div class="area-left">
-      <h1>sobre</h1>
-    </div>
-    <div class="area-right">
-      <h1><a class="link-home shape" href="/">setup</a></h1>
-    </div>
+    <h3 class="header-title">
+      <a class="header-link shape" href="/">setup</a>
+    </h3>
+    <h1 class="about-title">sobre</h1>
   </header>
 
   <section class="content">
-    <div class="wrapper">
-      <div class="content-area text">
-        <%- @content %>
-      </div>
+    <div class="wrapper text">
+      <%- @content %>
     </div>
   </section>
 
