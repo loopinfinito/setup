@@ -1,136 +1,152 @@
-content-padding = 45px
-blockquote-border-width = 5px
-
-question-left()
-  padding-right content-padding
-  text-align right
-  border-right layout-border
-  order(1)
-
-question-right()
-  padding-left content-padding
-  order(2)
-
-.question
-  border-bottom layout-border
-
-  .wrapper
-    display(flex)
-
-.question-title-area,
-.question-content-area
-  width 50%
-  padding (content-padding - 27px) 0
-
-.question-title
-  color color-orange
-  font-size 36px
-  margin-top 9px
-  position relative
+.content
+  padding 30px 30px 0 30px
 
 .text
+  font-size 16px
 
-  p, blockquote
+  h2
+    font-size 22px
+    line-height 130%
+
+  p
     margin 20px 0
     font-family fonts-text
-    font-size 16px
-    line-height 170%
+    line-height 150%
 
-  strong
-    font-family fonts-text-bold
-    font-weight normal
-    color color-orange
 
-  blockquote
-    width 100%
-    font-style italic
+content-padding = 45px
+// blockquote-border-width = 5px
 
-    cite
-      font-style normal
+// question-left()
+//   padding-right content-padding
+//   text-align right
+//   border-right layout-border
+//   order(1)
 
-.image-fit
-  position relative
-  width guest-highlight-dimension
-  margin 30px 0
-  display block
-  border layout-border
-  box-sizing border-box
+// question-right()
+//   padding-left content-padding
+//   order(2)
 
-  img
-    width 100%
-    display block
+// .question
+//   border-bottom layout-border
 
-  figcaption
-    position absolute
-    display block
-    width 100%
-    bottom 0
-    left 0
-    background rgba(color-blue-dark, 0.7)
-    padding 12px 30px 12px content-padding
-    line-height 140%
-    box-sizing border-box
-    font-family fonts-text
-    font-style italic
-    transition(opacity 0.4s ease)
+//   .wrapper
+//     display(flex)
 
-    &.caption-top
-      bottom auto
-      top 0
+// .question-title-area,
+// .question-content-area
+//   width 50%
+//   padding (content-padding - 27px) 0
 
-  &:hover
-    figcaption
-      opacity 0
+// .question-title
+//   color color-orange
+//   font-size 36px
+//   margin-top 9px
+//   position relative
 
-.image-float
-  width (guest-highlight-dimension / 2)
-  margin 10px 20px
-  border layout-border
+// .text
 
-.question:nth-of-type(2n)
+//   p, blockquote
+//     margin 20px 0
+//     font-family fonts-text
+//     font-size 16px
+//     line-height 170%
 
-  .question-title-area
-    question-left()
+//   strong
+//     font-family fonts-text-bold
+//     font-weight normal
+//     color color-orange
 
-    .question-title
-      right -3px
+//   blockquote
+//     width 100%
+//     font-style italic
 
-  .question-content-area
-    question-right()
+//     cite
+//       font-style normal
 
-    .image-fit,
-    .image-float
-      border-left none
-      margin-left - content-padding
+// .image-fit
+//   position relative
+//   width guest-highlight-dimension
+//   margin 30px 0
+//   display block
+//   border layout-border
+//   box-sizing border-box
 
-    .image-float
-      float left
+//   img
+//     width 100%
+//     display block
 
-  .text blockquote
-    position relative
-    margin-left - content-padding
-    border-left blockquote-border-width solid color-blue
-    padding 10px 0 10px (content-padding - blockquote-border-width)
+//   figcaption
+//     position absolute
+//     display block
+//     width 100%
+//     bottom 0
+//     left 0
+//     background rgba(color-blue-dark, 0.7)
+//     padding 12px 30px 12px content-padding
+//     line-height 140%
+//     box-sizing border-box
+//     font-family fonts-text
+//     font-style italic
+//     transition(opacity 0.4s ease)
 
-.question:nth-of-type(2n+1)
+//     &.caption-top
+//       bottom auto
+//       top 0
 
-  .question-title-area
-    question-right()
+//   &:hover
+//     figcaption
+//       opacity 0
 
-    .question-title
-      left -3px
+// .image-float
+//   width (guest-highlight-dimension / 2)
+//   margin 10px 20px
+//   border layout-border
 
-  .question-content-area
-    question-left()
+// .question:nth-of-type(2n)
 
-    .image-fit,
-    .image-float
-      border-right none
-      margin-right - content-padding
+//   .question-title-area
+//     question-left()
 
-    .image-float
-      float right
+//     .question-title
+//       right -3px
 
-  .text blockquote
-    border-right blockquote-border-width solid color-blue
-    padding 10px (content-padding - blockquote-border-width) 10px 0
+//   .question-content-area
+//     question-right()
+
+//     .image-fit,
+//     .image-float
+//       border-left none
+//       margin-left - content-padding
+
+//     .image-float
+//       float left
+
+//   .text blockquote
+//     position relative
+//     margin-left - content-padding
+//     border-left blockquote-border-width solid color-blue
+//     padding 10px 0 10px (content-padding - blockquote-border-width)
+
+// .question:nth-of-type(2n+1)
+
+//   .question-title-area
+//     question-right()
+
+//     .question-title
+//       left -3px
+
+//   .question-content-area
+//     question-left()
+
+//     .image-fit,
+//     .image-float
+//       border-right none
+//       margin-right - content-padding
+
+//     .image-float
+//       float right
+
+//   .text blockquote
+//     border-right blockquote-border-width solid color-blue
+//     padding 10px (content-padding - blockquote-border-width) 10px 0
