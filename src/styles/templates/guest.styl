@@ -1,106 +1,110 @@
-guestview-width = (guest-highlight-dimension * 2) + grid-spacing
-
 .page-guest
 
-  .wrapper
-    width guestview-width
-    position relative
-
-  .area-left
-    float left
-    width guest-highlight-dimension
-    height guest-highlight-dimension
-    border-right layout-border
-
-  .area-right
-    position relative
-    float right
-    width guest-highlight-dimension - content-padding
-    height @width - (content-padding * 0.8)
-    padding (content-padding * 0.8) 0 content-padding content-padding
-    font-size 24px
-    overflow hidden
-
   .header
-    width 100%
-    height guest-dimension * 2
-    overflow hidden
-    border-bottom layout-border
+    @media ({medium})
+      border-bottom layout-border
 
-  .footer .menu
-    margin-left guest-dimension + grid-spacing
+  .wrapper
+    @media ({medium})
+      position relative
+      display flex
+      width 935px
 
-.interview-date
-  color color-blue
+  .guest
+    @media ({medium})
+      flex 1
+      flex-basis 50%
 
-  .date-month
-    font-style italic
+  .interview-info
+    @media ({medium})
+      position relative
+      flex 1
+      flex-basis 50%
+      box-sizing border-box
+      padding 36px 0 45px 45px
+      border-left layout-border
 
-.interview-title
-  font-size 60px
-  position relative
-  left -0.5ex
+  .interview-positions
+    @media ({medium})
+      position absolute
+      bottom 36px
 
-  a
-    color color-orange
 
-    &:hover
-      background-color color-orange
-      border-bottom none
+// guestview-width = (guest-highlight-dimension * 2) + grid-spacing
 
-.interview-number
-  color color-blue
+// .page-guest
 
-.guest-information
-  position absolute
-  list-style none
-  line-height 40px
-  bottom content-padding * 0.8
-  color rgba(color-yellow, 0.4)
+//   .wrapper
+//     width guestview-width
+//     position relative
 
-  .position-do
-    color color-yellow
+//   .area-left
+//     float left
+//     width guest-highlight-dimension
+//     height guest-highlight-dimension
+//     border-right layout-border
 
-  .position-at
-    color color-yellow-light
+//   .area-right
+//     position relative
+//     float right
+//     width guest-highlight-dimension - content-padding
+//     height @width - (content-padding * 0.8)
+//     padding (content-padding * 0.8) 0 content-padding content-padding
+//     font-size 24px
+//     overflow hidden
 
-button-dimension = 90px
-button-mask-width = 63px
+//   .header
+//     width 100%
+//     height guest-dimension * 2
+//     overflow hidden
+//     border-bottom layout-border
+
+//   .footer .menu
+//     margin-left guest-dimension + grid-spacing
+
 
 .button
-  position absolute
-  width button-mask-width
-  height @width * 2
-  top guest-dimension - (@width)
-  overflow hidden
+  display none
 
-  a
-    position relative
+  @media ({medium})
+    position absolute
     display block
-    width button-dimension
-    height button-dimension
-    transform(rotate(45deg))
+    top 50%
+    width 63px
+    height @width * 2
+    overflow hidden
 
-    &:hover
-      border-color color-yellow
+    a
+      position relative
+      display block
+      width 90px
+      height @width
+      transform rotate(45deg)
+
+      &:hover
+        border-color color-yellow
 
 .button-prev
-  left (button-mask-width * -2)
+  @media ({medium})
+    left 0
+    transform translate(-170%, -50%)
 
-  a
-    border-bottom layout-border
-    border-left layout-border
-    top 17px
-    left 19px
+    a
+      border-bottom layout-border
+      border-left layout-border
+      top 17px
+      left 19px
 
 .button-next
-  right (button-mask-width * -2)
+  @media ({medium})
+    right 0
+    transform translate(170%, -50%)
 
-  a
-    border-top layout-border
-    border-right layout-border
-    top 17px
-    right 47px
+    a
+      border-top layout-border
+      border-right layout-border
+      top 17px
+      right 47px
 
-    &:hover
-      border-bottom none
+      &:hover
+        border-bottom none
