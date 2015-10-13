@@ -11,3 +11,22 @@
       left 66.66%
       top 40px
       margin-left 40px
+
+  .guest
+    width 50%
+    border-left 1px solid color-background
+    border-bottom @border-left
+
+    @media ({medium})
+      width 33.33%
+
+    &:first-of-type
+      width 100%
+
+      @media ({medium})
+        width 66.66%
+
+    &:first-child,
+    &:nth-child(2n)
+      @media ({small})
+        border-left none

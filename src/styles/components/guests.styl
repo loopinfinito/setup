@@ -15,25 +15,8 @@ guest-highlight-dimension = 100%
 
 .guest
   position relative
-  width 50%
   box-sizing border-box
-  border-left 1px solid color-background
-  border-bottom @border-left
   background darken(color-background, 60%)
-
-  @media ({medium})
-    width 33.33%
-
-  &:first-of-type
-    width 100%
-
-    @media ({medium})
-      width 66.66%
-
-  &:first-child,
-  &:nth-child(2n)
-    @media ({small})
-      border-left none
 
 .guest-link
   display block
