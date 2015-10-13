@@ -1,0 +1,45 @@
+.button
+  display none
+
+  @media ({medium})
+    position absolute
+    display block
+    top 50%
+    width 63px
+    height @width * 2
+    overflow hidden
+
+    a
+      position relative
+      display block
+      width 90px
+      height @width
+      transform rotate(45deg)
+
+      &:hover
+        border-color color-yellow
+
+.button-prev
+  @media ({medium})
+    left 0
+    transform translate(-170%, -50%)
+
+    a
+      border-bottom layout-border
+      border-left layout-border
+      top 17px
+      left 19px
+
+.button-next
+  @media ({medium})
+    right 0
+    transform translate(170%, -50%)
+
+    a
+      border-top layout-border
+      border-right layout-border
+      top 17px
+      right 47px
+
+      &:hover
+        border-bottom none
