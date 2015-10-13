@@ -9,19 +9,20 @@
   <time class="interview-date">
     <%= day %> / <span class="date-month"><%= month %></span> / <%= year %>
   </time>
+
   <h1 class="interview-title">
-    <a href="/" class="shape">setup</a>
+    <a class="interview-link shape" href="/">setup</a>
     <span class="interview-number">#<%= @guest.number %></span>
   </h1>
+
   <% if @guest.positions: %>
-    <ul class="guest-information">
+    <ul class="interview-positions">
       <% for position in @guest.positions: %>
         <li>
           <span class="position-do"><%= position.do %></span>
           <% if position.at: %>
             @ <span class="position-at"><%= position.at %></span>
           <% end %>
-          <%= position.url %>
         </li>
       <% end %>
       <% for link in @guest.links: %>
