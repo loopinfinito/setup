@@ -9,10 +9,8 @@
     <h1 class="about-title">sobre</h1>
   </header>
 
-  <section class="content">
-    <div class="wrapper text">
-      <%- @content %>
-    </div>
+  <section class="content wrapper text">
+    <%- @content %>
   </section>
 
   <div class="wrapper">

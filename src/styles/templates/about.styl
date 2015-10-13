@@ -1,60 +1,95 @@
-.about-title
-  font-size 74px
-  padding 6px 0
-  background color-faded
-  color color-background
-
+about-header-height = 234px
 
 .page-about
+
+  .header
+    @media ({medium})
+      display flex
+      border-bottom layout-border
+
+  .header-title,
+  .about-title
+    @media ({medium})
+      flex 1
+      flex-basis 50%
+      padding 0
+      box-sizing border-box
+      line-height about-header-height
+
+  .header-title
+    @media ({medium})
+      order 2
+      text-align left
+      padding-left 40px
+
+  .header-link
+    @media ({medium})
+      line-height about-header-height
+
+  .about-title
+    font-size 74px
+    background color-faded
+    color color-background
+
+    @media ({small})
+      padding 6px 0
+
+    @media ({medium})
+      order 1
+      font-size 120px
+      text-align right
+      padding-right 70px
 
   .content
     text-align center
 
+    @media ({medium})
+      box-sizing border-box
+      padding 40px 45px 1px 40px
+      text-align right
+      border-right layout-border
+
+    @media ({large})
+      padding-left 12%
+
+    &.wrapper
+      @media ({medium})
+        width 50%
+        margin 0
+
   .text
+    @media ({medium})
+      font-size 20px
+
     p
       margin-bottom 50px
 
-//   .header
-//     border-bottom layout-border
+    h2
+      font-family fonts-main
+      color color-blue
+      letter-spacing -0.03em
 
-//   .area-left,
-//   .area-right
-//     float left
-//     width 50%
-//     height 100%
+      @media ({medium})
+        font-size 28px
 
-//   .area-left
-//     background color-blue
-//     color color-blue-dark
-//     line-height guest-dimension + grid-spacing
-//     text-align right
+  .footer
+    @media ({medium})
+      border-top layout-border
 
-//     h1
-//       margin-right 70px
+  .footer-menu
+    @media ({medium})
+      flex-basis 50%
+      box-sizing border-box
+      border-right layout-border
 
-//   .wrapper
-//     width guestview-width
+  .footer-menu-items
+    @media ({medium})
+      margin-right 40px
+      text-align right
 
-//   .content
-//     border-bottom layout-border
-
-//     .text p
-//       font-size 20px
-
-//   h2
-//     margin-top 20px
-//     font-size 28px
-//     color color-blue
-
-//   p + h2
-//     margin-top 60px
-
-//   .content-area
-//     width (guestview-width / 2) - content-padding - grid-spacing
-//     padding (content-padding - 25px) content-padding (content-padding - 25px) 0
-//     text-align right
-//     border-right layout-border
-
-
-//   .footer .menu
-//     margin-left guest-dimension + grid-spacing
+  .loop-infinito
+    @media ({medium})
+      flex 1
+      flex-basis 50%
+      box-sizing border-box
+      border-left none
