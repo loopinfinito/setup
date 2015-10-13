@@ -1,11 +1,7 @@
 <% guest_name = @document.first_name %>
 <% guest_name += " #{@document.last_name}" if @document.last_name? and @document.last_name isnt '' %>
 <% @document.title = "#{guest_name} @ Setup ##{@document.number}" %>
-<% months = ['', 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'] %>
-<% split_date = @document.published_date.split('/') %>
-<% day = split_date[0] %>
-<% month = months[parseInt split_date[1]] %>
-<% year = split_date[2] %>
+
 
 <!doctype html>
 <html lang="pt-BR">
@@ -13,34 +9,9 @@
 <body class="page-guest">
   <header class="header">
     <div class="wrapper">
-      <section class="area-left">
-        <%- @partial('guest-tile.html.eco', {guest: @document, highlight: true}) %>
-      </section>
-      <section class="area-right">
-        <time class="interview-date"><%= day %> / <span class="date-month"><%= month %></span> / <%= year %></time>
-        <h1 class="interview-title">
-          <a href="/" class="shape">setup</a>
-          <span class="interview-number">#<%= @document.number %></span>
-        </h1>
-        <% if @document.positions: %>
-          <ul class="guest-information">
-            <% for position in @document.positions: %>
-              <li>
-                <span class="position-do"><%= position.do %></span>
-                <% if position.at: %>
-                  @ <span class="position-at"><%= position.at %></span>
-                <% end %>
-                <%= position.url %>
-              </li>
-            <% end %>
-            <% for link in @document.links: %>
-              <li>
-                <a href="<%= link.url %>"><%= link.text %></a>
-              </li>
-            <% end %>
-          </ul>
-        <% end %>
-      </section>
+      <%- @partial('guest-tile.html.eco', {guest: @document, highlight: true}) %>
+      <%- @partial('interview-info.html.eco', {guest: @document}) %>
+
 
       <% prev = (n) -> n = parseInt(n) - 1; if n < 10 then "0#{n}" else "#{n}" %>
       <% next = (n) -> n = parseInt(n) + 1; if n < 10 then "0#{n}" else "#{n}" %>
@@ -60,12 +31,13 @@
           <a href="<%= nextPage[0].attributes.url.replace 'index.html', '' %>"></a>
         </div>
       <% end %>
-
     </div>
   </header>
+
   <section class="content">
     <%- @content %>
   </section>
+
   <div class="wrapper">
     <%- @partial('footer.html') %>
   </div>

@@ -1,0 +1,34 @@
+<% months = ['', 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'] %>
+<% split_date = @guest.published_date.split('/') %>
+<% day = split_date[0] %>
+<% month = months[parseInt split_date[1]] %>
+<% year = split_date[2] %>
+
+
+<section class="interview-info">
+  <time class="interview-date">
+    <%= day %> / <span class="date-month"><%= month %></span> / <%= year %>
+  </time>
+  <h1 class="interview-title">
+    <a href="/" class="shape">setup</a>
+    <span class="interview-number">#<%= @guest.number %></span>
+  </h1>
+  <% if @guest.positions: %>
+    <ul class="guest-information">
+      <% for position in @guest.positions: %>
+        <li>
+          <span class="position-do"><%= position.do %></span>
+          <% if position.at: %>
+            @ <span class="position-at"><%= position.at %></span>
+          <% end %>
+          <%= position.url %>
+        </li>
+      <% end %>
+      <% for link in @guest.links: %>
+        <li>
+          <a href="<%= link.url %>"><%= link.text %></a>
+        </li>
+      <% end %>
+    </ul>
+  <% end %>
+</section>
