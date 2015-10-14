@@ -1,14 +1,24 @@
 ---
 layout: guest
 number: '24'
-published_date: 13/10/2015
+published_date: 15/10/2015
 first_name: eduardo
 last_name: lundgren
 image: eduardo-lundgren.jpg
 keywords: >
-  eduardo lundgren
+  eduardo lundgren, tk2000, mirc, canal são bento, upe, telecomunicações,
+  ciência da computação, ufpe, facilit, porto digital, jqueryui, liferay,
+  windows, slackware, debian, osx, macbook pro, nexus 5, nexus 6, google music,
+  bose, bose speaker, dell, subpixel, mouse logitech, teclado apple, mochila
+  incase, carteira secrid, firefox, firefox aurora, safari, chrome, chrome
+  canary, sublime text, docblockr, editorconfig, sublime linter, esformatter,
+  material theme, snippets, zsh, prezto, iterm, alfred, divvy, kuvva, 1password,
+  f-lux, melatonina, caffeine, bartender, craxcommander, iawriter, intellij,
+  google keep, workflowy, kayak, google now, google photos, javascript, java,
+  trackingjs, tracking.js, visão computacional, nodegh, zeno, jquery simulate,
+  alloyui, cisco, lufthansa, metaljs, metal.js, flux, performance
 positions:
-  - do: Diretor de Engenharia
+  - do: diretor de engenharia
     at: liferay, inc.
   - do: recife
 links:
