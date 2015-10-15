@@ -6,8 +6,8 @@ first_name: eduardo
 last_name: lundgren
 image: eduardo-lundgren.jpg
 keywords: >
-  eduardo lundgren, tk2000, mirc, canal são bento, upe, telecomunicações,
-  ciência da computação, ufpe, facilit, porto digital, jqueryui, liferay,
+  eduardo lundgren, recife, tk2000, canal são bento, upe, telecomunicações,
+  ciência da computação, ufpe, facilit, porto digital, jqueryui, liferay, mirc,
   windows, slackware, debian, osx, macbook pro, nexus 5, nexus 6, google music,
   bose, bose speaker, dell, subpixel, mouse logitech, teclado apple, mochila
   incase, carteira secrid, firefox, firefox aurora, safari, chrome, chrome
