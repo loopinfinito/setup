@@ -1,152 +1,53 @@
+content-padding = 30px
+
 .content
-  padding 30px 30px 0 30px
+  padding content-padding content-padding 0 content-padding
 
 .text
   font-size 16px
 
   h2
     font-size 22px
+    font-family fonts-main
     line-height 130%
+    color color-highlight
 
-  p
+  p,
+  blockquote
     margin 20px 0
     font-family fonts-text
     line-height 150%
 
+    + h2
+      margin-top 40px
 
-content-padding = 45px
-// blockquote-border-width = 5px
+  strong
+    font-family fonts-text-bold
+    font-weight normal
+    color color-orange
 
-// question-left()
-//   padding-right content-padding
-//   text-align right
-//   border-right layout-border
-//   order(1)
+  blockquote
+    font-style italic
 
-// question-right()
-//   padding-left content-padding
-//   order(2)
+    footer
+      margin-top 10px
+      text-align right
 
-// .question
-//   border-bottom layout-border
+    cite
+      font-style normal
 
-//   .wrapper
-//     display(flex)
+  figure
+    position relative
+    left - content-padding
+    width calc(100% + 60px)
 
-// .question-title-area,
-// .question-content-area
-//   width 50%
-//   padding (content-padding - 27px) 0
+    img
+      width 100%
 
-// .question-title
-//   color color-orange
-//   font-size 36px
-//   margin-top 9px
-//   position relative
-
-// .text
-
-//   p, blockquote
-//     margin 20px 0
-//     font-family fonts-text
-//     font-size 16px
-//     line-height 170%
-
-//   strong
-//     font-family fonts-text-bold
-//     font-weight normal
-//     color color-orange
-
-//   blockquote
-//     width 100%
-//     font-style italic
-
-//     cite
-//       font-style normal
-
-// .image-fit
-//   position relative
-//   width guest-highlight-dimension
-//   margin 30px 0
-//   display block
-//   border layout-border
-//   box-sizing border-box
-
-//   img
-//     width 100%
-//     display block
-
-//   figcaption
-//     position absolute
-//     display block
-//     width 100%
-//     bottom 0
-//     left 0
-//     background rgba(color-blue-dark, 0.7)
-//     padding 12px 30px 12px content-padding
-//     line-height 140%
-//     box-sizing border-box
-//     font-family fonts-text
-//     font-style italic
-//     transition(opacity 0.4s ease)
-
-//     &.caption-top
-//       bottom auto
-//       top 0
-
-//   &:hover
-//     figcaption
-//       opacity 0
-
-// .image-float
-//   width (guest-highlight-dimension / 2)
-//   margin 10px 20px
-//   border layout-border
-
-// .question:nth-of-type(2n)
-
-//   .question-title-area
-//     question-left()
-
-//     .question-title
-//       right -3px
-
-//   .question-content-area
-//     question-right()
-
-//     .image-fit,
-//     .image-float
-//       border-left none
-//       margin-left - content-padding
-
-//     .image-float
-//       float left
-
-//   .text blockquote
-//     position relative
-//     margin-left - content-padding
-//     border-left blockquote-border-width solid color-blue
-//     padding 10px 0 10px (content-padding - blockquote-border-width)
-
-// .question:nth-of-type(2n+1)
-
-//   .question-title-area
-//     question-right()
-
-//     .question-title
-//       left -3px
-
-//   .question-content-area
-//     question-left()
-
-//     .image-fit,
-//     .image-float
-//       border-right none
-//       margin-right - content-padding
-
-//     .image-float
-//       float right
-
-//   .text blockquote
-//     border-right blockquote-border-width solid color-blue
-//     padding 10px (content-padding - blockquote-border-width) 10px 0
+  figcaption
+    margin 10px content-padding 0px content-padding
+    line-height 130%
+    font-size 14px
+    font-style italic
+    font-family fonts-text
+    text-align center

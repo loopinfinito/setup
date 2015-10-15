@@ -131,9 +131,9 @@ linha de comando.
 <figure class="image-fit">
   <img
     src="/images/content/igor-sobreira-workspace.jpg"
-    alt="Workspace de Igor Sobreira na Real Geeks" />
+    alt="Workspace de Igor Sobreira na Real Geeks." />
   <figcaption class="caption-bottom">
-    Workspace de Igor Sobreira na Real Geeks
+    Workspace de Igor Sobreira na Real Geeks.
   </figcaption>
 </figure>
 
