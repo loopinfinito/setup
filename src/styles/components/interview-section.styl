@@ -1,0 +1,42 @@
+$side
+  @media ({medium})
+    flex-basis 50%
+    box-sizing border-box
+
+$left-side
+  @media ({medium})
+    order 1
+    text-align right
+    padding-left calc((100% - 935px) / 2)
+    border-right 1px solid
+
+$right-side
+  @media ({medium})
+    order 2
+    text-align left
+    padding-right calc((100% - 935px) / 2)
+
+.interview-section
+  @media ({medium})
+    display flex
+    flex-wrap wrap
+    justify-content center
+    border-bottom 1px solid
+
+.interview-question
+  @extend $side
+
+  .interview-section:nth-child(odd) &
+    @extend $right-side
+
+  .interview-section:nth-child(even) &
+    @extend $left-side
+
+.interview-answer
+  @extend $side
+
+  .interview-section:nth-child(odd) &
+    @extend $left-side
+
+  .interview-section:nth-child(even) &
+    @extend $right-side
