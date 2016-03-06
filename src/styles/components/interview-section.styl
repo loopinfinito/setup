@@ -7,21 +7,21 @@ $left-side
   @media ({medium})
     order 1
     text-align right
-    padding-left calc((100% - 935px) / 2)
-    border-right 1px solid
+    padding 15px 45px 0 calc((100% - 935px) / 2)
+    border-right layout-border
 
 $right-side
   @media ({medium})
     order 2
     text-align left
-    padding-right calc((100% - 935px) / 2)
+    padding 15px calc((100% - 935px) / 2) 0 45px
 
 .interview-section
   @media ({medium})
     display flex
     flex-wrap wrap
     justify-content center
-    border-bottom 1px solid
+    border-bottom layout-border
 
 .interview-question
   @extend $side
@@ -32,11 +32,25 @@ $right-side
   .interview-section:nth-child(even) &
     @extend $left-side
 
+  h2
+    font-size 7vw
+
+    @media ({medium})
+      font-size 36px
+      margin-top 10px
+
 .interview-answer
   @extend $side
+  font-size 4.5vw
+
+  @media ({medium})
+    font-size 16px
 
   .interview-section:nth-child(odd) &
     @extend $left-side
 
   .interview-section:nth-child(even) &
     @extend $right-side
+
+  > :last-child
+    margin-bottom content-padding * 1.5

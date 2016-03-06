@@ -1,7 +1,7 @@
 content-padding = 30px
 
-// .content
-//   padding content-padding content-padding 0 content-padding
+.content
+  padding content-padding content-padding 0 content-padding
 
 .text
   font-size 16px
@@ -40,6 +40,11 @@ content-padding = 30px
     position relative
     left - content-padding
     width calc(100% + 60px)
+    margin content-padding 0
+
+    @media ({medium})
+      left -45px
+      width calc(100% + 45px)
 
     img
       width 100%
