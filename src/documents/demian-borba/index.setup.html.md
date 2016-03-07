@@ -182,13 +182,13 @@ cargo (de Developer Advocate para Product Manager), continuo usando muitas das
 mesmas ferramentas.
 
 Gerencio o backlog do Project Comet no [Pivotal Tracker][pivotal-tracker], as
-issues e o código ficam em nosso [Git Corp][git-corp] interno, uso o
-[iTerm][iterm] com [oh-my-zsh][oh-my-zsh], [Homebrew][homebrew] para instalar
-praticamente tudo, [XCode][xcode] para buildar o projeto,
-[Adobe Brackets][brackets] para HTML+CSS mas confesso que estou animado com o
-[Visual Studio Code][visual-studio]. Trabalho no [WebStorm][webstorm] para os
-projetos com [Angular][angular] e [Node][nodejs]. Na Adobe, escrevemos muitos
-testes e usamos [grunt][gruntjs] para automatizar as tarefas.
+issues e o código ficam em nosso Git Corp interno, uso o [iTerm][iterm] com
+[oh-my-zsh][oh-my-zsh], [Homebrew][homebrew] para instalar praticamente tudo,
+[XCode][xcode] para buildar o projeto, [Adobe Brackets][brackets] para HTML+CSS
+mas confesso que estou animado com o [Visual Studio Code][visual-studio].
+Trabalho no [WebStorm][webstorm] para os projetos com [Angular][angular] e
+[Node][nodejs]. Na Adobe, escrevemos muitos testes e usamos [grunt][gruntjs]
+para automatizar as tarefas.
 
 Para comunicação uso o [Outlook][outlook] (que está fantástico para MacOSX e
 iOS, disparado o melhor cliente de email na minha opinião). O time todo usa o
@@ -212,7 +212,6 @@ Não preciso de muito mais para resolver os 'problemas' que aparecem.
 
 
 [pivotal-tracker]: http://www.pivotaltracker.com
-[git-corp]: http://www.gitcorp.com/
 [iterm]: https://www.iterm2.com
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
 [homebrew]: http://brew.sh
@@ -258,7 +257,7 @@ sucesso!__ Simples assim. E existem vários estudos que provam que quanto mais
 'inteligentes' ficamos.
 
 
-## Um herói?
+## Um desejo?
 
 Hoje tenho uma família linda (esposa, filha, pais, irmão, primos, tios) e estou
 muito realizado profissionalmente, não quero ser milionário nem ter que passar
