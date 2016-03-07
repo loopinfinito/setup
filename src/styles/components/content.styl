@@ -56,3 +56,32 @@ content-padding = 30px
     font-style italic
     font-family fonts-text
     text-align center
+
+.video-fit
+  position relative
+  left - content-padding
+  width calc(100% + 60px)
+  height 0
+  margin content-padding 0
+  overflow hidden
+
+  @media ({medium})
+    left 0
+    width calc(100% + 45px)
+
+  .interview-section:nth-child(even) &
+    @media ({medium})
+      left -45px
+
+  iframe
+    position absolute
+    top 0
+    left 0
+    width 100%
+    height 100%
+
+.video-ratio-16-9
+  padding-bottom calc((100% + 60px) * 9 / 16)
+
+  @media ({medium})
+    padding-bottom calc((100% + 45px) * 9 / 16)
