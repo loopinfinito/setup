@@ -6,7 +6,12 @@ first_name: jaydson gomes
 last_name:
 image: jaydson-gomes.jpg
 keywords: >
-  jaydson gomes
+  jaydson gomes, javascript, web, comunidade, nasc, braziljs, terra, braziljs
+  conf, dell inspirion, Sony MDR1RNC, moto maxx, kindle, chromecast, youtube,
+  ubuntu, brave, firefox, chrome, devtools, slack, facebook, twitter, whatsapp,
+  telegram, google drive, google inbox, sublime text, spotify, spotify web,
+  github, nodejs, git, grunt, npm scripts, linus torvalds, brendan eich, fat
+  mike
 positions:
   - do: desenvolvedor
     at: nasc
@@ -62,12 +67,21 @@ BrazilJS.
 Meu computador atual é um Notebook [Dell Inspiron 15-5000][note] rodando o
 Ubuntu Linux 14.04. O Notebook possui 16GB de RAM, é um Core i7, placa de vídeo
 offboard Intel 4GB, com HD híbrido SSD e tela touch (o que é bem útil). Eu tenho
-o melhor headphone do mundo, um [Sony MDR1RNC][headphone]. Não vivo sem esse
-headphone e principalmente sem a melhor feature: noise-canceling. Meu celular
-atual é um Android [Moto Maxx][maxx], que diga-se de passagem, é um excelente
-smartphone. Meu [Kindle][kindle] está sempre por perto. Mas sendo bem honesto,
-não leio tanto como gostaria, e é por pura preguiça mesmo. É difícil eu me
-concentrar em uma leitura não-técnica por muito tempo. O
+o melhor headphone do mundo, um [Sony MDR1RNC][headphone].
+
+<figure class="image-fit">
+  <img src="/images/content/jaydson-gomes-workspace.jpg"
+       alt="Workspace de Jaydson Gomes." />
+  <figcaption class="caption-bottom">
+    Workspace de Jaydson Gomes.
+  </figcaption>
+</figure>
+
+Não vivo sem esse headphone e principalmente sem a melhor feature: noise-
+canceling. Meu celular atual é um Android [Moto Maxx][maxx], que diga-se de
+passagem, é um excelente smartphone. Meu [Kindle][kindle] está sempre por perto.
+Mas sendo bem honesto, não leio tanto como gostaria, e é por pura preguiça
+mesmo. É difícil eu me concentrar em uma leitura não-técnica por muito tempo. O
 [ChromeCast][chromecast] é um item indispensável. Quando estou trabalhando,
 sempre jogo para a TV algum vídeo do [YouTube][youtube], faço chamadas de vídeo,
 etc.
@@ -98,6 +112,11 @@ tocando. Eu uso o cliente [Spotify para Linux][spotify], mas a
 [versão Web][spotify-web] é muito boa também. Minha rede social preferida é o
 [Github][github], tenho sempre algumas abas abertas com os projetos que trabalho
 e acompanho.
+
+<figure class="image-fit">
+  <img src="/images/content/jaydson-gomes-desktop.jpg"
+       alt="Printscreen do desktop de Jaydson Gomes." />
+</figure>
 
 Como citei anteriormente, meu foco sempre foi JavaScript. Eu adoro programar
 coisas com essa linguagem. Depois que surgiu o [Node.js][node] tudo ficou ainda
