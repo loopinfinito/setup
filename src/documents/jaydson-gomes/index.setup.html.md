@@ -7,11 +7,11 @@ last_name:
 image: jaydson-gomes.jpg
 keywords: >
   jaydson gomes, javascript, web, comunidade, nasc, braziljs, terra, braziljs
-  conf, dell inspirion, Sony MDR1RNC, moto maxx, kindle, chromecast, youtube,
-  ubuntu, brave, firefox, chrome, devtools, slack, facebook, twitter, whatsapp,
-  telegram, google drive, google inbox, sublime text, spotify, spotify web,
-  github, nodejs, git, grunt, npm scripts, linus torvalds, brendan eich, fat
-  mike
+  conf, dell inspirion, Sony MDR1RNC, moto maxx, kindle, Deam Black Bolt ML,
+  chromecast, youtube, ubuntu, brave, firefox, chrome, devtools, slack,
+  facebook, twitter, whatsapp, telegram, google drive, google inbox, sublime
+  text, spotify, spotify web, github, nodejs, git, grunt, npm scripts, linus
+  torvalds, brendan eich, fat mike
 positions:
   - do: desenvolvedor
     at: nasc
@@ -86,6 +86,9 @@ mesmo. É difícil eu me concentrar em uma leitura não-técnica por muito tempo
 sempre jogo para a TV algum vídeo do [YouTube][youtube], faço chamadas de vídeo,
 etc.
 
+A Dime está sempre por perto, sempre querendo atenção. Dime é a minha guitarra,
+uma belíssima [Deam Black Bolt ML][guitar].
+
 
 [note]: http://www.dell.com/br/p/inspiron-15-5558-laptop/pd
 [headphone]: http://www.amazon.com/Sony-MDR1RNC-Premium-Noise-Canceling-Headphones/dp/B009A6CZ44
@@ -93,6 +96,7 @@ etc.
 [kindle]: http://www.techtudo.com.br/tudo-sobre/kindle-paperwhite-2015.html
 [chromecast]: https://www.google.com/intl/pt_br/chrome/devices/chromecast/index.html
 [youtube]: https://youtube.com
+[guitar]: http://www.musiciansfriend.com/guitars/dean-black-bolt-ml-electric-guitar
 
 
 ## Qual software você usa?
