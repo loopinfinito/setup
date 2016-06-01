@@ -2,7 +2,7 @@ module.exports = (grunt) ->
   grunt.config 'rsync'
     options:
       src: './out/'
-      host: 'loopinfinito@highland-park.dreamhost.com'
+      host: 'loopinfinito@dellwood.dreamhost.com'
       recursive: true
 
     prod:
