@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '27'
-published_date: 13/07/2016
+published_date: 14/07/2016
 first_name: vanessa guedes
 last_name:
 image: vanessa-guedes.jpg
@@ -128,6 +128,14 @@ duas telas, uso um monitor genérico da Samsung no trabalho, e um
 [Dell 2212HM][monitor] em casa, emprestado do [Paulo][paulo], meu vizinho que
 também é desenvolvedor. Bem provável que eu vá comprar um monitor da mesma linha
 em breve.
+
+<figure class="image-fit">
+  <img src="/images/content/vanessa-guedes-workspace.jpg"
+       alt="Workspace de Vanessa Guedes." />
+  <figcaption class="caption-bottom">
+    Workspace de Vanessa Guedes.
+  </figcaption>
+</figure>
 
 Minha última aquisição foi um smartphone da Samsung, o [Galaxy S6 Edge][galaxy],
 que eu demorei cerca de um ano para decidir comprar - sim, eu realmente demoro
