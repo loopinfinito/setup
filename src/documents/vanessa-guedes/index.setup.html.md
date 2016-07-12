@@ -64,41 +64,42 @@ umas das minhas melhores experiências de vida. Depois disso trabalhei em uma
 empresa de instalação de redes de computadores, na época em que as redes wi-fi
 estavam começando a ficar populares, e perdi as contas de quantos cabos RJ-45 eu
 crimpei na época. A maioria dos nossos clientes eram empresas de engenharia
-civill, e eu lembro como se fosse hoje do choque na cara dos engenheiros quando
+civil, e eu lembro como se fosse hoje do choque na cara dos engenheiros quando
 eu entrava nas salas, munida de martelo, roteador e escada, e instalava os
-roteadores no alto das paredes. Nessa época fui pela primeira vez ao FISL, Fórum
-Internacional do Software Livre, sem nem saber o que diabos era software livre.
-Foi amor à primeira vista, claro. Meu trabalho de conclusão do técnico em redes
-acabou sendo sobre [iptables][iptables]. Depois disso, fui trabalhar com
-administração de redes Linux, como estagiária, em uma empresa de desenvolvimento
-de software de gestão de projetos, a Trace Sistemas. Por algum motivo obscuro,
-eles trocaram a minha posição com a de uma outra nova estagiária na época, que
-iria trabalhar na área de teste e help desk, e nós fomos para os setores
-errados. Eu saquei bem rápido a confusão, mas demorei uma semana para alertar o
-gerente. E aí já era tarde demais. Eu tinha descoberto um pedacinho do mundo do
-desenvolvimento e pedi para ficar onde eu estava. Foi na Trace que eu descobri
-outra paixão também: o gerenciamento de projetos. Uma das minhas atividades por
-lá era setar o workflow do sistema nos projetos de alguns clientes, então acabei
-lendo muita coisa sobre ITIL antes de começar a desenvolver de fato. Depois de
-lá eu trabalhei desenvolvendo objetos de aprendizagem para cursos de graduação à
-distância na UFRGS (onde eu estava estudando graduação em Física, depois do
-técnico), na minha primeira experiência direta com gerenciamento de equipe, aos
-19 anos de idade. Dois anos depois surgiu a oportunidade de atuar como Gerente
-de Projetos em São Paulo, em uma agência de publicidade, a extinta Sinc. Em São
-Paulo eu trabalhava como gerente de projetos de dia, programadora freelancer de
-noite e instrutora de curso de programação no final de semana. Consertei muito
-PHP de projetos obsoletos e aprendi muito sobre administrar meu próprio tempo.
-Depois trabalhei como Community Manager na LiveAd, onde eu produzia conteúdo
-referente à tecnologia, podia testar coisas e criar projetos como o Techmission
-Lenovo. Foi uma época muito feliz.
+roteadores no alto das paredes. Nessa época fui pela primeira vez ao
+[FISL][fisl], Fórum Internacional do Software Livre, sem nem saber o que diabos
+era software livre. Foi amor à primeira vista, claro. Meu trabalho de conclusão
+do técnico em redes acabou sendo sobre [iptables][iptables]. Depois disso, fui
+trabalhar com administração de redes Linux, como estagiária, em uma empresa de
+desenvolvimento de software de gestão de projetos, a Trace Sistemas. Por algum
+motivo obscuro, eles trocaram a minha posição com a de uma outra nova estagiária
+na época, que iria trabalhar na área de teste e help desk, e nós fomos para os
+setores errados. Eu saquei bem rápido a confusão, mas demorei uma semana para
+alertar o gerente. E aí já era tarde demais. Eu tinha descoberto um pedacinho do
+mundo do desenvolvimento e pedi para ficar onde eu estava. Foi na Trace que eu
+descobri outra paixão também: o gerenciamento de projetos. Uma das minhas
+atividades por lá era setar o workflow do sistema nos projetos de alguns
+clientes, então acabei lendo muita coisa sobre [ITIL][itil] antes de começar a
+desenvolver de fato. Depois de lá eu trabalhei desenvolvendo objetos de
+aprendizagem para cursos de graduação à distância na UFRGS (onde eu estava
+estudando graduação em Física, depois do técnico), na minha primeira experiência
+direta com gerenciamento de equipe, aos 19 anos de idade. Dois anos depois
+surgiu a oportunidade de atuar como Gerente de Projetos em São Paulo, em uma
+agência de publicidade, a extinta Sinc. Em São Paulo eu trabalhava como gerente
+de projetos de dia, programadora freelancer de noite e instrutora de curso de
+programação no final de semana. Consertei muito PHP de projetos obsoletos e
+aprendi muito sobre administrar meu próprio tempo. Depois trabalhei como
+Community Manager na [LiveAd][livead], onde eu produzia conteúdo referente à
+tecnologia, podia testar coisas e criar projetos como o Techmission Lenovo. Foi
+uma época muito feliz.
 
-Em São Paulo eu também conheci o Garoa Hacker Clube, onde conheci pessoas e
-projetos incríveis. E foi ali que eu tive a ideia, junto com outras amigas, de
-fundar o MariaLab, primeiro hackerspace feminista do Brasil.
+Em São Paulo eu também conheci o [Garoa Hacker Clube][garoa], onde conheci
+pessoas e projetos incríveis. E foi ali que eu tive a ideia, junto com outras
+amigas, de fundar o MariaLab, primeiro hackerspace feminista do Brasil.
 
 Os últimos anos em SP foram uma mistura de criar a minha pequena empresa de
-desenvolvimento, onde o primeiro projeto foi o Chega de Fiu Fiu, participar de
-hackathons e montar o MariaLab. Resumidamente, claro.
+desenvolvimento, onde o primeiro projeto foi o [Chega de Fiu Fiu][fiufiu],
+participar de hackathons e montar o MariaLab. Resumidamente, claro.
 
 É, eu sou uma pessoa bem doida. Eu sei.
 
@@ -108,19 +109,25 @@ hackathons e montar o MariaLab. Resumidamente, claro.
 [medium]: https://medium.com/@sayhellotovanessa/working-165f6727c6d0
 [lagom]: http://lagom.rocks/
 [crt]: https://en.wikipedia.org/wiki/CRT
+[fisl]: http://fisl.softwarelivre.org
 [iptables]: https://pt.wikipedia.org/wiki/Iptables
+[itil]: https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library
+[livead]: http://livead.com.br/pt-br
+[garoa]: https://garoa.net.br/wiki/P%C3%A1gina_principal
+[fiufiu]: http://chegadefiufiu.com.br/
 
 
 ## Qual hardware você usa?
 
 Meu notebook atual está bem velho, e eu estou há 6 meses analisando qual o
-próximo comprar. Demoro muito para decidir meus gagdets. Ele é um Lenovo U310,
-já fora de linha, com modestos 4GB de RAM e um processador Intel Core i5. Uso um
-mouse da Logitech sem fio, M280, e também estou experimentando uma pen touch da
-Bamboo. Eu gosto de trabalhar com duas telas, uso um monitor genérico da Samsung
-no trabalho, e um [Dell 2212HM][monitor-dell] em casa, emprestado do
-[Paulo][paulo], meu vizinho que também é desenvolvedor. Bem provável que eu vá
-comprar um monitor da mesma linha em breve.
+próximo comprar. Demoro muito para decidir meus gagdets. Ele é um
+[Lenovo U310][notebook], já fora de linha, com modestos 4GB de RAM e um
+processador Intel Core i5. Uso um mouse da [Logitech sem fio M280][mouse], e
+também estou experimentando uma pen touch da Bamboo. Eu gosto de trabalhar com
+duas telas, uso um monitor genérico da Samsung no trabalho, e um
+[Dell 2212HM][monitor] em casa, emprestado do [Paulo][paulo], meu vizinho que
+também é desenvolvedor. Bem provável que eu vá comprar um monitor da mesma linha
+em breve.
 
 Minha última aquisição foi um smartphone da Samsung, o [Galaxy S6 Edge][galaxy],
 que eu demorei cerca de um ano para decidir comprar - sim, eu realmente demoro
@@ -144,7 +151,9 @@ marmiteira e rata de biblioteca. Ou seja, a mochila tem que ser resistente,
 bonita e funcional. Optei por investir em uma [Sandqvist][sandqvist], que cumpre
 minhas exigências e é uma marca local.
 
-[monitor-dell]: http://www.dell.com/ed/business/p/dell-u2212h/pd
+[notebook]: http://shop.lenovo.com/us/en/laptops/ideapad/u-series/u310/
+[mouse]: http://www.logitech.com/pt-br/product/wireless-mouse-m280
+[monitor]: http://www.dell.com/ed/business/p/dell-u2212h/pd
 [paulo]: https://github.com/pirelenito
 [galaxy]: http://www.samsung.com/br/consumer/mobile-devices/smartphones/galaxy-s/SM-G928GZKAZTO
 [galaxy-beam]: http://www.samsung.com/uk/consumer/mobile-devices/smartphones/others/GT-I8530BAABTU
@@ -228,14 +237,14 @@ em grupo.
 ## O que te motiva a fazer o que faz?
 
 Quando eu era criança e sonhava em ser jornalista e a única razão por trás do
-sonho era que eu acreditava que essa profissão me possibilitaria conhecer outras
-profissões e realidades por toda a minha vida. E que eu poderia ajudar o mundo
-levando a informação às pessoas. No fim, trabalhar com TI se provou um caminho
-que me leva ao mesmo resultado. Dentro da área eu já tive a oportunidade de
-trabalhar para organizações de Direitos Humanos, como o [CFEMEA][cfemea]; fazer
-projetos incríveis para marcas como [Lenovo][lenovo] e [Nike][nike]; entender
-como funcionam as compras públicas do governo, enquanto participei de um
-[hackathon da W3C][hackathon]; aprender como os dentistas analisam as nossas
+sonho era que eu acreditava que essa profissão me possibilitaria __conhecer
+outras profissões e realidades por toda a minha vida__. E que eu poderia ajudar
+o mundo levando a informação às pessoas. No fim, trabalhar com TI se provou um
+caminho que me leva ao mesmo resultado. Dentro da área eu já tive a oportunidade
+de trabalhar para organizações de Direitos Humanos, como o [CFEMEA][cfemea];
+fazer projetos incríveis para marcas como [Lenovo][lenovo] e [Nike][nike];
+entender como funcionam as compras públicas do governo, enquanto participei de
+um [hackathon da W3C][hackathon]; aprender como os dentistas analisam as nossas
 arcadas dentárias, quando eu trabalhei com desenvolvimento de objetos de
 aprendizagem no [NAPEAD][napead]; colaborar com projetos como o
 [Mapa Chega de Fiu Fiu][fiufiu]; etc. Não importa em qual empresa eu esteja ou o
