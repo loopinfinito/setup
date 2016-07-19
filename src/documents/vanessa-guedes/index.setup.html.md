@@ -6,7 +6,15 @@ first_name: vanessa guedes
 last_name:
 image: vanessa-guedes.jpg
 keywords: >
-  vanessa guedes
+  vanessa guedes, weavler, marialab, estadao, medium, lagom, crt, fisl,
+  iptables, itil, livead, garoa hacker club, chega de fiufiu, Lenovo U310,
+  Logitech M280, Dell 2212HM, Galaxy S6 Edge, galaxy beam, Philips SHL3000,
+  sandqvist, gnu, linux, fedora, debian, ubuntu, elementary, firefox, firefox
+  dev, chromium, chrome, spotify linux, sublime text, git, google drive, duck
+  duck go, thunderbird, riseup, gmail, feedly, pocket, evernote, dropbox, tink,
+  Leuchtturm1917, bullet journal, google calendar, trello, asana, run run it,
+  redmine, CFEMEA, lenovo, nike, hackathon w3c, napead, nietzsche, wattpad, zine
+  regador
 positions:
   - do: desenvolvedora front-end
     at: weavler
