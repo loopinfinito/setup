@@ -1,7 +1,7 @@
 ---
 layout: guest
 number: '27'
-published_date: 14/07/2016
+published_date: 19/07/2016
 first_name: vanessa guedes
 last_name:
 image: vanessa-guedes.jpg
@@ -14,10 +14,10 @@ keywords: >
   duck go, thunderbird, riseup, gmail, feedly, pocket, evernote, dropbox, tink,
   Leuchtturm1917, bullet journal, google calendar, trello, asana, run run it,
   redmine, CFEMEA, lenovo, nike, hackathon w3c, napead, nietzsche, wattpad, zine
-  regador
+  regador, techmission, trace sistemas
 positions:
   - do: desenvolvedora front-end
-    at: weavler
+    at: britny
   - do: estocolmo
 links:
   - text: @nessoila
@@ -33,11 +33,10 @@ links:
 
 Eu tenho 26 anos, nasci em Porto Alegre e morei por quase cinco anos em São
 Paulo. Hoje eu moro em Estocolmo, na Suécia, onde eu trabalho como front-end na
-[Weavler][weavler], uma startup focada em prover um marketplace para artesãos e
-designers com necessidades especiais. Sou fundadora do [MariaLab][marialab],
-escrevo sobre o mercado de tecnologia para o [Estadão][estadao], às vezes
-escrevo em inglês no [Medium][medium], e outras vezes em português sobre como é
-ser imigrante no [Lagom][lagom].
+[Britny][britny]. Sou fundadora do [MariaLab][marialab], escrevo sobre o mercado
+de tecnologia para o [Estadão][estadao], às vezes escrevo em inglês no
+[Medium][medium], e outras vezes em português sobre como é ser imigrante no
+[Lagom][lagom].
 
 Por formação, eu sou Técnica em Redes de Computadores, mas trabalhei pouco na
 área de infraestrutura. Cursei longos 3 anos da faculdade de Licenciatura em
@@ -79,14 +78,14 @@ roteadores no alto das paredes. Nessa época fui pela primeira vez ao
 era software livre. Foi amor à primeira vista, claro. Meu trabalho de conclusão
 do técnico em redes acabou sendo sobre [iptables][iptables]. Depois disso, fui
 trabalhar com administração de redes Linux, como estagiária, em uma empresa de
-desenvolvimento de software de gestão de projetos, a Trace Sistemas. Por algum
-motivo obscuro, eles trocaram a minha posição com a de uma outra nova estagiária
-na época, que iria trabalhar na área de teste e help desk, e nós fomos para os
-setores errados. Eu saquei bem rápido a confusão, mas demorei uma semana para
-alertar o gerente. E aí já era tarde demais. Eu tinha descoberto um pedacinho do
-mundo do desenvolvimento e pedi para ficar onde eu estava. Foi na Trace que eu
-descobri outra paixão também: o gerenciamento de projetos. Uma das minhas
-atividades por lá era setar o workflow do sistema nos projetos de alguns
+desenvolvimento de software de gestão de projetos, a [Trace Sistemas][trace].
+Por algum motivo obscuro, eles trocaram a minha posição com a de uma outra nova
+estagiária na época, que iria trabalhar na área de teste e help desk, e nós
+fomos para os setores errados. Eu saquei bem rápido a confusão, mas demorei uma
+semana para alertar o gerente. E aí já era tarde demais. Eu tinha descoberto um
+pedacinho do mundo do desenvolvimento e pedi para ficar onde eu estava. Foi na
+Trace que eu descobri outra paixão também: o gerenciamento de projetos. Uma das
+minhas atividades por lá era setar o workflow do sistema nos projetos de alguns
 clientes, então acabei lendo muita coisa sobre [ITIL][itil] antes de começar a
 desenvolver de fato. Depois de lá eu trabalhei desenvolvendo objetos de
 aprendizagem para cursos de graduação à distância na UFRGS (onde eu estava
@@ -98,8 +97,8 @@ de projetos de dia, programadora freelancer de noite e instrutora de curso de
 programação no final de semana. Consertei muito PHP de projetos obsoletos e
 aprendi muito sobre administrar meu próprio tempo. Depois trabalhei como
 Community Manager na [LiveAd][livead], onde eu produzia conteúdo referente à
-tecnologia, podia testar coisas e criar projetos como o Techmission Lenovo. Foi
-uma época muito feliz.
+tecnologia, podia testar coisas e criar projetos como o
+[Techmission Lenovo][techmission]. Foi uma época muito feliz.
 
 Em São Paulo eu também conheci o [Garoa Hacker Clube][garoa], onde conheci
 pessoas e projetos incríveis. E foi ali que eu tive a ideia, junto com outras
@@ -111,16 +110,18 @@ participar de hackathons e montar o MariaLab. Resumidamente, claro.
 
 É, eu sou uma pessoa bem doida. Eu sei.
 
-[weavler]: https://weavler.it/
+[britny]: http://britny.se/
 [marialab]: http://marialab.org/
 [estadao]: http://link.estadao.com.br/blogs/faca-voce-mesma/
 [medium]: https://medium.com/@sayhellotovanessa/working-165f6727c6d0
 [lagom]: http://lagom.rocks/
-[crt]: https://en.wikipedia.org/wiki/CRT
+[crt]: https://pt.wikipedia.org/wiki/Companhia_Riograndense_de_Telecomunica%C3%A7%C3%B5es
 [fisl]: http://fisl.softwarelivre.org
 [iptables]: https://pt.wikipedia.org/wiki/Iptables
+[trace]: http://www.tracegp.com.br/
 [itil]: https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library
 [livead]: http://livead.com.br/pt-br
+[techmission]: https://vimeo.com/61047298
 [garoa]: https://garoa.net.br/wiki/P%C3%A1gina_principal
 [fiufiu]: http://chegadefiufiu.com.br/
 
