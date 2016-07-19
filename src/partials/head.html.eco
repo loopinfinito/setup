@@ -1,5 +1,10 @@
 <% keywords = "setup, entrevista, programadores, designers, workflow, ferramentas, dicas, pessoas, profissional, trabalho, web, empreendedores, freelancers" %>
 <% if @document.keywords then keywords = "#{@document.keywords.replace('\n', '')}, #{keywords}" %>
+<% guests = @getCollection 'html' %>
+<% guests.comparator = (page) -> parseInt page.get 'number' %>
+<% guests = guests.sort().filter((page) -> page.get 'number').reverse() %>
+<% guest_image = guests[0].toJSON().image %>
+<% if @document.image then guest_image = @document.image %>
 
 <head>
   <meta charset="UTF-8" />
@@ -15,8 +20,8 @@
   <meta name="distribution" content="Local" />
   <meta name="resource-type" content="document" />
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta property="og:image" content="http://setup.loopinfinito.com.br/images/guests/<%= guest_image %>" />
 
-  <%- @getBlock('meta').toHTML() %>
   <%- @getBlock('styles').add(['/styles/main.css']).toHTML() %>
 
   <script>
