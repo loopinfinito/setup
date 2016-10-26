@@ -8,8 +8,8 @@ image: fabio-akita.jpg
 keywords: >
   fabio akita
 positions:
-  - do: CTO
-    at: Codeminer 42
+  - do: cto
+    at: codeminer 42
   - do: são paulo
 links:
   - text: akitaonrails.com
@@ -101,6 +101,14 @@ desenvolvedor de software. Acredito que é o melhor custo benefício no Brasil
 hoje. Infelizmente o hardware da Dell é terrível em seu acabamento, o teclado é
 extremamente ruim (pra mim exige um teclado externo), o trackpad é inusável,
 Ubuntu não suporta multi-touch decentemente até hoje. Então "dá pra usar".
+
+<figure class="image-fit">
+  <img src="/images/content/fabio-akita-workspace.jpg"
+       alt="Workspace de Fabio Akita." />
+  <figcaption class="caption-bottom">
+    Workspace de Fabio Akita.
+  </figcaption>
+</figure>
 
 O ecossistema da Apple tem todos os problemas "morais" de um
 "[walled garden][walled-garden]", mas eu realmente não me incomodo com isso. Até
