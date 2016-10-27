@@ -283,7 +283,7 @@ discursos bonitos e vazios sobre “excelência” sem nunca fazer nem uma linha
 código. Prática, prática e prática, é o que leva à excelência e é isso que eu,
 minha empresa e meus desenvolvedores sempre vamos continuar buscando.
 
-Estou anos luz de distância de uma Apple ou Google, mas dento do nosso pequeno
+Estou anos luz de distância de uma Apple ou Google, mas dentro do nosso pequeno
 universo, acho que o que eu faço por mim mesmo, pelos meus próprios interesses
 de evoluir eu mesmo ao mesmo tempo ajudou outras pessoas pelo caminho, e isso é
 o que devemos buscar: cada um buscar sua própria evolução e, como consequência,
