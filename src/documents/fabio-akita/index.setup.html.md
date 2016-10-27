@@ -11,8 +11,8 @@ keywords: >
   inspirion, cinnamon, unity, unix, macbook pro, daskeyboard, magic trackpad,
   headphones, macos, icloud, gsuite, office, libre office, impress, word, excel,
   keynote, imovie, photoshop, illustrator, gimp, inkscape, homebrew, ubuntu,
-  vagrant, vmware, mac vim, yadr, zsh, git, github, rvm, bundler, rake, slack,
-  heroku, code climate, travis ci
+  vagrant, vmware, mac vim, yadr, zsh, git, github, rvm, bundler, rake,
+  mattermost, heroku, code climate, gitlab ci
 positions:
   - do: cto
     at: codeminer 42
@@ -52,7 +52,7 @@ indústria e o potencial papel que o Rails poderia ter nisso, investi todo meu
 tempo nisso. Mudei de emprego, procurei empresas onde eu pudesse exercitar Ruby.
 Entrei na onda dos "blogueiros" e comecei a postar sobre Rails e as tendências
 da próxima década. Com sorte, encontrei a [Locaweb][locaweb] e firmamos uma
-parceria que dura até hoje, onde já realizamos 8 conferências
+parceria que dura até hoje, onde já realizamos 9 conferências
 [Rubyconf Brasil][rubyconf] de muito sucesso, nos tornando referência.
 
 Durante esse período eu entendi que software e técnicas resolvem metade do
@@ -130,11 +130,11 @@ produtivo somente com um monitor mesmo. Gosto de usar meu
 altura dos meus olhos. Eu gosto do teclado externo da Apple, mas por nostalgia
 escolhi o excepcional [dasKeyboard][daskeyboard] sem teclado numérico, e embaixo
 dele posiciono o Apple [Magic Trackpad][magic-trackpad] 2 que é o melhor que
-existe. Não sou particularmente refinado para música, mas para garantir o mínimo
-de conforto sem prejudicar minha audição (fones in-ear não devem ser usados o
-dia todo!) eu uso um simples headphone JBL, um dos mais baratos provavelmente
-similar ao [T300A][headphones] que tem bass suficiente, isolamento do som
-ambiente suficiente.
+existe. Eu não gosto de ser interrompido enquanto trabalho. Para garantir
+conforto e concentração sem prejudicar minha audição (fones in-ear não devem ser
+usados o dia todo!) resolvi investir num excelente headset
+[Bose QuietComfort 35][bose] wireless. O principal: active noise cancelling!
+Toda a mobilidade, conforto e concentração que eu preciso para trabalhar.
 
 
 [dell-inspirion]: https://en.wikipedia.org/wiki/Dell_Inspiron
@@ -145,7 +145,7 @@ ambiente suficiente.
 [macbook-pro]: http://www.apple.com/macbook-pro/
 [daskeyboard]: http://www.daskeyboard.com
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad
-[headphones]: http://www.jbl.com.br/headphones/over-ear/t300a_210962?skuId=28992138
+[bose]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html
 
 
 ## Qual software você usa?
@@ -176,11 +176,10 @@ não chegam no mesmo patamar. E isso eu digo depois de anos de tentativas.
 
 Para desenvolver software, eu uso uma combinação de [Homebrew][brew] no macOS
 para instalar algumas ferramentas, mas eu prefiro não poluir demais porque isso
-dificulta atualização de OS no futuro, então o grosso ainda fica dentro de uma
-máquina virtual VMWare com [Ubuntu][ubuntu] 14.04 (o mais estável e melhor
-suportado, pelo menos até o recém lançado LTS ganhe mais suporte) orientado via
-[Vagrant][vagrant]. [VMWare][vmware] é extremamente superior a Virtualbox e eu
-não usaria outro.
+dificulta atualização de OS no futuro, então o grosso ainda fica  dentro de uma
+máquina virtual VMWare com [Ubuntu 16.04][ubuntu] (eu sempre uso somente os LTS)
+orientado via [Vagrant][vagrant]. [VMWare][vmware] é extremamente superior a
+Virtualbox e eu não usaria outro.
 
 Como editor eu prefiro a combinação do [MacVim][mac-vim] (não Vim no terminal
 como muitos preferem, porque eu gosto da conveniência) com o melhor conjunto de
@@ -198,11 +197,14 @@ perco muito tempo criando pequenos scripts pra automatizar coisas triviais.
 Coisas triviais eu recorro ao history do shell, autocomplete do Zsh e pronto.
 Deployment em servidor sempre uso [Heroku][heroku], então "git push heroku
 master" é tudo que preciso para subir projetos em produção. Só de subir o código
-para o Github já ativa o [CodeClimate][codeclimate] e o [Travis-CI][travis] para
-análise estática de código e integração contínua, respectivamente.
+para nosso Gitlab interno tenho o [Gitlab][gitlab] CI configurado para rodar
+builds das suítes de testes de cada projeto e integração com
+[CodeClimate][codeclimate] para garantir a mínima qualidade do código.
 
-No dia a dia eu e minha equipe estamos sempre online pelo [Slack][slack]. No
-geral isso resume meu ambiente principal.
+No dia a dia eu e minha equipe estamos sempre online pelo
+[Mattermost][mattermost]. Toda minha infraestrutura fica na
+[DigitalOcean][digitalocean]. No geral isso resume meu ambiente principal.
+
 
 
 [mac-os]: http://www.apple.com/macos/
@@ -220,7 +222,7 @@ geral isso resume meu ambiente principal.
 [gimp]: https://www.gimp.org/
 [inkscape]: https://inkscape.org/
 [brew]: http://brew.sh/
-[ubuntu]: https://www.ubuntu.com/
+[ubuntu]: http://www.akitaonrails.com/2016/09/21/ubuntu-16-04-lts-xenial-on-vagrant-on-vmware-fusion
 [vagrant]: https://www.vagrantup.com/
 [vmware]: http://www.vmware.com/
 [mac-vim]: http://macvim-dev.github.io/macvim/
@@ -231,10 +233,10 @@ geral isso resume meu ambiente principal.
 [rvm]: https://rvm.io/
 [bundler]: http://bundler.io/
 [rake]: http://rake.rubyforge.org/
-[slack]: https://slack.com/
+[mattermost]: http://www.akitaonrails.com/2016/08/13/choosing-mattermost-over-rocket-chat-and-slack
 [heroku]: https://www.heroku.com
 [codeclimate]: https://codeclimate.com
-[travis]: https://travis-ci.com
+[gitlab]: http://www.akitaonrails.com/2016/08/03/moving-to-gitlab-yes-it-s-worth-it
 
 
 ## O que te motiva a fazer o que faz?
