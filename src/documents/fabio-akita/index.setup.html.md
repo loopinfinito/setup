@@ -1,12 +1,18 @@
 ---
 layout: guest
 number: '28'
-published_date: 25/10/2016
+published_date: 27/10/2016
 first_name: fabio akita
 last_name:
 image: fabio-akita.jpg
 keywords: >
-  fabio akita
+  fabio akita, basic, dbase, clipper, foxpro, pascal, turbo pascal, delphi, sap,
+  ruby, ruby on rails, locaweb, rubyconf, palestras, elixir, crystal, blog, dell
+  inspirion, cinnamon, unity, unix, macbook pro, daskeyboard, magic trackpad,
+  headphones, macos, icloud, gsuite, office, libre office, impress, word, excel,
+  keynote, imovie, photoshop, illustrator, gimp, inkscape, homebrew, ubuntu,
+  vagrant, vmware, mac vim, yadr, zsh, git, github, rvm, bundler, rake, slack,
+  heroku, code climate, travis ci
 positions:
   - do: cto
     at: codeminer 42
