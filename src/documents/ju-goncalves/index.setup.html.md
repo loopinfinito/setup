@@ -57,7 +57,7 @@ mundo inteiro.
 [286]: http://vignette4.wikia.nocookie.net/uncyclopedia/images/3/31/286.jpg
 [dos]: https://en.wikipedia.org/wiki/DOS
 [cm42]: http://www.codeminer42.com/
-[eventick]: http://www.codeminer42.com/
+[eventick]: https://www.eventick.com.br/
 [podio]: https://podio.com/
 [trello]: http://trello.com/
 
