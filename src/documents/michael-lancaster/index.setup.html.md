@@ -1,12 +1,22 @@
 ---
 layout: guest
 number: '29'
-published_date: 22/02/2017
+published_date: 24/02/2017
 first_name: michael lancaster
 last_name:
 image: michael-lancaster.jpg
 keywords: >
-  michael lancaster
+  michael lancaster, leo burnett, orbitz, isobar, uptake, mesosphere, linux,
+  universiade hacker, orkut, pivot, africa, idtbwa, lewlara, yr, dbr, foundation
+  framework, soundnode, soundcloud, solshal, macbook pro, macbook air, mstand,
+  iphone 7, ogio, appletv, google home, macbook pro retina, apple thunderbolt
+  display, apple magic keyboard, logitech mouse, beats solo, bike, slack,
+  whatsapp, facebook messenger, gmail, webstorm, intellij, vs code, iterm 2,
+  zsh, oh-my-zsh, base16-shell, vim, git, homebrew, mongodb, redis, docker, aws,
+  github, google chrome, firefox, safari, internet explorer, virtualbox, nginx,
+  nodejs, aws ec2, aws s3, jwt, react, redux, react-router, eslint, webpack,
+  gulp, bcrypt, f-lux, evernote, spotify, trello, mint, wunderlist, google
+  photos, dropbox, iot, jiu-jitsu
 positions:
   - do: software engineer
     at: uptake
@@ -127,7 +137,14 @@ adoro minha desk porque posso calibrar a altura (sentado ou em pé) onde procuro
 trabalhar em pé depois do almoço, também uso a bola de yoga para ajudar
 fortalecer meu core (existe a [maneira correta de sentar][sentar-video]).
 
-[foto desk do trabalho]
+<figure class="image-fit">
+  <img
+    src="/images/content/michael-lancaster-workspace.jpg"
+    alt="Workspace de Michael Lancaster" />
+  <figcaption class="caption-bottom">
+    Workspace de Michael Lancaster.
+  </figcaption>
+</figure>
 
 Quando o clima ajuda vou e volto de bicicleta para o trabalho (faz muito frio
 aqui em Chicago na maior parte do ano), tenho uma
